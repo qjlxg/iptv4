@@ -123,14 +123,31 @@ def generate_txt_file(valid_streams, output_txt_filename, template_order):
         txtfile.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')},https://vd2.bdstatic.com/mda-phje20fz4z8h126t/720p/h264/1692525385713349507/mda-phje20fz4z8h126t.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1692536679-0-0-384af0ac122eee8fab76c327a47308c4&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0279906713&vid=4268605015135290173&klogid=0279906713&abtest=111803_1-112162_2-112345_1\n")
         txtfile.write(f"vip客服:88164962,https://vd2.bdstatic.com/mda-phje20fz4z8h126t/720p/h264/1692525385713349507/mda-phje20fz4z8h126t.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1692536679-0-0-384af0ac122eee8fab76c327a47308c4&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0279906713&vid=4268605015135290173&klogid=0279906713&abtest=111803_1-112162_2-112345_1\n")
 
-# 将有效直播源写入新的CSV文件，按照模板顺序
+# 将有效直播源写入新的CSV文件，按照模板顺序一级排序，并且对相同tvg-name的直播源按速度二级排序
 def write_valid_streams_to_csv(valid_streams, output_csv_filename, template_order):
-    fieldnames = ['tvg-name', 'tvg-id', 'tvg-logo', 'group-title', 'link', 'speed']
+    # 创建一个字典用于存储每个tvg-name对应的所有直播源
+    sorted_streams = {}
+    
+    # 将valid_streams按照tvg-name进行分组
+    for stream in valid_streams:
+        tvg_name = stream['tvg-name']
+        if tvg_name not in sorted_streams:
+            sorted_streams[tvg_name] = []
+        sorted_streams[tvg_name].append(stream)
+    
+    # 依次按照模板顺序将每组tvg-name的直播源排序并写入CSV文件
     with open(output_csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['tvg-name', 'tvg-id', 'tvg-logo', 'group-title', 'link', 'speed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        for stream in valid_streams:
-            writer.writerow(stream)
+        
+        for tvg_name in template_order:
+            if tvg_name in sorted_streams:
+                streams = sorted_streams[tvg_name]
+                # 对相同tvg-name的直播源按速度进行排序
+                streams.sort(key=lambda x: x['speed'])
+                for stream in streams:
+                    writer.writerow(stream)
 
 # 验证直播源并生成文件
 async def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, output_csv_filename, template_filename):
