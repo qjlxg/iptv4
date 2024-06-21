@@ -123,15 +123,6 @@ def generate_txt_file(valid_streams, output_txt_filename, template_order):
         txtfile.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')},https://vd2.bdstatic.com/mda-phje20fz4z8h126t/720p/h264/1692525385713349507/mda-phje20fz4z8h126t.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1692536679-0-0-384af0ac122eee8fab76c327a47308c4&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0279906713&vid=4268605015135290173&klogid=0279906713&abtest=111803_1-112162_2-112345_1\n")
         txtfile.write(f"vip客服:88164962,https://vd2.bdstatic.com/mda-phje20fz4z8h126t/720p/h264/1692525385713349507/mda-phje20fz4z8h126t.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1692536679-0-0-384af0ac122eee8fab76c327a47308c4&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0279906713&vid=4268605015135290173&klogid=0279906713&abtest=111803_1-112162_2-112345_1\n")
 
-# 将有效直播源写入新的CSV文件，按照模板顺序
-def write_valid_streams_to_csv(valid_streams, output_csv_filename, template_order):
-    fieldnames = ['tvg-name', 'tvg-id', 'tvg-logo', 'group-title', 'link', 'speed']
-    with open(output_csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for stream in valid_streams:
-            writer.writerow(stream)
-
 # 验证直播源并生成文件
 async def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, output_csv_filename, template_filename):
     global progress_bar

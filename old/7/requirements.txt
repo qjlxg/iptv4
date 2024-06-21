@@ -1,0 +1,11 @@
+opencv-python
+tqdm
+requests
+aiohttp
+httpx
+asyncio
+ffmpeg
+ffmpeg-python
+opencv-python-headless
+aiostream
+aiodns
