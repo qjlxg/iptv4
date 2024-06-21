@@ -1,73 +1,26 @@
+import cv2
 import csv
 import asyncio
-from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 from datetime import datetime
-import aiohttp
-import cv2
-import logging
-import os
-import sys
-import contextlib
-
-# 禁用 OpenCV 日志输出
-@contextlib.contextmanager
-def suppress_opencv_logs():
-    with open(os.devnull, 'w') as fnull:
-        old_stdout = sys.stdout
-        old_stderr = sys.stderr
-        sys.stdout = fnull
-        sys.stderr = fnull
-        try:
-            yield
-        finally:
-            sys.stdout = old_stdout
-            sys.stderr = old_stderr
 
 # CSV文件名和输出文件名
 csv_filename = 'live_streams.csv'
 output_m3u_filename = 'iptv4.m3u'
 output_txt_filename = 'iptv4.txt'
+moban_filename = 'moban.txt'
 
-# 创建一个全局的tqdm实例
-progress_bar = None
-
-# 异步测试直播源链接可用性
-async def test_stream(session, stream):
-    global progress_bar
+# 同步测试直播源链接可用性
+def test_stream_availability(stream):
     try:
-        # 先进行简单的联通性测试，比如HTTP请求
-        async with session.head(stream['link'], timeout=10) as response:
-            if response.status == 200:
-                # 如果能够联通，再进行深入的有效性和速度测试
-                return await test_stream_availability(stream)
-    except Exception:
-        pass
-    finally:
-        # 更新进度条
-        progress_bar.update(1)
+        cap = cv2.VideoCapture(stream['link'])
+        if cap.isOpened():
+            ret, _ = cap.read()
+            cap.release()
+            return {'stream': stream, 'available': ret}
         return {'stream': stream, 'available': False}
-
-# 异步测试直播源有效性和速度
-async def test_stream_availability(stream):
-    global progress_bar
-    loop = asyncio.get_event_loop()
-    try:
-        with suppress_opencv_logs():
-            with ThreadPoolExecutor() as pool:
-                cap = await loop.run_in_executor(pool, lambda: cv2.VideoCapture(stream['link']))
-                if cap.isOpened():
-                    ret, _ = await loop.run_in_executor(pool, cap.read)
-                    await loop.run_in_executor(pool, cap.release)
-                    # 更新进度条
-                    progress_bar.update(1)
-                    return {'stream': stream, 'available': ret}
-                # 更新进度条
-                progress_bar.update(1)
-                return {'stream': stream, 'available': False}
-    except Exception:
-        # 更新进度条
-        progress_bar.update(1)
+    except Exception as e:
+        print(f"Exception while testing stream {stream['link']}: {str(e)}")
         return {'stream': stream, 'available': False}
 
 # 读取csv文件
@@ -112,24 +65,16 @@ def generate_txt_file(valid_streams, output_txt_filename):
         txtfile.write(f"vip客服:88164962,https://vd2.bdstatic.com/mda-phje20fz4z8h126t/720p/h264/1692525385713349507/mda-phje20fz4z8h126t.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1692536679-0-0-384af0ac122eee8fab76c327a47308c4&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0279906713&vid=4268605015135290173&klogid=0279906713&abtest=111803_1-112162_2-112345_1\n")
 
 # 验证直播源并生成文件
-async def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename):
-    global progress_bar
+async def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, moban_filename):
     valid_streams = []
     streams = read_csv(csv_filename)
     
-    # 创建tqdm实例并设置总长度
-    progress_bar = tqdm(total=len(streams), desc="Validating streams")
-    
-    async with aiohttp.ClientSession() as session:
-        tasks = [test_stream(session, stream) for stream in streams]
-        results = await asyncio.gather(*tasks)
-    
-    for result in results:
+    for stream in tqdm(streams, desc="Validating streams"):
+        result = test_stream_availability(stream)
         if result['available']:
             valid_streams.append(result['stream'])
-    
-    # 关闭进度条
-    progress_bar.close()
+        else:
+            print(f"直播源 {result['stream']['link']} 不可用，将被忽略。")
     
     # 生成新的m3u文件，保留每个tvg-name速度最快的直播源
     generate_m3u_file(valid_streams, output_m3u_filename)
@@ -141,4 +86,4 @@ async def validate_and_generate_files(csv_filename, output_m3u_filename, output_
 
 # 主程序入口
 if __name__ == "__main__":
-    asyncio.run(validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename))
+    asyncio.run(validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, moban_filename))
