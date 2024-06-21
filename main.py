@@ -8,6 +8,9 @@ from tqdm import tqdm
 m3u_urls = [
     'https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u',    
     'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u',
+    'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
+    'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u',
+    'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     'https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u'
 ]
 
@@ -43,7 +46,7 @@ def process_playlist(m3u_url):
                     continue
 
                 # 修改 group-title 标签
-                if group_title in ['内蒙频道', '浙江频道', '上海频道', '地方']:
+                if group_title in ['内蒙频道', '浙江频道', '上海频道', '地方','广东频道']:
                     group_title = '地方频道'
                 elif group_title == 'NewTv':
                     group_title = '数字频道'
@@ -53,7 +56,13 @@ def process_playlist(m3u_url):
                     group_title = '数字频道'
                 elif group_title == '央视':
                     group_title = '央视频道'
-
+                elif group_title == 'NewTV频道':
+                    group_title = '数字频道'                    
+                elif group_title == '动画频道':
+                    group_title = '少儿频道' 
+                elif group_title == '港澳台频道':
+                    group_title = '港·澳·台'
+                  
                 # 修改 tvg-name 标签
                 tvg_name = re.sub(r'newtv', 'NewTv', tvg_name, flags=re.IGNORECASE)
                 if tvg_name == 'CCTV5PLUS':

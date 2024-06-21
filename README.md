@@ -6,12 +6,12 @@
 
 
 ```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv6/master/iptv6.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv4/master/iptv4.txt
 ```
 
 
 
 ```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv6/master/iptv6.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv4/master/iptv4.m3u
 ```
 
