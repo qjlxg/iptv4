@@ -7,6 +7,8 @@ on:
         description: 'Manually trigger the workflow'  # 输入项描述
         default: 'false'  # 默认值为 false，表示默认不触发
         required: false  # 非必填项
+  schedule:  # 定时触发配置
+    - cron: '0 0 * * *'  # 每天0点触发，使用 UTC 时间
 
 jobs:
   generate-and-commit:
