@@ -3,3 +3,5 @@ tqdm
 requests
 aiohttp
 httpx
+asyncio
+ffmpeg

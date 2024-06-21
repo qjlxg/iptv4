@@ -5,11 +5,13 @@ from tqdm import tqdm
 from datetime import datetime
 import concurrent.futures
 
+# CSV文件名和输出文件名
 csv_filename = 'live_streams.csv'
 output_m3u_filename = 'iptv4.m3u'
 output_txt_filename = 'iptv4.txt'
 moban_filename = 'moban.txt'
 
+# 验证直播源的可用性
 def test_stream_availability(stream_link):
     try:
         cap = cv2.VideoCapture(stream_link)
@@ -17,11 +19,13 @@ def test_stream_availability(stream_link):
             ret, _ = cap.read()
             cap.release()
             return ret
-        return False
+        else:
+            return False
     except Exception as e:
         print(f"Exception while testing stream {stream_link}: {str(e)}")
         return False
 
+# 测试直播源链接速度
 def test_stream_speed(stream_link):
     try:
         start_time = datetime.now()
@@ -30,15 +34,18 @@ def test_stream_speed(stream_link):
             end_time = datetime.now()
             duration = (end_time - start_time).total_seconds()
             return duration
-        return float('inf')
+        else:
+            return float('inf')
     except Exception as e:
         print(f"Exception while testing speed for stream {stream_link}: {str(e)}")
         return float('inf')
 
+# 读取moban.txt文件中的频道名称
 def read_moban_file(moban_filename):
     with open(moban_filename, 'r', encoding='utf-8') as file:
         return [line.strip() for line in file]
 
+# 读取csv文件并去重
 def read_and_deduplicate_csv(csv_filename):
     unique_streams = {}
     with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
@@ -49,37 +56,50 @@ def read_and_deduplicate_csv(csv_filename):
                 unique_streams[link] = row
     return list(unique_streams.values())
 
+# 验证live_streams.csv中直播源的有效性，并生成新的m3u和txt文件
 def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, moban_filename):
     valid_streams = []
     channel_order = read_moban_file(moban_filename)
     unique_streams = read_and_deduplicate_csv(csv_filename)
     
-    with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
-        futures = {executor.submit(test_stream_availability, row['link']): row for row in unique_streams}
-        for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc="Validating streams"):
-            row = futures[future]
-            try:
-                if future.result():
-                    valid_streams.append(row)
-                else:
-                    print(f"直播源 {row['link']} 不可用，将被忽略。")
-            except Exception as e:
-                print(f"直播源 {row['link']} 检测时出现异常：{e}")
-
-    valid_streams = [stream for stream in valid_streams if stream['tvg-name'] and stream['link']]
+    def validate_stream(row):
+        try:
+            if test_stream_availability(row['link']):
+                return row
+            else:
+                print(f"直播源 {row['link']} 不可用，将被忽略。")
+                return None
+        except Exception as e:
+            print(f"直播源 {row['link']} 检测时出现异常：{e}")
+            return None
     
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        speed_futures = {executor.submit(test_stream_speed, stream['link']): stream for stream in valid_streams}
-        for future in tqdm(concurrent.futures.as_completed(speed_futures), total=len(speed_futures), desc="Testing stream speeds"):
-            stream = speed_futures[future]
-            try:
-                stream['speed'] = future.result()
-            except Exception as e:
-                stream['speed'] = float('inf')
-                print(f"直播源 {stream['link']} 测速时出现异常：{e}")
+    # 使用ThreadPoolExecutor进行并行验证
+    with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+        futures = [executor.submit(validate_stream, row) for row in unique_streams]
+        for future in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc="Validating streams"):
+            result = future.result()
+            if result:
+                valid_streams.append(result)
+    
+    # 去掉没有tvg-name或link字段的直播源
+    valid_streams = [stream for stream in valid_streams if stream.get('tvg-name') and stream.get('link')]
+    
+    def test_speed(stream):
+        try:
+            stream['speed'] = test_stream_speed(stream['link'])
+        except Exception as e:
+            stream['speed'] = float('inf')
+            print(f"直播源 {stream['link']} 测速时出现异常：{e}")
+        return stream
+    
+    # 使用ThreadPoolExecutor进行并行速度测试
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+        valid_streams = list(tqdm(executor.map(test_speed, valid_streams), total=len(valid_streams), desc="Testing stream speeds"))
 
+    # 按moban.txt文件中的顺序排序
     valid_streams.sort(key=lambda x: channel_order.index(x["tvg-name"]) if x["tvg-name"] in channel_order else len(channel_order))
-
+    
+    # 生成新的m3u文件，保留每个tvg-name速度最快的直播源
     fastest_streams = {}
     for stream in valid_streams:
         tvg_name = stream['tvg-name']
@@ -92,6 +112,7 @@ def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_fi
             m3ufile.write(f'#EXTINF:-1 tvg-name="{stream["tvg-name"]}" tvg-id="{stream["tvg-id"]}" tvg-logo="{stream["tvg-logo"]}" group-title="{stream["group-title"]}", {stream["tvg-name"]}\n')
             m3ufile.write(f'{stream["link"]}\n')
 
+    # 生成新的txt文件，保留所有有效的直播源
     grouped_streams = {}
     for stream in valid_streams:
         group_title = stream["group-title"]
@@ -110,5 +131,6 @@ def validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_fi
 
     print(f"生成新的文件 '{output_m3u_filename}' 和 '{output_txt_filename}' 成功。")
 
+# 主程序入口
 if __name__ == "__main__":
     validate_and_generate_files(csv_filename, output_m3u_filename, output_txt_filename, moban_filename)
