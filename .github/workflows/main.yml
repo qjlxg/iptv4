@@ -36,7 +36,7 @@ jobs:
       - name: Run main.py to generate live_streams.csv  # 步骤名称：运行 main.py 生成 live_streams.csv 文件
         run: python main.py  # 运行 Python 脚本 main.py
 
-      - name: Run live_streams.csv.py to generate iptv6.m3u and iptv6.txt  # 步骤名称：运行 live_streams.csv.py 生成 iptv6.m3u 和 iptv6.txt 文件
+      - name: Run live_streams.csv.py to generate iptv4.m3u and iptv4.txt  # 步骤名称：运行 live_streams.csv.py 生成 iptv4.m3u 和 iptv4.txt 文件
         run: python live_streams.csv.py  # 运行 Python 脚本 live_streams.csv.py
 
       - name: Configure Git  # 步骤名称：配置 Git
