@@ -1,7 +1,0 @@
-opencv-python
-tqdm
-requests
-aiohttp
-httpx
-asyncio
-ffmpeg

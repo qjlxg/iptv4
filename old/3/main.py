@@ -58,6 +58,10 @@ def process_playlist(m3u_url):
                 if tvg_name == 'CCTV5PLUS':
                     tvg_name = 'CCTV5+'
 
+                # 根据特定条件删除直播源
+                if re.search(r'更新日期|日期|请阅读|yuanzl77.github.io|^$', tvg_name, re.IGNORECASE) or group_title == '公告':
+                    continue  # 跳过符合条件的直播源
+
                 streams.append({
                     'tvg-name': tvg_name,
                     'tvg-id': tvg_id,
