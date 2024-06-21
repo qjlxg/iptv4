@@ -1,0 +1,49 @@
+name: Auto Commit IPTV Files  # 工作流程的名称
+
+on:
+  workflow_dispatch:  # 手动触发的配置
+    inputs:
+      manual_trigger:  # 手动触发的输入项
+        description: 'Manually trigger the workflow'  # 输入项描述
+        default: 'false'  # 默认值为 false，表示默认不触发
+        required: false  # 非必填项
+
+jobs:
+  generate-and-commit:
+    runs-on: ubuntu-latest  # 在最新版 Ubuntu 上运行
+
+    steps:
+      - name: Checkout repository  # 步骤名称：检出仓库
+        uses: actions/checkout@v2  # 使用 GitHub 官方的 checkout 动作来检出代码
+
+      - name: Set up Python  # 步骤名称：设置 Python 环境
+        uses: actions/setup-python@v2  # 使用 GitHub 官方的 setup-python 动作来设置 Python 环境
+        with:
+          python-version: '3.x'  # Python 版本设置为 3.x，根据实际需求替换为相应的版本
+
+      - name: Install dependencies  # 步骤名称：安装依赖
+        run: |
+          pip install -r requirements.txt  # 安装 requirements.txt 中列出的所有依赖包，如果有其他依赖，请替换为适当的命令
+
+      - name: Run main.py to generate live_streams.csv  # 步骤名称：运行 main.py 生成 live_streams.csv 文件
+        run: python main.py  # 运行 Python 脚本 main.py
+
+      - name: Run live_streams.csv.py to generate iptv6.m3u and iptv6.txt  # 步骤名称：运行 live_streams.csv.py 生成 iptv6.m3u 和 iptv6.txt 文件
+        run: python live_streams.csv.py  # 运行 Python 脚本 live_streams.csv.py
+
+      - name: Configure Git  # 步骤名称：配置 Git
+        run: |
+          git config --global user.email "88164962@qq.com"  # 设置全局 Git 用户邮箱
+          git config --global user.name "vbskycn"  # 设置全局 Git 用户名
+
+      - name: Stage changes  # 步骤名称：暂存更改
+        run: |
+          git add live_streams.csv iptv6.m3u iptv6.txt  # 将生成的文件添加到 Git 暂存区
+
+      - name: Commit changes  # 步骤名称：提交更改
+        run: |
+          git commit -m "Auto-generated IPTV files"  # 提交暂存区的更改，提交信息为 "Auto-generated IPTV files"
+
+      - name: Push changes  # 步骤名称：推送更改
+        run: |
+          git push origin HEAD:refs/heads/master  # 将本地的更改推送到远程仓库的 master 分支
