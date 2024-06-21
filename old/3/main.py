@@ -6,8 +6,7 @@ from tqdm import tqdm
 
 # 定义要抓取的m3u直播源链接列表
 m3u_urls = [
-    'https://raw.githubusercontent.com/vbskycn/Moexin_IPTV/Files/IPTV.m3u',
-    'https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u'
+    'https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u',    
 ]
 
 # 准备写入CSV文件的字段名
