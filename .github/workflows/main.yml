@@ -17,6 +17,12 @@ jobs:
     steps:
       - name: Checkout repository  # 步骤名称：检出仓库
         uses: actions/checkout@v2  # 使用 GitHub 官方的 checkout 动作来检出代码
+        with:
+          clean: true  # 在检出前清理工作目录，删除未跟踪的文件和构建缓存
+          fetch-depth: 0  # 获取完整的提交历史，以便能够比较和提交更改
+
+      - name: Delete iptv4_error.log  # 步骤名称：删除 iptv4_error.log 文件
+        run: rm -f iptv4_error.log  # 删除当前目录下的 iptv4_error.log 文件，如果存在的话
 
       - name: Set up Python  # 步骤名称：设置 Python 环境
         uses: actions/setup-python@v2  # 使用 GitHub 官方的 setup-python 动作来设置 Python 环境
@@ -38,9 +44,9 @@ jobs:
           git config --global user.email "88164962@qq.com"  # 设置全局 Git 用户邮箱
           git config --global user.name "vbskycn"  # 设置全局 Git 用户名
 
-      - name: Stage changes  # 步骤名称：暂存更改
+      - name: Stage all changes  # 步骤名称：暂存所有更改
         run: |
-          git add live_streams.csv iptv6.m3u iptv6.txt  # 将生成的文件添加到 Git 暂存区
+          git add -A  # 将所有修改过的文件添加到 Git 暂存区
 
       - name: Commit changes  # 步骤名称：提交更改
         run: |
