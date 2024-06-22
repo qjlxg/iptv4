@@ -55,3 +55,17 @@ jobs:
       - name: Push changes  # 步骤名称：推送更改
         run: |
           git push origin HEAD:refs/heads/master  # 将本地的更改推送到远程仓库的 master 分支
+
+      - name: Trigger Sync and Merge Workflow in iptv repository  # 步骤名称：触发 iptv 仓库中的 Sync and Merge 工作流
+        uses: actions/github-script@0.6.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const response = await github.actions.createWorkflowDispatch({
+              owner: 'vbskycn',
+              repo: 'iptv',
+              workflow_id: 'sync_and_merge.yml',
+              ref: 'master',  // 触发分支为 master，请确保目标仓库和分支名称正确
+              inputs: {}   // 可选的输入参数
+            });
+            console.log(response);
