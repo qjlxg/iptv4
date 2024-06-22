@@ -1,114 +1,113 @@
 tvg-name,tvg-id,tvg-logo,group-title,link,speed
-CCTV1,CCTV1,https://live.fanmingming.com/tv/CCTV1.png,,http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140,1.557966
-CCTV9,CCTV9,https://live.fanmingming.com/tv/CCTV9.png,,http://summer-xa.icopylock.com:8888/udp/239.112.205.85:5140,1.504776
-CCTV13,CCTV13,https://live.fanmingming.com/tv/CCTV13.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.53:5140,0.503672
-陕西西部电影,陕西西部电影,https://live.fanmingming.com/tv/陕西西部电影.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140,0.51361
-CHC动作电影,CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png,,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://opdf.top:8088/udp/239.81.0.239:4056,0.513809
-CHC家庭影院,CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://opdf.top:8088/udp/239.81.0.238:4056,0.516176
-CHC影迷电影,CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://opdf.top:8088/udp/239.81.0.240:4056,0.506598
-广东卫视,广东卫视,https://live.fanmingming.com/tv/广东卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.188:9610,0.475414
-广东卫视,广东卫视,https://live.fanmingming.com/tv/广东卫视.png,,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8,0.612478
-广东珠江,广东珠江,https://live.fanmingming.com/tv/广东珠江.png,,https://epg.pw/stream/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8,0.650325
-辽宁卫视,辽宁卫视,https://live.fanmingming.com/tv/辽宁卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.110.205.12:9794,0.496832
-深圳卫视,深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png,,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8,0.419059
-深圳卫视,深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.189:9602,0.515864
-重庆卫视,重庆卫视,https://live.fanmingming.com/tv/重庆卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.70:8496,0.480482
-卡酷少儿,卡酷少儿,https://live.fanmingming.com/tv/卡酷少儿.png,,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0,0.544908
-卡酷少儿,卡酷少儿,https://live.fanmingming.com/tv/卡酷少儿.png,,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8,1.832211
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://121.24.99.191:8090/hls/72/index.m3u8,0.414543
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://1.24.190.98:10080/hls/51/index.m3u8,0.415221
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://124.228.160.94:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.447677
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://171.118.223.183:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.478406
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://112.101.78.50:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0,0.508654
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://fangke.blueswords.com:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0,0.590689
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://171.108.239.77:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0,3.263396
-金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8,4.240852
-广东少儿,广东少儿,https://live.fanmingming.com/tv/广东少儿.png,,https://epg.pw/stream/9e3bb2f0e2e33140f2eacb1d7cb90fff3e38e70ba760ab5f984b2a9e2f929d87.m3u8,0.630935
-广东少儿,广东少儿,https://live.fanmingming.com/tv/广东少儿.png,,http://113.101.119.76:808/hls/111/index.m3u8,1.013041
-陕西1套,陕西1套,https://live.fanmingming.com/tv/陕西1套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.28:5140,0.492905
-陕西2套,陕西2套,https://live.fanmingming.com/tv/陕西2套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.36:5140,0.503328
-陕西3套,陕西3套,https://live.fanmingming.com/tv/陕西3套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.98:5140,0.505987
-陕西4套,陕西4套,https://live.fanmingming.com/tv/陕西4套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.99:5140,0.500198
-陕西5套,陕西5套,https://live.fanmingming.com/tv/陕西5套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.100:5140,0.536993
-陕西7套,陕西7套,https://live.fanmingming.com/tv/陕西7套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.42:5140,0.479248
-运城一套,运城一套,https://live.fanmingming.com/tv/运城一套.png,,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8,0.464269
-运城二套,运城二套,https://live.fanmingming.com/tv/运城二套.png,,http://live.0359tv.com/lsdream/t667aTY/live.m3u8,0.451802
-运城三套,运城三套,https://live.fanmingming.com/tv/运城三套.png,,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8,0.438106
-东莞生活,东莞生活,https://live.fanmingming.com/tv/东莞生活.png,,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8,1.809508
-东莞生活,东莞生活,https://live.fanmingming.com/tv/东莞生活.png,,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8,2.130739
-东莞新闻,东莞新闻,https://live.fanmingming.com/tv/东莞新闻.png,,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8,2.035288
-东莞新闻,东莞新闻,https://live.fanmingming.com/tv/东莞新闻.png,,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8,3.662234
-海口城乡,海口城乡,https://live.fanmingming.com/tv/海口城乡.png,,http://124.225.35.97:16080/live/tv2403.m3u8,0.428753
-海口生活,海口生活,https://live.fanmingming.com/tv/海口生活.png,,http://124.225.35.97:16080/live/tv2402.m3u8,0.396529
-海口综合,海口综合,https://live.fanmingming.com/tv/海口综合.png,,http://124.225.35.97:16080/live/tv2401.m3u8,0.408494
-贵州-2,贵州-2,https://live.fanmingming.com/tv/贵州-2.png,,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8,0.808203
-凤凰中文,凤凰中文,https://live.fanmingming.com/tv/凤凰中文.png,,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8,0.413886
-凤凰中文,凤凰中文,https://live.fanmingming.com/tv/凤凰中文.png,,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8,0.535432
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://171.108.239.77:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0,0.284203
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv,0.323893
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8,0.350843
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://113.64.147.68:8081/hls/36/index.m3u8,0.393059
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8,0.399643
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8,0.466219
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://171.108.239.77:8181/tsfile/live/1024_1.m3u8,0.472823
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://php.17186.eu.org/phtv/fhzx.m3u8,0.478921
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://103.95.24.37:880/fhzx.m3u8,0.512878
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://r.jdshipin.com/0Rp07,0.516204
-凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8,1.02157
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8,0.184388
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://103.95.24.37:880/fhxgt.m3u8,0.205325
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,https://epg.pw/stream/af200edb390eccb6bd2710d91f2d129e2fa16a7ec32f42733606bbd126b434c0.m3u8,0.211408
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://r.jdshipin.com/yDoTN,0.329379
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://113.64.147.68:8081/hls/38/index.m3u8,0.38337
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://116.162.6.192:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8,0.465015
-凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://171.108.239.77:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0,1.116925
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20127,0.019299
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2,0.020051
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=30025,0.025671
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8,0.147136
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8,0.348705
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://m.glx008.com:8000/bysid/1.m3u8,0.534223
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8,0.620262
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv,0.804988
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8,1.258293
-翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8,7.064857
-明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20125,0.017837
-明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=30026,0.022526
-明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://r.jdshipin.com/ZQ4kN,0.173516
-明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8,0.333178
-明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8,0.522165
-RTHK32,RTHK32,https://live.fanmingming.com/tv/RTHK32.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv,0.273003
-TVBS新闻,TVBS新闻,https://live.fanmingming.com/tv/TVBS新闻.png,,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv,0.827869
-VIUTV,VIUTV,https://live.fanmingming.com/tv/VIUTV.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv,0.294018
-TVBS亚洲,TVBS亚洲,https://live.fanmingming.com/tv/TVBS亚洲.png,,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8,0.01166
-TVBS亚洲,TVBS亚洲,https://live.fanmingming.com/tv/TVBS亚洲.png,,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8,0.011676
-台视新闻,台视新闻,https://live.fanmingming.com/tv/台视新闻.png,,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8,0.228643
-三立台湾,三立台湾,https://live.fanmingming.com/tv/三立台湾.png,,https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8,0.465732
-民视新闻,民视新闻,https://live.fanmingming.com/tv/民视新闻.png,,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8,0.011578
-东森新闻,东森新闻,https://live.fanmingming.com/tv/东森新闻.png,,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8,0.012157
-CNN,CNN,https://live.fanmingming.com/tv/CNN.png,,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8,1.003444
-FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8,0.25706
-FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8,0.323091
-FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8,0.370302
-ABC NEWS,ABC NEWS,https://live.fanmingming.com/tv/ABC NEWS.png,,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8,0.348041
-BBC NEWS ARABIA,BBC NEWS ARABIA,https://live.fanmingming.com/tv/BBC NEWS ARABIA.png,,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8,0.808234
-CNN Prima News,CNN Prima News,https://live.fanmingming.com/tv/CNN Prima News.png,,https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0,0.812018
-MBC TV,MBC TV,https://live.fanmingming.com/tv/MBC TV.png,,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8,0.271473
-CBS News,CBS News,https://live.fanmingming.com/tv/CBS News.png,,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8,0.448449
-ABC News,ABC News,https://live.fanmingming.com/tv/ABC News.png,,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8,0.282743
-NBC NEWS,NBC NEWS,https://live.fanmingming.com/tv/NBC NEWS.png,,https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006,0.173236
-NBC NEWS,NBC NEWS,https://live.fanmingming.com/tv/NBC NEWS.png,,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8,0.506105
-Al Jazeera,Al Jazeera,https://live.fanmingming.com/tv/Al Jazeera.png,,https://live-hls-web-aje.getaj.net/AJE/index.m3u8,0.076722
-CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8,0.1943
-CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8,0.199986
-CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8,0.233898
-半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/01.m3u8,0.002534
-半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp,0.011995
-半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,http://live-hls-web-aja.getaj.net/AJA/02.m3u8,0.046082
-半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/02.m3u8,0.158216
-AMC电影,AMC电影,https://live.fanmingming.com/tv/AMC电影.png,,http://61.221.215.25:8800/hls/43/index.m3u8,0.285503
-纬来精采,纬来精采,https://live.fanmingming.com/tv/纬来精采.png,,http://61.221.215.25:8800/hls/48/index.m3u8,0.280616
-三立戏剧台,三立戏剧台,https://live.fanmingming.com/tv/三立戏剧台.png,,http://61.221.215.25:8800/hls/41/index.m3u8,0.284119
-八大戏剧台,八大戏剧台,https://live.fanmingming.com/tv/八大戏剧台.png,,http://61.221.215.25:8800/hls/39/index.m3u8,0.141282
-八大综合,八大综合,https://live.fanmingming.com/tv/八大综合.png,,http://61.221.215.25:8800/hls/56/index.m3u8,0.280139
-八大第一,八大第一,https://live.fanmingming.com/tv/八大第一.png,,http://61.221.215.25:8800/hls/55/index.m3u8,0.141132
+CCTV1,CCTV1,https://live.fanmingming.com/tv/CCTV1.png,,http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140,0.507891
+CCTV9,CCTV9,https://live.fanmingming.com/tv/CCTV9.png,,http://summer-xa.icopylock.com:8888/udp/239.112.205.85:5140,0.50523
+CCTV13,CCTV13,https://live.fanmingming.com/tv/CCTV13.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.53:5140,0.501457
+陕西西部电影,陕西西部电影,https://live.fanmingming.com/tv/陕西西部电影.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140,0.477047
+CHC动作电影,CHC动作电影,https://live.fanmingming.com/tv/CHC动作电影.png,,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://opdf.top:8088/udp/239.81.0.239:4056,0.498027
+CHC家庭影院,CHC家庭影院,https://live.fanmingming.com/tv/CHC家庭影院.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://opdf.top:8088/udp/239.81.0.238:4056,0.516722
+CHC影迷电影,CHC影迷电影,https://live.fanmingming.com/tv/CHC影迷电影.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://opdf.top:8088/udp/239.81.0.240:4056,0.512112
+广东卫视,广东卫视,https://live.fanmingming.com/tv/广东卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.188:9610,0.511848
+广东卫视,广东卫视,https://live.fanmingming.com/tv/广东卫视.png,,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8,0.626947
+广东珠江,广东珠江,https://live.fanmingming.com/tv/广东珠江.png,,https://epg.pw/stream/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8,0.765252
+辽宁卫视,辽宁卫视,https://live.fanmingming.com/tv/辽宁卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.110.205.12:9794,0.500241
+深圳卫视,深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png,,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8,0.416452
+深圳卫视,深圳卫视,https://live.fanmingming.com/tv/深圳卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.189:9602,0.535431
+重庆卫视,重庆卫视,https://live.fanmingming.com/tv/重庆卫视.png,,http://summer-xa.icopylock.com:8888/udp/239.109.205.70:8496,0.478295
+卡酷少儿,卡酷少儿,https://live.fanmingming.com/tv/卡酷少儿.png,,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0,0.576745
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://124.228.160.94:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.403663
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://171.118.223.183:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.406517
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://1.24.190.98:10080/hls/51/index.m3u8,0.420518
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://121.24.99.191:8090/hls/72/index.m3u8,0.449847
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://171.108.239.77:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0,0.570112
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://112.101.78.50:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0,0.576887
+金鹰卡通,金鹰卡通,https://live.fanmingming.com/tv/金鹰卡通.png,,http://fangke.blueswords.com:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0,0.719884
+广东少儿,广东少儿,https://live.fanmingming.com/tv/广东少儿.png,,https://epg.pw/stream/9e3bb2f0e2e33140f2eacb1d7cb90fff3e38e70ba760ab5f984b2a9e2f929d87.m3u8,0.957543
+广东少儿,广东少儿,https://live.fanmingming.com/tv/广东少儿.png,,http://113.101.119.76:808/hls/111/index.m3u8,1.41242
+陕西1套,陕西1套,https://live.fanmingming.com/tv/陕西1套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.28:5140,0.489735
+陕西2套,陕西2套,https://live.fanmingming.com/tv/陕西2套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.36:5140,0.493608
+陕西3套,陕西3套,https://live.fanmingming.com/tv/陕西3套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.98:5140,0.494209
+陕西4套,陕西4套,https://live.fanmingming.com/tv/陕西4套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.99:5140,0.510093
+陕西5套,陕西5套,https://live.fanmingming.com/tv/陕西5套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.100:5140,0.505686
+陕西7套,陕西7套,https://live.fanmingming.com/tv/陕西7套.png,,http://summer-xa.icopylock.com:8888/udp/239.111.205.42:5140,0.50594
+运城一套,运城一套,https://live.fanmingming.com/tv/运城一套.png,,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8,0.50367
+运城二套,运城二套,https://live.fanmingming.com/tv/运城二套.png,,http://live.0359tv.com/lsdream/t667aTY/live.m3u8,0.505091
+运城三套,运城三套,https://live.fanmingming.com/tv/运城三套.png,,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8,0.498359
+东莞生活,东莞生活,https://live.fanmingming.com/tv/东莞生活.png,,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8,1.284333
+东莞生活,东莞生活,https://live.fanmingming.com/tv/东莞生活.png,,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8,1.314578
+东莞新闻,东莞新闻,https://live.fanmingming.com/tv/东莞新闻.png,,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8,1.289509
+东莞新闻,东莞新闻,https://live.fanmingming.com/tv/东莞新闻.png,,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8,1.347593
+海口城乡,海口城乡,https://live.fanmingming.com/tv/海口城乡.png,,http://124.225.35.97:16080/live/tv2403.m3u8,0.396018
+海口生活,海口生活,https://live.fanmingming.com/tv/海口生活.png,,http://124.225.35.97:16080/live/tv2402.m3u8,0.413129
+海口综合,海口综合,https://live.fanmingming.com/tv/海口综合.png,,http://124.225.35.97:16080/live/tv2401.m3u8,0.410026
+贵州-2,贵州-2,https://live.fanmingming.com/tv/贵州-2.png,,http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8,0.848821
+凤凰中文,凤凰中文,https://live.fanmingming.com/tv/凤凰中文.png,,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8,0.343001
+凤凰中文,凤凰中文,https://live.fanmingming.com/tv/凤凰中文.png,,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8,0.649487
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://php.17186.eu.org/phtv/fhzx.m3u8,0.280738
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv,0.317498
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8,0.344337
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8,0.374156
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://113.64.147.68:8081/hls/36/index.m3u8,0.382443
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8,0.412171
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://103.95.24.37:880/fhzx.m3u8,0.417281
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://171.108.239.77:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0,0.473362
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://r.jdshipin.com/0Rp07,0.532738
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://171.108.239.77:8181/tsfile/live/1024_1.m3u8,0.6083
+凤凰资讯,凤凰资讯,https://live.fanmingming.com/tv/凤凰资讯.png,,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8,1.376323
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://103.95.24.37:880/fhxgt.m3u8,0.204973
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8,0.245363
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://r.jdshipin.com/yDoTN,0.319902
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://113.64.147.68:8081/hls/38/index.m3u8,0.388431
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,https://epg.pw/stream/af200edb390eccb6bd2710d91f2d129e2fa16a7ec32f42733606bbd126b434c0.m3u8,0.400918
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://116.162.6.192:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8,0.460889
+凤凰香港,凤凰香港,https://live.fanmingming.com/tv/凤凰香港.png,,http://171.108.239.77:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0,0.631054
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2,0.029411
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20127,0.03452
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=30025,0.036371
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8,0.157116
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8,0.361823
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://m.glx008.com:8000/bysid/1.m3u8,0.541284
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8,0.595764
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv,0.74584
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8,1.218228
+翡翠台,翡翠台,https://live.fanmingming.com/tv/翡翠台.png,,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8,2.749184
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=20125,0.034867
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://r.jdshipin.com/ZQ4kN,0.169351
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://107.167.12.58:27347/livehttpplay?channel_id=30026,0.239517
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8,0.340592
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8,0.476201
+明珠台,明珠台,https://live.fanmingming.com/tv/明珠台.png,,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8,3.874846
+RTHK32,RTHK32,https://live.fanmingming.com/tv/RTHK32.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv,0.281091
+TVBS新闻,TVBS新闻,https://live.fanmingming.com/tv/TVBS新闻.png,,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv,1.015049
+VIUTV,VIUTV,https://live.fanmingming.com/tv/VIUTV.png,,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv,0.302717
+TVBS亚洲,TVBS亚洲,https://live.fanmingming.com/tv/TVBS亚洲.png,,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8,0.011892
+TVBS亚洲,TVBS亚洲,https://live.fanmingming.com/tv/TVBS亚洲.png,,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8,0.012655
+台视新闻,台视新闻,https://live.fanmingming.com/tv/台视新闻.png,,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8,0.014868
+三立台湾,三立台湾,https://live.fanmingming.com/tv/三立台湾.png,,https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8,1.023112
+民视新闻,民视新闻,https://live.fanmingming.com/tv/民视新闻.png,,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8,0.014257
+东森新闻,东森新闻,https://live.fanmingming.com/tv/东森新闻.png,,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8,0.01325
+CNN,CNN,https://live.fanmingming.com/tv/CNN.png,,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8,0.83067
+FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8,0.139341
+FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8,0.326155
+FOX NEWS,FOX NEWS,https://live.fanmingming.com/tv/FOX NEWS.png,,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8,0.328207
+ABC NEWS,ABC NEWS,https://live.fanmingming.com/tv/ABC NEWS.png,,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8,0.213131
+BBC NEWS ARABIA,BBC NEWS ARABIA,https://live.fanmingming.com/tv/BBC NEWS ARABIA.png,,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8,0.705979
+CNN Prima News,CNN Prima News,https://live.fanmingming.com/tv/CNN Prima News.png,,https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0,0.878551
+MBC TV,MBC TV,https://live.fanmingming.com/tv/MBC TV.png,,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8,0.271844
+CBS News,CBS News,https://live.fanmingming.com/tv/CBS News.png,,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8,0.332958
+ABC News,ABC News,https://live.fanmingming.com/tv/ABC News.png,,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8,0.154974
+NBC NEWS,NBC NEWS,https://live.fanmingming.com/tv/NBC NEWS.png,,https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006,0.132661
+NBC NEWS,NBC NEWS,https://live.fanmingming.com/tv/NBC NEWS.png,,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8,0.329645
+Al Jazeera,Al Jazeera,https://live.fanmingming.com/tv/Al Jazeera.png,,https://live-hls-web-aje.getaj.net/AJE/index.m3u8,0.060457
+CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8,0.04081
+CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8,0.199525
+CNA,CNA,https://live.fanmingming.com/tv/CNA.png,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8,0.220598
+半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,http://live-hls-web-aja.getaj.net/AJA/02.m3u8,0.065243
+半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/01.m3u8,0.148512
+半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/02.m3u8,0.154171
+半岛新闻,半岛新闻,https://live.fanmingming.com/tv/半岛新闻.png,,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp,0.15674
+AMC电影,AMC电影,https://live.fanmingming.com/tv/AMC电影.png,,http://61.221.215.25:8800/hls/43/index.m3u8,0.290889
+纬来精采,纬来精采,https://live.fanmingming.com/tv/纬来精采.png,,http://61.221.215.25:8800/hls/48/index.m3u8,0.28726
+三立戏剧台,三立戏剧台,https://live.fanmingming.com/tv/三立戏剧台.png,,http://61.221.215.25:8800/hls/41/index.m3u8,0.282927
+八大戏剧台,八大戏剧台,https://live.fanmingming.com/tv/八大戏剧台.png,,http://61.221.215.25:8800/hls/39/index.m3u8,0.142621
+八大综合,八大综合,https://live.fanmingming.com/tv/八大综合.png,,http://61.221.215.25:8800/hls/56/index.m3u8,0.281472
+八大第一,八大第一,https://live.fanmingming.com/tv/八大第一.png,,http://61.221.215.25:8800/hls/55/index.m3u8,0.281681
