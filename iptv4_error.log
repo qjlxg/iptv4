@@ -1,69 +1,68 @@
-2024-06-22 02:55:42,078 - Error testing stream http://221.213.92.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
-2024-06-22 02:55:42,099 - Error testing stream http://221.213.92.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
-2024-06-22 02:55:42,312 - Error testing stream http://171.110.43.97:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0')
-2024-06-22 02:55:42,319 - Error testing stream http://171.110.43.97:8181/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0')
-2024-06-22 02:55:42,387 - Error testing stream http://221.213.92.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
-2024-06-22 02:55:42,845 - Error testing stream http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8: 0, message='', url=URL('http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8')
-2024-06-22 02:55:42,986 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62816.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:43,021 - Error testing stream http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8: 0, message='', url=URL('http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8')
-2024-06-22 02:55:43,071 - Error testing stream http://php.17186.eu.org/phtv/fhzw.m3u8: 403, message='Forbidden', url=URL('http://php.17186.eu.org/phtv/fhzw.m3u8')
-2024-06-22 02:55:43,074 - Error testing stream http://playflive.ifeng.com/live/06OLEGEGM4G.m3u8: Cannot connect to host playflive.ifeng.com:80 ssl:default [Name or service not known]
-2024-06-22 02:55:43,075 - Error testing stream http://playflive.ifeng.com/live/06OLEEWQKN4.m3u8: Cannot connect to host playflive.ifeng.com:80 ssl:default [Name or service not known]
-2024-06-22 02:55:43,137 - Error testing stream http://113.64.145.195:8081/hls/37/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
-2024-06-22 02:55:43,229 - Error testing stream http://113.64.145.195:8081/hls/36/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
-2024-06-22 02:55:43,396 - Error testing stream http://121.24.99.191:8090/hls/70/index.m3u8: 404, message='Not Found', url=URL('http://121.24.99.191:8090/hls/70/index.m3u8')
-2024-06-22 02:55:43,454 - Error testing stream http://171.110.43.97:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0')
-2024-06-22 02:55:43,455 - Error testing stream http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8: 403, message='Forbidden', url=URL('http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8')
-2024-06-22 02:55:43,470 - Error testing stream http://php.17186.eu.org/phtv/fhhk.m3u8: 403, message='Forbidden', url=URL('http://php.17186.eu.org/phtv/fhhk.m3u8')
-2024-06-22 02:55:43,575 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62822.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:43,598 - Error testing stream http://113.64.145.195:8081/hls/38/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
-2024-06-22 02:55:43,647 - Error testing stream http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8: 403, message='Forbidden', url=URL('http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8')
-2024-06-22 02:55:43,694 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=0de756307562a692ba6f0fb98c8d836b&txTime=6673F4A3: 403, message='Forbidden', url=URL('https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=0de756307562a692ba6f0fb98c8d836b&txTime=6673F4A3')
-2024-06-22 02:55:43,712 - Error testing stream http://171.110.43.97:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0')
-2024-06-22 02:55:43,740 - Error testing stream http://171.110.43.97:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0')
-2024-06-22 02:55:43,752 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62830.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:43,985 - Error testing stream http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com: Cannot connect to host 36.36.200.212:9901 ssl:default [Connect call failed ('36.36.200.212', 9901)]
-2024-06-22 02:55:44,086 - Error testing stream http://113.117.74.12:8081/hls/25/index.m3u8: Cannot connect to host 113.117.74.12:8081 ssl:default [Connect call failed ('113.117.74.12', 8081)]
-2024-06-22 02:55:44,839 - Error testing stream http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com: Cannot connect to host 36.36.200.212:9901 ssl:default [Connect call failed ('36.36.200.212', 9901)]
-2024-06-22 02:55:45,074 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/5505.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:45,085 - Error testing stream http://113.117.74.12:8081/hls/26/index.m3u8: Cannot connect to host 113.117.74.12:8081 ssl:default [Connect call failed ('113.117.74.12', 8081)]
-2024-06-22 02:55:45,154 - Error testing stream http://zsntlqj.xicp.net:8896/bysid/2.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:45,159 - Error testing stream http://zsntlqj.xicp.net:8895/bysid/1.m3u8: [Errno 104] Connection reset by peer
-2024-06-22 02:55:47,403 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channelid=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3: 
-2024-06-22 02:55:47,403 - Error testing stream http://175.10.228.235:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,403 - Error testing stream http://171.108.239.95:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,403 - Error testing stream http://175.10.228.235:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,403 - Error testing stream http://221.213.92.39:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0: 
-2024-06-22 02:55:47,403 - Error testing stream http://223.159.11.205:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: 
-2024-06-22 02:55:47,404 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8: 
-2024-06-22 02:55:47,404 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channelid=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3: 
-2024-06-22 02:55:47,404 - Error testing stream http://111.225.113.63:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,404 - Error testing stream http://221.213.92.39:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: 
-2024-06-22 02:55:47,404 - Error testing stream http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8: 
-2024-06-22 02:55:47,404 - Error testing stream http://175.10.228.235:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,404 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8: 
-2024-06-22 02:55:47,404 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channelid=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3: 
-2024-06-22 02:55:47,404 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8: 
-2024-06-22 02:55:47,404 - Error testing stream http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8: 
-2024-06-22 02:55:47,404 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channelid=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3: 
-2024-06-22 02:55:47,404 - Error testing stream http://171.108.239.95:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:47,405 - Error testing stream http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8: 
-2024-06-22 02:55:47,405 - Error testing stream http://221.213.92.39:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0: 
-2024-06-22 02:55:48,256 - Error testing stream http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e')
-2024-06-22 02:55:48,401 - Error testing stream http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:48,401 - Error testing stream http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8: 
-2024-06-22 02:55:48,401 - Error testing stream http://120.41.124.228:8888/rtp/239.61.2.183:9086: 
-2024-06-22 02:55:48,401 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=ac6d3c2bd562fcc0b8a469b0f3e0609f&txTime=6673F44D: 
-2024-06-22 02:55:48,401 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=8b54ccd4a283cc1a9d45fe5dc910638b&txTime=6673F44D: 
-2024-06-22 02:55:48,401 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=3de067217777adf9fdb8a5340a93bdec&txTime=6673F44A: 
-2024-06-22 02:55:48,402 - Error testing stream http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8: 
-2024-06-22 02:55:48,402 - Error testing stream http://113.64.145.91:8081/hls/36/index.m3u8: 
-2024-06-22 02:55:48,960 - Error testing stream http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182')
-2024-06-22 02:55:49,047 - Error testing stream http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c')
-2024-06-22 02:55:49,400 - Error testing stream http://113.83.152.61:1936/bysid/1.m3u8: 
-2024-06-22 02:55:49,401 - Error testing stream http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8: 
-2024-06-22 02:55:49,401 - Error testing stream http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8: 
-2024-06-22 02:55:49,401 - Error testing stream http://113.64.145.91:8081/hls/38/index.m3u8: 
-2024-06-22 02:55:49,401 - Error testing stream http://171.108.239.95:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0: 
-2024-06-22 02:55:49,401 - Error testing stream http://113.83.152.61:1935/bysid/2.m3u8: 
-2024-06-22 02:55:50,045 - Error testing stream http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad')
+2024-06-22 03:16:21,472 - Error testing stream http://221.213.92.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
+2024-06-22 03:16:21,497 - Error testing stream http://221.213.92.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
+2024-06-22 03:16:21,749 - Error testing stream http://171.110.43.97:8181/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1120_1.m3u8?key=txiptv&playlive=1&authid=0')
+2024-06-22 03:16:21,763 - Error testing stream http://221.213.92.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0: Cannot connect to host 221.213.92.58:9901 ssl:default [Connect call failed ('221.213.92.58', 9901)]
+2024-06-22 03:16:21,778 - Error testing stream http://171.110.43.97:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0')
+2024-06-22 03:16:22,086 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62816.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:22,280 - Error testing stream http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8: 0, message='', url=URL('http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8')
+2024-06-22 03:16:22,293 - Error testing stream http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8: 0, message='', url=URL('http://223.109.210.41/1301tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8')
+2024-06-22 03:16:22,420 - Error testing stream http://php.17186.eu.org/phtv/fhzw.m3u8: 403, message='Forbidden', url=URL('http://php.17186.eu.org/phtv/fhzw.m3u8')
+2024-06-22 03:16:22,509 - Error testing stream http://playflive.ifeng.com/live/06OLEGEGM4G.m3u8: Cannot connect to host playflive.ifeng.com:80 ssl:default [Name or service not known]
+2024-06-22 03:16:22,509 - Error testing stream http://playflive.ifeng.com/live/06OLEEWQKN4.m3u8: Cannot connect to host playflive.ifeng.com:80 ssl:default [Name or service not known]
+2024-06-22 03:16:22,538 - Error testing stream http://113.64.145.195:8081/hls/37/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
+2024-06-22 03:16:22,666 - Error testing stream http://113.64.145.195:8081/hls/36/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
+2024-06-22 03:16:22,743 - Error testing stream http://121.24.99.191:8090/hls/70/index.m3u8: 404, message='Not Found', url=URL('http://121.24.99.191:8090/hls/70/index.m3u8')
+2024-06-22 03:16:22,751 - Error testing stream http://php.17186.eu.org/phtv/fhhk.m3u8: 403, message='Forbidden', url=URL('http://php.17186.eu.org/phtv/fhhk.m3u8')
+2024-06-22 03:16:22,805 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62822.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:22,810 - Error testing stream http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8: 403, message='Forbidden', url=URL('http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8')
+2024-06-22 03:16:22,810 - Error testing stream http://171.110.43.97:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0')
+2024-06-22 03:16:22,900 - Error testing stream http://113.64.145.195:8081/hls/38/index.m3u8: Cannot connect to host 113.64.145.195:8081 ssl:default [Connect call failed ('113.64.145.195', 8081)]
+2024-06-22 03:16:22,989 - Error testing stream http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8: 403, message='Forbidden', url=URL('http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8')
+2024-06-22 03:16:23,021 - Error testing stream http://171.110.43.97:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0')
+2024-06-22 03:16:23,042 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/62830.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:23,083 - Error testing stream http://171.110.43.97:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0: 502, message='Bad Gateway', url=URL('http://171.110.43.97:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0')
+2024-06-22 03:16:23,268 - Error testing stream http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com: Cannot connect to host 36.36.200.212:9901 ssl:default [Connect call failed ('36.36.200.212', 9901)]
+2024-06-22 03:16:23,440 - Error testing stream http://113.117.74.12:8081/hls/25/index.m3u8: Cannot connect to host 113.117.74.12:8081 ssl:default [Connect call failed ('113.117.74.12', 8081)]
+2024-06-22 03:16:23,644 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=3de067217777adf9fdb8a5340a93bdec&txTime=6673F44A: 403, message='Forbidden', url=URL('https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=3de067217777adf9fdb8a5340a93bdec&txTime=6673F44A')
+2024-06-22 03:16:24,031 - Error testing stream http://36.36.200.212:9901/tsfile/live/1009_1.m3u8?key=txiptv&url=tvzb.com: Cannot connect to host 36.36.200.212:9901 ssl:default [Connect call failed ('36.36.200.212', 9901)]
+2024-06-22 03:16:24,055 - Error testing stream http://extraott.com:80/live/7921751389/6097373662/5505.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:24,113 - Error testing stream http://zsntlqj.xicp.net:8896/bysid/2.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:24,116 - Error testing stream http://zsntlqj.xicp.net:8895/bysid/1.m3u8: [Errno 104] Connection reset by peer
+2024-06-22 03:16:24,124 - Error testing stream http://113.117.74.12:8081/hls/26/index.m3u8: Cannot connect to host 113.117.74.12:8081 ssl:default [Connect call failed ('113.117.74.12', 8081)]
+2024-06-22 03:16:26,894 - Error testing stream http://175.10.228.235:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,895 - Error testing stream http://221.213.92.39:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0: 
+2024-06-22 03:16:26,895 - Error testing stream http://221.213.92.39:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0: 
+2024-06-22 03:16:26,895 - Error testing stream http://223.159.11.205:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: 
+2024-06-22 03:16:26,895 - Error testing stream http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8: 
+2024-06-22 03:16:26,895 - Error testing stream http://171.108.239.95:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,895 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8: 
+2024-06-22 03:16:26,895 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channelid=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3: 
+2024-06-22 03:16:26,895 - Error testing stream http://175.10.228.235:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,896 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=ac6d3c2bd562fcc0b8a469b0f3e0609f&txTime=6673F44D: 
+2024-06-22 03:16:26,896 - Error testing stream http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8: 
+2024-06-22 03:16:26,896 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8: 
+2024-06-22 03:16:26,896 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=0de756307562a692ba6f0fb98c8d836b&txTime=6673F4A3: 
+2024-06-22 03:16:26,896 - Error testing stream http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8: 
+2024-06-22 03:16:26,896 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channelid=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3: 
+2024-06-22 03:16:26,896 - Error testing stream https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=8b54ccd4a283cc1a9d45fe5dc910638b&txTime=6673F44D: 
+2024-06-22 03:16:26,896 - Error testing stream http://175.10.228.235:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,896 - Error testing stream http://111.225.113.63:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,896 - Error testing stream http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8: 
+2024-06-22 03:16:26,896 - Error testing stream http://171.108.239.95:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:26,896 - Error testing stream http://221.213.92.39:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0: 
+2024-06-22 03:16:26,897 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channelid=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3: 
+2024-06-22 03:16:26,897 - Error testing stream http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channelid=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3: 
+2024-06-22 03:16:27,656 - Error testing stream http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e')
+2024-06-22 03:16:27,896 - Error testing stream http://113.64.145.91:8081/hls/38/index.m3u8: 
+2024-06-22 03:16:27,896 - Error testing stream http://113.64.145.91:8081/hls/36/index.m3u8: 
+2024-06-22 03:16:27,896 - Error testing stream http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:27,896 - Error testing stream http://120.41.124.228:8888/rtp/239.61.2.183:9086: 
+2024-06-22 03:16:27,896 - Error testing stream http://171.108.239.95:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0: 
+2024-06-22 03:16:27,896 - Error testing stream http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8: 
+2024-06-22 03:16:28,343 - Error testing stream http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182')
+2024-06-22 03:16:28,404 - Error testing stream http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c: 401, message='Unauthorized', url=URL('http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c')
+2024-06-22 03:16:28,895 - Error testing stream http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad: 
+2024-06-22 03:16:28,895 - Error testing stream http://113.83.152.61:1936/bysid/1.m3u8: 
+2024-06-22 03:16:28,896 - Error testing stream http://113.83.152.61:1935/bysid/2.m3u8: 
+2024-06-22 03:16:28,896 - Error testing stream http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8: 
+2024-06-22 03:16:28,896 - Error testing stream http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8: 
