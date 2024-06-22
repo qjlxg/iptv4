@@ -6,7 +6,13 @@ from tqdm import tqdm
 
 # 定义要抓取的m3u直播源链接列表
 m3u_urls = [
-    
+    'https://github.com/FunctionError/PiratesTv/raw/main/combined_playlist.m3u',
+    'https://github.com/qjlxg/IPTVzb1/raw/main/%E5%85%89%E8%BF%85%E6%BA%90.txt',
+    'https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.m3u', 
+    'https://github.com/qjlxg/TVIP/raw/Files/ru.m3u', 
+    'https://github.com/qjlxg/TVIP/raw/Files/un.m3u', 
+    'https://github.com/qjlxg/TVIP/raw/Files/CNTV.m3u', 
+    'https://github.com/qjlxg/MyTV/raw/main/TW_switch.m3u',  
     'https://github.com/qjlxg/TV/raw/main/list.m3u'
 ]
 
