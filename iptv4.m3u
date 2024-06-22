@@ -34,11 +34,11 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 #EXTINF:-1 tvg-name="贵州-2" tvg-id="贵州-2" tvg-logo="https://live.fanmingming.com/tv/贵州-2.png" group-title="", 贵州-2
 http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="", 凤凰中文
-http://113.64.147.68:8081/hls/37/index.m3u8
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="", 凤凰资讯
 http://113.64.147.22:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="", 凤凰香港
-http://113.64.147.68:8081/hls/38/index.m3u8
+http://113.64.147.22:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="", 无线新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 #EXTINF:-1 tvg-name="无线资讯" tvg-id="无线资讯" tvg-logo="https://live.fanmingming.com/tv/无线资讯.png" group-title="", 无线资讯
@@ -233,22 +233,20 @@ http://120.7.86.46:808/hls/44/index.m3u8
 http://120.7.86.46:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="", 广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=e2dc470aa40798640857deb96b922f74&txTime=18d0548e823
+#EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="", 广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ba244d8081891de486ca6bdb8d86fe26&txTime=18d048b41b2
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="", 贵州卫视
 http://121.24.99.191:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="哈密1套" tvg-id="哈密1套" tvg-logo="https://live.fanmingming.com/tv/哈密1套.png" group-title="", 哈密1套
-https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
 #EXTINF:-1 tvg-name="哈密2套" tvg-id="哈密2套" tvg-logo="https://live.fanmingming.com/tv/哈密2套.png" group-title="", 哈密2套
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
-#EXTINF:-1 tvg-name="哈密3套" tvg-id="哈密3套" tvg-logo="https://live.fanmingming.com/tv/哈密3套.png" group-title="", 哈密3套
-https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 #EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="", 海南公共
 https://live3.hnntv.cn/srs/tv/ggpd.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="", 海南卫视
 http://219.147.200.9:18080/newlive/live/hls/47/live.m3u8
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="", 海南文旅
 https://live3.hnntv.cn/srs/tv/wlpd.m3u8
-#EXTINF:-1 tvg-name="海南新闻" tvg-id="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="", 海南新闻
-https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="", 海南自贸
 https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 #EXTINF:-1 tvg-name="邯郸公共频道" tvg-id="邯郸公共频道" tvg-logo="https://live.fanmingming.com/tv/邯郸公共频道.png" group-title="", 邯郸公共频道
@@ -284,7 +282,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjft
 #EXTINF:-1 tvg-name="华视新闻" tvg-id="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="", 华视新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="", 吉林卫视
-http://113.101.119.76:808/hls/102/index.m3u8
+http://113.110.72.52:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="", 江苏卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="", 江西卫视
