@@ -19,7 +19,7 @@ csv_filename = 'live_streams.csv'
 def process_playlist(m3u_url):
     try:
         print(f"Processing {m3u_url}...")
-        response = requests.get(m3u_url, timeout=10)
+        response = requests.get(m3u_url, timeout=5)
         if response.status_code == 200:
             playlist_content = response.text
 
