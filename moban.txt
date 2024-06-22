@@ -121,18 +121,13 @@ AMC电影
 八大综合
 八大第一
 TVB Plus
-1905国内电影
-1905国外电影
 24 News
 ABC Me
-ABC NEWS
-ABC News
 ABC News (AU)
 ABC News (Australia)
 ABC News Albania Ⓣ
 ABC News Live
 AMC
-AMC电影
 Anime TV
 ANN News
 Aanx电影
@@ -152,9 +147,7 @@ BBC Food
 BBC Four
 BBC four cbeebies
 BBC Home
-BBC NEWS
 BBC News
-BBC NEWS ARABIA
 BBC NEWS ARABIA (backup)
 BBC News Ⓖ
 BBC One
@@ -189,20 +182,15 @@ CBC News
 CBC NEWS
 CBC News Network
 CBN News
-CBS News
 CBS NEWS
 CBS News – Pluto TV
 CBS News Tells Truth About Ukraine & Gets In Trouble!
 CBS reality UK Ⓢ
-CCTV1
 CCTV10
 CCTV11
-CCTV13
 CCTV14
-CCTV6
 CCTV7
 CCTV8
-CCTV9
 CETV-1
 CETV-2
 CETV-3
@@ -215,19 +203,12 @@ CHANNEL S HD
 Channels 24
 Channels S
 CHC电影
-CHC动作电影
-CHC高清电影
-CHC家庭电影
-CHC家庭影院
-CHC影迷电影
 CINEMAX
 Cinemax
 CINEMAX电影
-CNA
 CNBC
 CNBC NEWS
 CNEWS
-CNN
 CNN DESTROYED!
 CNN INT
 CNN INT [downlink]
@@ -239,7 +220,6 @@ CNN PORTUGAL
 CNN PORTUGAL (backup)
 CNN PORTUGAL [find-host]
 CNN PORTUGAL [tkn-blocked]
-CNN Prima News
 CNN TÜRK
 CNN TÜRK (tokened)
 CN卡通
@@ -262,7 +242,6 @@ DW
 DW English
 DW News
 EYETV戏剧
-FOX NEWS
 FTV News (民视新闻台) Ⓨ
 FTV One (民视第一台)
 FTV Taiwan (民视台湾台)
@@ -302,11 +281,9 @@ MBC MASR 1
 MBC MASR 2
 MBC MOVIES
 MBC PERSIA
-MBC TV
 MCA
 MOMO亲子
 MOMO综合
-NBC NEWS
 NBC News
 NBC NEWS [downlink]
 NBC News NOW
@@ -343,7 +320,6 @@ PTS Taigi (公视台语台) Ⓨ Ⓖ
 RTHK TV 31
 RTHK TV 32
 RTHK31
-RTHK32
 RTI Calabria
 RTI国语
 RTK 1
@@ -357,7 +333,6 @@ Sky News (UK)
 SKY NEWS [deadlink]
 SKY NEWS [geo-blocked]
 SKY NEWS AUSTRALIA
-Sky News Now
 Sky News Now (AU)
 Sky TG24
 SKYHABER TV
@@ -366,14 +341,10 @@ TVB J1
 TVB j2开码[1280*720]
 TVB Live Show
 TVB News Channel
-TVB Plus
 TVB Thai
 TVBJ1
 TVBJ2
 TVBS
-TVBS欢乐
-TVBS新闻
-TVBS亚洲
 TVB翡翠台
 TVB功夫
 TVB明珠台
@@ -388,10 +359,7 @@ TVC News
 安多卫视
 安徽卫视
 澳门莲花
-八大第一
 八大戏剧
-八大综合
-半岛新闻
 北京卫视
 兵团卫视
 采昌影剧
@@ -419,15 +387,10 @@ TVC News
 电影
 东北热剧
 东方卫视
-东方影视
-东莞生活
-东莞新闻
 东南卫视
 东森超视
 东森电影
-东森美洲
 东森戏剧
-东森新闻
 东森洋片
 东森综合
 东森财经
@@ -439,13 +402,8 @@ TVC News
 斗鱼电影轮播2
 峨眉电影
 非凡商业
-非凡新闻
-翡翠台
 凤凰电影
 凤凰卫视
-凤凰香港
-凤凰中文
-凤凰资讯
 福贡综合
 福建教育
 甘肃都市
@@ -457,7 +415,6 @@ TVC News
 高点综合
 高邮
 公共新闻
-公视新闻
 公视
 公视3
 功夫电影
@@ -466,12 +423,9 @@ TVC News
 广东公共
 广东科教
 广东民生
-广东少儿
 广东体育
-广东卫视
 广东新闻
 广东影视
-广东珠江
 广西都市
 广西国际
 广西卫视
@@ -486,27 +440,17 @@ TVC News
 鬼吹灯之精绝古城
 鬼吹灯之怒晴湘西
 鬼吹灯之云南虫谷
-贵州-1
-贵州-2
-贵州-3
-贵州-4
-贵州-5
-贵州-6
 贵州卫视
 国家野生
 国立教育电台
 国兴卫视
-哈哈炫动
 哈密1套
 哈密2套
 哈密3套
 海安
-海口城乡
 海口二套
 海口三套
-海口生活
 海口一套
-海口综合
 海南公共
 海南少儿
 海南卫视
@@ -539,8 +483,6 @@ TVC News
 黑龙江卫视
 黑龙江新闻法治
 黑龙江影视
-黑莓电影
-黑莓动画
 红河
 红河公共
 红河新闻
@@ -569,7 +511,6 @@ TVC News
 怀旧剧场
 欢乐剧场
 欢笑剧场
-寰宇新闻
 黄河卫视
 吉林卫视
 纪实科教
@@ -577,7 +518,6 @@ TVC News
 佳嘉卡通
 家庭剧场
 家庭影院
-嘉佳卡通
 剑阁新闻
 江宁
 江苏城市
@@ -591,7 +531,6 @@ TVC News
 金川
 金牌综艺
 金鹰纪实
-金鹰卡通
 金庸武侠
 锦湖
 晋中
@@ -619,14 +558,11 @@ TVC News
 酒店影视1
 酒店影视2
 酒店影视3
-卡酷动画
-卡酷少儿
 康巴卫视
 科教影视
 客家电视
 狂飙
 李连杰电影
-辽宁卫视
 林正英电影
 龙华电影台
 龙华戏剧台
@@ -654,29 +590,20 @@ TVC News
 蒙语卫视
 蒙语文化
 民视
-民视新闻
 民视第一
 民视台湾
 民视无线台
 明星大片
-明珠台
 沐川
 南方卫视
-内蒙古经济生活
-内蒙古农牧
-内蒙古少儿
 内蒙古卫视
-内蒙古文体娱乐
-内蒙古综合
 内蒙经济
 内蒙农牧
-内蒙频道
 内蒙少儿
 内蒙文体
 内蒙新闻
 年代MUCH
 年代much
-年代新闻
 宁夏公共
 宁夏经济
 宁夏少儿
@@ -696,9 +623,7 @@ TVC News
 日本新闻
 三立LIVE
 三立都会
-三立台湾
 三立戏剧
-三立新闻
 三沙卫视
 扫黄先锋
 厦门卫视
@@ -712,15 +637,7 @@ TVC News
 山西卫视
 山西文体
 山西影视
-陕西1套
-陕西2套
-陕西3套
-陕西4套
-陕西5套
-陕西7套
-陕西频道
 陕西卫视
-陕西西部电影
 汕头综合
 上海都市
 上海外语
@@ -728,7 +645,6 @@ TVC News
 上海新闻
 上海新综
 少儿动画
-深圳卫视
 神雕侠侣
 神州新闻
 沈腾电影
@@ -740,14 +656,12 @@ TVC News
 石家庄娱乐频道
 使徒行者
 世界地理
-私人影院
 四川卫视
 泗阳
 宿豫
 绥江
 隋唐英雄传
 台视
-台视新闻
 台视财经
 太阳电台
 探索动力DMAX
@@ -759,13 +673,10 @@ TVC News
 天映频道
 通川
 纬来电影
-纬来精采
 纬来日本
 纬来戏剧
 纬来综合
 文山新闻
-无线新闻
-无线资讯
 无线星河频道[1280*720]
 无线娱乐频道[1280*720]
 武汉教育
@@ -779,7 +690,6 @@ TVC News
 西游记2
 西游记后传
 西游记续集
-香港卫视
 响水
 笑傲江湖
 新加坡国际[1280*720]
@@ -788,13 +698,10 @@ TVC News
 新疆卫视
 星光视界[1280*720]
 星河
-星河台
 星空卫视
 叙州
-炫动卡通
 寻秦记
 亚洲武侠
-亚洲新闻
 亚洲旅游
 亚洲美食
 延边卫视
@@ -807,35 +714,20 @@ TVC News
 倚天屠龙记
 影迷电影
 影迷数位电影
-优漫卡通
-有线新闻
-有线资讯
 元阳
-云南少儿
 云南卫视
 郧西
-运城二套
-运城三套
-运城一套
 长子综合
 浙江6频道民生休闲频道
 浙江电视台少儿频道
 浙江电视台影视娱乐频道
-浙江公共新闻
-浙江国际
 浙江国际频道
 浙江教科
-浙江教科影视
 浙江教育科技频道
 浙江经济
-浙江经视
 浙江民生
-浙江民生休闲
-浙江频道
 浙江钱江
-浙江钱江都市
 浙江钱江都市频道
-浙江少儿
 浙江卫视
 浙江新闻
 浙江新闻频道
@@ -843,17 +735,13 @@ TVC News
 镇江公共
 镇江新闻
 正义电台
-之江纪录
 中国功夫
 中视
-中视新闻
 中视菁采
 中视经典
-中天新闻
 中天亚洲台
 中天娱乐
 中天综合
-重庆卫视
 重温经典
 周星驰电影
 珠江公共
