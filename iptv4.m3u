@@ -55,8 +55,6 @@ http://103.95.24.37:880/fhzx.m3u8
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="", 无线新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
-#EXTINF:-1 tvg-name="有线新闻" tvg-id="有线新闻" tvg-logo="https://live.fanmingming.com/tv/有线新闻.png" group-title="", 有线新闻
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="", 翡翠台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 tvg-name="明珠台" tvg-id="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="", 明珠台
@@ -95,8 +93,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-id="ABC NEWS" tvg-logo="https://live.fanmingming.com/tv/ABC NEWS.png" group-title="", ABC NEWS
 https://lnc-abc-news.tubi.video/index.m3u8
-#EXTINF:-1 tvg-name="CNN Prima News" tvg-id="CNN Prima News" tvg-logo="https://live.fanmingming.com/tv/CNN Prima News.png" group-title="", CNN Prima News
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-id="NBC NEWS" tvg-logo="https://live.fanmingming.com/tv/NBC NEWS.png" group-title="", NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-id="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="", CNA
