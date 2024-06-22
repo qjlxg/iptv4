@@ -38,7 +38,7 @@ async def test_stream_quality(sem, session, stream):
 
         async with sem:
             start_time = datetime.now()
-            async with session.get(stream['link'], timeout=5) as response:
+            async with session.get(stream['link'], timeout=10) as response:
                 response.raise_for_status()  # 抛出异常如果响应状态码不是200
                 end_time = datetime.now()
                 stream['speed'] = (end_time - start_time).total_seconds()  # 计算响应速度
