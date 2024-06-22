@@ -5,6 +5,8 @@ http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140
 http://summer-xa.icopylock.com:8888/udp/239.112.205.85:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="", CCTV13
 http://summer-xa.icopylock.com:8888/udp/239.111.205.53:5140
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="", 陕西西部电影
+http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="", CHC动作电影
 http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://opdf.top:8088/udp/239.81.0.239:4056
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="", CHC家庭影院
@@ -25,6 +27,36 @@ http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
 http://171.108.239.77:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="", 广东少儿
 http://113.101.119.76:808/hls/111/index.m3u8
+#EXTINF:-1 tvg-name="陕西1套" tvg-id="陕西1套" tvg-logo="https://live.fanmingming.com/tv/陕西1套.png" group-title="", 陕西1套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.28:5140
+#EXTINF:-1 tvg-name="陕西2套" tvg-id="陕西2套" tvg-logo="https://live.fanmingming.com/tv/陕西2套.png" group-title="", 陕西2套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.36:5140
+#EXTINF:-1 tvg-name="陕西3套" tvg-id="陕西3套" tvg-logo="https://live.fanmingming.com/tv/陕西3套.png" group-title="", 陕西3套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.98:5140
+#EXTINF:-1 tvg-name="陕西4套" tvg-id="陕西4套" tvg-logo="https://live.fanmingming.com/tv/陕西4套.png" group-title="", 陕西4套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.99:5140
+#EXTINF:-1 tvg-name="陕西5套" tvg-id="陕西5套" tvg-logo="https://live.fanmingming.com/tv/陕西5套.png" group-title="", 陕西5套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.100:5140
+#EXTINF:-1 tvg-name="陕西7套" tvg-id="陕西7套" tvg-logo="https://live.fanmingming.com/tv/陕西7套.png" group-title="", 陕西7套
+http://summer-xa.icopylock.com:8888/udp/239.111.205.42:5140
+#EXTINF:-1 tvg-name="运城一套" tvg-id="运城一套" tvg-logo="https://live.fanmingming.com/tv/运城一套.png" group-title="", 运城一套
+http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
+#EXTINF:-1 tvg-name="运城二套" tvg-id="运城二套" tvg-logo="https://live.fanmingming.com/tv/运城二套.png" group-title="", 运城二套
+http://live.0359tv.com/lsdream/t667aTY/live.m3u8
+#EXTINF:-1 tvg-name="运城三套" tvg-id="运城三套" tvg-logo="https://live.fanmingming.com/tv/运城三套.png" group-title="", 运城三套
+http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
+#EXTINF:-1 tvg-name="东莞生活" tvg-id="东莞生活" tvg-logo="https://live.fanmingming.com/tv/东莞生活.png" group-title="", 东莞生活
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 tvg-name="东莞新闻" tvg-id="东莞新闻" tvg-logo="https://live.fanmingming.com/tv/东莞新闻.png" group-title="", 东莞新闻
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 tvg-name="海口城乡" tvg-id="海口城乡" tvg-logo="https://live.fanmingming.com/tv/海口城乡.png" group-title="", 海口城乡
+http://124.225.35.97:16080/live/tv2403.m3u8
+#EXTINF:-1 tvg-name="海口生活" tvg-id="海口生活" tvg-logo="https://live.fanmingming.com/tv/海口生活.png" group-title="", 海口生活
+http://124.225.35.97:16080/live/tv2402.m3u8
+#EXTINF:-1 tvg-name="海口综合" tvg-id="海口综合" tvg-logo="https://live.fanmingming.com/tv/海口综合.png" group-title="", 海口综合
+http://124.225.35.97:16080/live/tv2401.m3u8
+#EXTINF:-1 tvg-name="贵州-2" tvg-id="贵州-2" tvg-logo="https://live.fanmingming.com/tv/贵州-2.png" group-title="", 贵州-2
+http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="", 凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="", 凤凰香港
@@ -33,3 +65,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-id="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="", 明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-id="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="", 半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
