@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="", CCTV1
+http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140
