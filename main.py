@@ -6,7 +6,9 @@ from tqdm import tqdm
 
 # 定义要抓取的m3u直播源链接列表
 m3u_urls = [
-'https://github.com/qjlxg/TV/raw/main/list.m3u'
+'https://github.com/qjlxg/TV/raw/main/list.m3u',
+ 'https://github.com/qjlxg/IPTVzb1/raw/main/%E9%85%92%E5%BA%97%E6%BA%90.m3u',
+ 'https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.m3u'
  
 ]
 
