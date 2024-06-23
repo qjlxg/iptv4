@@ -232,7 +232,7 @@ http://120.7.86.46:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="", 贵州卫视
 http://121.24.99.191:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="哈密1套" tvg-id="哈密1套" tvg-logo="https://live.fanmingming.com/tv/哈密1套.png" group-title="", 哈密1套
-https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
+https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 #EXTINF:-1 tvg-name="哈密2套" tvg-id="哈密2套" tvg-logo="https://live.fanmingming.com/tv/哈密2套.png" group-title="", 哈密2套
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
 #EXTINF:-1 tvg-name="哈密3套" tvg-id="哈密3套" tvg-logo="https://live.fanmingming.com/tv/哈密3套.png" group-title="", 哈密3套
@@ -309,8 +309,8 @@ https://epg.pw/stream/3a784e35be6bd74c855757e59bd3b78631bac4016a32e5dc0bc4ae4908
 http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="", 内蒙古卫视
 http://121.24.99.191:8090/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-id="内蒙少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙少儿.png" group-title="", 内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙经济" tvg-id="内蒙经济" tvg-logo="https://live.fanmingming.com/tv/内蒙经济.png" group-title="", 内蒙经济
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="", 宁夏卫视
 http://120.7.86.46:808/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="", 青海卫视
