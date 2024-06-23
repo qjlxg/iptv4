@@ -8,12 +8,35 @@ CHC高清电影
 CHC家庭影院
 CHC影迷电影
 CHC家庭电影
-黑莓电影
-东方影视
-黑莓动画
-广东卫视
+天映電影
+1905国内电影
+1905国外电影
+AMC电影
+纬来精采
+翡翠台
+明珠台
+J2
+RTHK32
+TVBS新闻
+VIUTV
+Astro AOD
+凤凰中文
+凤凰资讯
+凤凰香港
+FOX NEWS
+ABC NEWS
+BBC NEWS
+BBC NEWS ARABIA
+CNN Prima News
+MBC TV
+CBS News
+ABC News
+NBC NEWS
+Al Jazeera
+Sky News Now
+CNA
+
 广东珠江
-辽宁卫视
 深圳卫视
 重庆卫视
 优漫卡通
@@ -26,7 +49,6 @@ CHC家庭电影
 浙江少儿
 哈哈炫动
 卡酷动画
-浙江频道
 浙江公共新闻
 浙江国际
 浙江教科影视
@@ -34,13 +56,8 @@ CHC家庭电影
 浙江民生休闲
 浙江经视
 浙江钱江都市
-内蒙频道
-内蒙古综合
-内蒙古经济生活
-内蒙古少儿
-内蒙古文体娱乐
-内蒙古农牧
-陕西频道
+
+
 陕西1套
 陕西2套
 陕西3套
@@ -61,21 +78,13 @@ CHC家庭电影
 贵州-4
 贵州-5
 贵州-6
-凤凰中文
-凤凰资讯
-凤凰香港
-香港卫视
 
 
 
 
-翡翠台
-明珠台
-J2
-RTHK32
-TVBS新闻
-VIUTV
-Astro AOD
+
+
+
 TVBS欢乐
 TVBS亚洲
 台视新闻
@@ -92,30 +101,16 @@ TVBS亚洲
 东森新闻
 东森美洲
 星河台
-CNN
-FOX NEWS
-ABC NEWS
-BBC NEWS
-BBC NEWS ARABIA
-CNN Prima News
-MBC TV
-CBS News
-ABC News
-NBC NEWS
-Al Jazeera
-Sky News Now
-CNA
+
+
 半岛新闻
 東森洋片
 東森電影
-天映電影
+
 東森超視
 私人影院
 龍祥電影
-1905国内电影
-1905国外电影
-AMC电影
-纬来精采
+
 三立戏剧台
 八大戏剧台
 八大综合
