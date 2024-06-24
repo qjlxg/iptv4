@@ -20,6 +20,7 @@ RTHK32
 TVBS新闻
 VIUTV
 Astro AOD
+CNA
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -34,7 +35,7 @@ ABC News
 NBC NEWS
 Al Jazeera
 Sky News Now
-CNA
+
 广东珠江
 深圳卫视
 重庆卫视
@@ -141,22 +142,14 @@ KBC TV
 KBS 1TV
 KBS 2TV
 KBS WORLD
-KCTV
 MCA
-
 NBC News
-
 NBN
-
 NHK
-
 NHK WORLD
-
-
 Niigata News NST
 Nopola News
 RTHK31
-
 SKY NEWS
 TVB J1
 TVB News Channel
@@ -172,7 +165,6 @@ TVB无线新闻
 TVB星河
 TVB娱乐新闻
 TVC News
-安徽卫视
 八大戏剧
 潮州公共
 成都都市
@@ -210,7 +202,6 @@ TVC News
 广西移动
 广西影视
 广西综艺
-广州台
 广州新闻
 广州影视
 广州综合
