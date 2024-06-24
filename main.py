@@ -32,6 +32,7 @@ m3u_urls = [
 'https://github.com/Jason6111/iptv/raw/main/m3u/aptv.m3u',
 'https://github.com/Jason6111/iptv/raw/main/m3u/aptv4.m3u',
 'https://github.com/Jason6111/iptv/raw/main/m3u/CNTV.m3u',
+'https://github.com/suxuang/myIPTV/raw/50bd9454a657d98d500725090358a17cd3f31d7d/ipv6.m3u,'
 'https://github.com/Jason6111/iptv/raw/main/m3u/CCTV.m3u'
  
 ]
