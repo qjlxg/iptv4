@@ -123,14 +123,16 @@ http://120.7.86.46:808/hls/44/index.m3u8
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="", 广西卫视
 http://120.7.86.46:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="", 广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=1b3fcaebe0459e7ca2876c2d5493cfac&txTime=18d047b699e
+#EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="", 广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ba244d8081891de486ca6bdb8d86fe26&txTime=18d048b41b2
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="", 贵州卫视
 http://121.24.99.191:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="哈密1套" tvg-id="哈密1套" tvg-logo="https://live.fanmingming.com/tv/哈密1套.png" group-title="", 哈密1套
-https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
+https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 #EXTINF:-1 tvg-name="哈密2套" tvg-id="哈密2套" tvg-logo="https://live.fanmingming.com/tv/哈密2套.png" group-title="", 哈密2套
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
+#EXTINF:-1 tvg-name="哈密3套" tvg-id="哈密3套" tvg-logo="https://live.fanmingming.com/tv/哈密3套.png" group-title="", 哈密3套
+https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
 #EXTINF:-1 tvg-name="海口二套" tvg-id="海口二套" tvg-logo="https://live.fanmingming.com/tv/海口二套.png" group-title="", 海口二套
 http://124.225.35.97:16080/live/tv2402.m3u8
 #EXTINF:-1 tvg-name="海口三套" tvg-id="海口三套" tvg-logo="https://live.fanmingming.com/tv/海口三套.png" group-title="", 海口三套
@@ -147,8 +149,6 @@ https://live3.hnntv.cn/srs/tv/wlpd.m3u8
 https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="", 海南自贸
 https://live3.hnntv.cn/srs/tv/jjpd.m3u8
-#EXTINF:-1 tvg-name="邯郸公共频道" tvg-id="邯郸公共频道" tvg-logo="https://live.fanmingming.com/tv/邯郸公共频道.png" group-title="", 邯郸公共频道
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 #EXTINF:-1 tvg-name="邯郸新闻综合频道" tvg-id="邯郸新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/邯郸新闻综合频道.png" group-title="", 邯郸新闻综合频道
 https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-id="好莱坞电影" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影.png" group-title="", 好莱坞电影
@@ -213,8 +213,6 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhv
 http://121.24.99.191:8090/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="内蒙经济" tvg-id="内蒙经济" tvg-logo="https://live.fanmingming.com/tv/内蒙经济.png" group-title="", 内蒙经济
 https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙文体" tvg-id="内蒙文体" tvg-logo="https://live.fanmingming.com/tv/内蒙文体.png" group-title="", 内蒙文体
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙新闻" tvg-id="内蒙新闻" tvg-logo="https://live.fanmingming.com/tv/内蒙新闻.png" group-title="", 内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="", 宁夏卫视
@@ -296,7 +294,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="", 浙江卫视
 http://113.110.72.52:808/hls/131/index.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-id="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="", 浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江影视娱乐" tvg-id="浙江影视娱乐" tvg-logo="https://live.fanmingming.com/tv/浙江影视娱乐.png" group-title="", 浙江影视娱乐
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="", 之江纪录
@@ -320,11 +318,11 @@ https://epg.pw/stream/702a248005dd0225d8ed1dfb970e3a9bf4c3c41c0369865e4844b6130b
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="", CCTV11
 https://epg.pw/stream/d4738f1169eee02cdecc574ad792d73d59b14625041534857a4b2b5307d805ca.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="", CCTV12
-https://epg.pw/stream/582d8a9690ce72b7c6c321c1963f47ac34af5a23135782a4d39e2aa5676f8b02.m3u8
+http://120.7.86.46:808/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="", CCTV14
 http://120.84.121.199:808/hls/126/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="", CCTV15
-http://120.7.86.46:808/hls/15/index.m3u8
+http://113.110.72.52:808/hls/130/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="", CCTV17
 http://120.84.121.199:808/hls/129/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="", CCTV4K
@@ -909,6 +907,8 @@ https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master
 https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
 #EXTINF:-1 tvg-name="HQM Remember" tvg-id="HQM Remember" tvg-logo="https://live.fanmingming.com/tv/HQM Remember.png" group-title="", HQM Remember
 https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1 tvg-name="HQM Rock" tvg-id="HQM Rock" tvg-logo="https://live.fanmingming.com/tv/HQM Rock.png" group-title="", HQM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:-1 tvg-name="HQM Spanish" tvg-id="HQM Spanish" tvg-logo="https://live.fanmingming.com/tv/HQM Spanish.png" group-title="", HQM Spanish
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 #EXTINF:-1 tvg-name="HR Ⓖ" tvg-id="HR Ⓖ" tvg-logo="https://live.fanmingming.com/tv/HR Ⓖ.png" group-title="", HR Ⓖ
@@ -1137,6 +1137,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-id="KOCAELİ TV" tvg-logo="https://live.fanmingming.com/tv/KOCAELİ TV.png" group-title="", KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-id="Kontra" tvg-logo="https://live.fanmingming.com/tv/Kontra.png" group-title="", Kontra
@@ -1465,6 +1467,8 @@ https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="NOURSAT ENG" tvg-id="NOURSAT ENG" tvg-logo="https://live.fanmingming.com/tv/NOURSAT ENG.png" group-title="", NOURSAT ENG
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NOURSAT MARIAM" tvg-id="NOURSAT MARIAM" tvg-logo="https://live.fanmingming.com/tv/NOURSAT MARIAM.png" group-title="", NOURSAT MARIAM
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="NOURSAT" tvg-id="NOURSAT" tvg-logo="https://live.fanmingming.com/tv/NOURSAT.png" group-title="", NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW (backup)" tvg-id="NOW (backup)" tvg-logo="https://live.fanmingming.com/tv/NOW (backup).png" group-title="", NOW (backup)
@@ -1645,8 +1649,6 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -2325,6 +2327,8 @@ http://canli.haber365.com.tr/tr/tlc/index.m3u8
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-name="TNTV" tvg-id="TNTV" tvg-logo="https://live.fanmingming.com/tv/TNTV.png" group-title="", TNTV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TOKAT TV" tvg-id="TOKAT TV" tvg-logo="https://live.fanmingming.com/tv/TOKAT TV.png" group-title="", TOKAT TV
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:-1 tvg-name="TON TV ÇANAKKALE" tvg-id="TON TV ÇANAKKALE" tvg-logo="https://live.fanmingming.com/tv/TON TV ÇANAKKALE.png" group-title="", TON TV ÇANAKKALE
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-name="TOP SANTÉ" tvg-id="TOP SANTÉ" tvg-logo="https://live.fanmingming.com/tv/TOP SANTÉ.png" group-title="", TOP SANTÉ
@@ -2445,6 +2449,8 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1 tvg-name="TV MONACO" tvg-id="TV MONACO" tvg-logo="https://live.fanmingming.com/tv/TV MONACO.png" group-title="", TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-name="TV NET (backup)" tvg-id="TV NET (backup)" tvg-logo="https://live.fanmingming.com/tv/TV NET (backup).png" group-title="", TV NET (backup)
+https://canli.haber365.com.tr/tr/tvnet/index.m3u8
 #EXTINF:-1 tvg-name="TV NET" tvg-id="TV NET" tvg-logo="https://live.fanmingming.com/tv/TV NET.png" group-title="", TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Nova" tvg-id="TV Nova" tvg-logo="https://live.fanmingming.com/tv/TV Nova.png" group-title="", TV Nova
