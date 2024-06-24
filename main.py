@@ -6,46 +6,8 @@ from tqdm import tqdm
 
 # 定义要抓取的m3u直播源链接列表
 m3u_urls = [
-'https://github.com/qjlxg/collect-tv-txt/raw/main/merged_output.m3u'
-'https://github.com/hujingguang/ChinaIPTV/raw/main/cnTV_AutoUpdate.m3u8',
-'https://github.com/LITUATUI/M3UPT/raw/main/M3U/M3UPT.m3u',
-'https://github.com/Daopanhya/IPTV/raw/main/%E0%BA%8A%E0%BB%88%E0%BA%AD%E0%BA%87%E0%BA%81%E0%BA%B4%E0%BA%A5%E0%BA%B2.m3u',
-'https://github.com/naveenland4/News_Channels/raw/main/news_channels.m3u',
-'https://github.com/fenxp/iptv/raw/main/live/ipv6.m3u',
-'https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u',
-'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u',
-'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
-'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u',
-'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
-'https://github.com/tangbojin/update_iptv/raw/main/src/main/resources/my_tv.m3u',
-'https://github.com/FunctionError/PiratesTv/raw/main/combined_playlist.m3u',
-'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u',
-'https://github.com/qjlxg/TVIP/raw/Files/CCTV.m3u',
-'https://github.com/qjlxg/TVIP/raw/Files/CNTV.m3u',
-'https://github.com/qjlxg/TVIP/raw/Files/IPTV.m3u',
-'https://github.com/qjlxg/TVIP/raw/Files/ru.m3u',
-'https://github.com/qjlxg/TVIP/raw/Files/un.m3u',
-'https://github.com/qjlxg/MyTV/raw/main/TW_switch.m3u',
-'https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.m3u',
-'https://github.com/qjlxg/IPTVzb1/raw/main/%E9%85%92%E5%BA%97%E6%BA%90.m3u',
-'https://github.com/osgioia/iptv_generator/raw/main/plex.m3u',
-'https://github.com/Jason6111/iptv/raw/main/m3u/IPTV.m3u',
-'https://github.com/Jason6111/iptv/raw/main/m3u/aptv.m3u',
-'https://github.com/Jason6111/iptv/raw/main/m3u/aptv4.m3u',
-'https://github.com/Jason6111/iptv/raw/main/m3u/CNTV.m3u',
-'https://github.com/suxuang/myIPTV/raw/50bd9454a657d98d500725090358a17cd3f31d7d/ipv6.m3u,'
-'https://github.com/FunctionError/PiratesTvPlus/raw/main/PiratesPlus.m3u,'
-'https://github.com/maitel2020/iptv-self-use/raw/main/iptv.m3u,'
-'https://github.com/BurningC4/Chinese-IPTV/raw/master/TV-IPV4.m3u,'
-'https://raw.githubusercontent.com/tangbojin/update_iptv/main/src/main/resources/my_tv.m3u,'
-'https://github.com/cymz6/AutoIPTV/raw/main/merged_output.m3u,'
-'https://github.com/kimwang1978/collect-tv-txt/raw/main/merged_output.m3u,'
-'https://github.com/vbskycn/iptv4/raw/master/iptv4.m3u,'
-'https://github.com/Jason6111/iptv/raw/main/m3u/CCTV.m3u',
-'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
-'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt'
+'https://github.com/qjlxg/TV/raw/main/list.m3u'
+
 
  
 ]
