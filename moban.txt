@@ -35,7 +35,6 @@ NBC NEWS
 Al Jazeera
 Sky News Now
 CNA
-
 广东珠江
 深圳卫视
 重庆卫视
@@ -43,19 +42,11 @@ CNA
 卡酷少儿
 嘉佳卡通
 炫动卡通
-金鹰卡通
 广东少儿
 云南少儿
 浙江少儿
 哈哈炫动
 卡酷动画
-浙江公共新闻
-浙江国际
-浙江教科影视
-之江纪录
-浙江民生休闲
-浙江经视
-浙江钱江都市
 
 
 陕西1套
@@ -78,13 +69,6 @@ CNA
 贵州-4
 贵州-5
 贵州-6
-
-
-
-
-
-
-
 TVBS欢乐
 TVBS亚洲
 台视新闻
@@ -101,16 +85,12 @@ TVBS亚洲
 东森新闻
 东森美洲
 星河台
-
-
 半岛新闻
 東森洋片
 東森電影
-
 東森超視
 私人影院
 龍祥電影
-
 三立戏剧台
 八大戏剧台
 八大综合
@@ -119,79 +99,24 @@ TVB Plus
 24 News
 ABC Me
 ABC News (AU)
-ABC News (Australia)
-ABC News Albania Ⓣ
-ABC News Live
 AMC
 Anime TV
 ANN News
 Aanx电影
-Arirang
 Arirang TV
 Arirang World
 ARIRANG WORLD
 Arise News
 BBC
-BBC Alba
-BBC Asian Network
-BBC Doctor Who
-BBC Drama
-BBC Drama – Pluto TV
-BBC Earth
-BBC Food
-BBC Four
-BBC four cbeebies
-BBC Home
 BBC News
-BBC NEWS ARABIA (backup)
-BBC News Ⓖ
-BBC One
-BBC Parliament Ⓢ Ⓖ
-BBC Scotland Ⓢ Ⓖ
-BBC Three
-BBC Travel
-BBC Two
 BBC World
-BBC World News Ⓢ
-BBC World Service
-BBCEARTH
-BBCEarth
-BBCEarthHD
-BBCEarthLifestyle
-BBLACK! AFRICA
-BBLACK! CARIBBEAN
-BBLACK! CLASSIK
-BRTV财经
-BRTV国际频道
-BRTV生活
-BRTV体育休闲
-BRTV文艺
-BRTV新闻
-BRTV影视
-BTV卡通
-CatchPlay电影
-CBBC Ⓖ
+
+CNN
 CBC
 CBC LIVE
-CBC News
 CBC NEWS
-CBC News Network
-CBN News
 CBS NEWS
 CBS News – Pluto TV
-CBS News Tells Truth About Ukraine & Gets In Trouble!
-CBS reality UK Ⓢ
-CCTV10
-CCTV11
-CCTV14
-CCTV7
-CCTV8
-CETV-1
-CETV-2
-CETV-3
-CETV-4
-Channel 4
-Channel 5
 Channel I news
 Channel News Asia
 CHANNEL S HD
@@ -203,138 +128,37 @@ Cinemax
 CINEMAX电影
 CNBC
 CNBC NEWS
-CNEWS
-CNN DESTROYED!
 CNN INT
-CNN INT [downlink]
-CNN INT [geo-blocked]
-CNN International
-CNN International Europe
-CNN Portugal
-CNN PORTUGAL
-CNN PORTUGAL (backup)
-CNN PORTUGAL [find-host]
-CNN PORTUGAL [tkn-blocked]
-CNN TÜRK
-CNN TÜRK (tokened)
 CN卡通
 CTV News
 DBC Live
-Discover Film
-Discover Pakistan TV
-Discovery Bangla HD
-Discovery HD
-Discovery HD Multi Audio
-Discovery Hindi HD
-Discovery Multi
-Discovery Science Multi Audio
-Discovery_Bangla
 DiscoveryAsia
-DiscoveryHD
-Disney
-Disney International
-DW
-DW English
-DW News
-EYETV戏剧
-FTV News (民视新闻台) Ⓨ
-FTV One (民视第一台)
-FTV Taiwan (民视台湾台)
-FUEL TV
-GB News
 GB NEWS
-GBNews
 HBC Hokkaido News 24
 HBO
-HBO(美)
-HBO强档巨献
-HBO温馨家庭
-HBO原创巨献
-HD Fashion & Lifestyle TV
-HOY TV Ⓖ
-HOY77台
-HOY78台
-i24 News
 I24 NEWS EN
 KBC TV
 KBS 1TV
 KBS 2TV
 KBS WORLD
 KCTV
-MBC 1
-MBC 3
-MBC 4
-MBC 5
-MBC AFLAM
-MBC BOLLYWOOD
-MBC DRAMA
-MBC DRAMA PLUS
-MBC DRAMA USA
-MBC FM LIVE TV
-MBC IRAQ
-MBC MASR 1
-MBC MASR 2
-MBC MOVIES
-MBC PERSIA
 MCA
-MOMO亲子
-MOMO综合
+
 NBC News
-NBC NEWS [downlink]
-NBC News NOW
+
 NBN
-NDTV 24*7
-NDTV 24x7
-NDTV India
+
 NHK
-NHK BS
-NHK BSP4K
-NHK E Ⓢ
-NHK G (Osaka) Ⓢ
-NHK G (Tokyo) Ⓢ
-NHK Kishou-Saigai Ⓢ
+
 NHK WORLD
-NHK World
-NHK World Japan
-NHK World-Japan
-NHK WORLD-JAPAN
-NHRA TV
-Nick Ⓖ
+
+
 Niigata News NST
-Ninja Kidz TV
-Nippon TV (日テレ) Ⓢ
-NO TÉLÉ
-NOKTA TV KOCAELİ
-Noovo
-NOOVO
 Nopola News
-NORA TV AKSARAY
-Norman Finkelstein OWNS Israeli Apologist Over Palestine
-Nosey
-PTS Taigi (公视台语台) Ⓨ Ⓖ
-RTHK TV 31
-RTHK TV 32
 RTHK31
-RTI Calabria
-RTI国语
-RTK 1
-RTK 2
-RTK 3
-RTK 4
-RTL
+
 SKY NEWS
-Sky News
-Sky News (UK)
-SKY NEWS [deadlink]
-SKY NEWS [geo-blocked]
-SKY NEWS AUSTRALIA
-Sky News Now (AU)
-Sky TG24
-SKYHABER TV
-TVB Finance (Sports & Information Channel)
 TVB J1
-TVB j2开码[1280*720]
-TVB Live Show
 TVB News Channel
 TVB Thai
 TVBJ1
@@ -348,22 +172,8 @@ TVB无线新闻
 TVB星河
 TVB娱乐新闻
 TVC News
-爱尔达影剧
-爱尔达娱乐
-爱尔达综合
-安多卫视
 安徽卫视
-澳门莲花
 八大戏剧
-北京卫视
-兵团卫视
-采昌影剧
-超级电视剧
-超级电影
-超级视剧
-超级体育
-超级综艺
-潮妈辣婆
 潮州公共
 成都都市
 成都公共
@@ -371,45 +181,22 @@ TVC News
 成都少儿
 成都新闻
 成都影视
-崇明
-达川生活
-达州
-大立电视台
-大时代
-大湾区卫视
-第一剧场
-电视剧轮播
-电影
-东北热剧
-东方卫视
-东南卫视
 东森超视
 东森电影
 东森戏剧
 东森洋片
 东森综合
 动漫秀场
-动作电影
 峨眉电影
-非凡商业
 凤凰电影
-凤凰卫视
-福贡综合
-福建教育
 甘肃都市
 甘肃公共
 甘肃经济
 甘肃少儿
 甘肃卫视
 甘肃文化
-高点综合
-高邮
-公共新闻
-公视
-公视3
-功夫电影
-功夫台
-古装剧场
+
+
 广东公共
 广东科教
 广东民生
@@ -427,10 +214,6 @@ TVC News
 广州新闻
 广州影视
 广州综合
-贵州卫视
-国家野生
-国立教育电台
-国兴卫视
 哈密1套
 哈密2套
 哈密3套
@@ -452,10 +235,6 @@ TVC News
 邯郸公共频道
 邯郸科教频道
 邯郸新闻综合频道
-韩国娱乐
-好莱坞电影
-好消息
-好消息综合
 河北都市
 河北经济
 河北农民
@@ -464,49 +243,15 @@ TVC News
 河北影视
 河南卫视
 河南乡村
-贺岁电影
-贺州
+
 黑龙江公共农村
 黑龙江卫视
 黑龙江新闻法治
 黑龙江影视
-红河
-红河公共
-红河新闻
-湖北电视台
-湖北公共
-湖北公共新闻
-湖北教育
-湖北经视
-湖北垄上
-湖北生活
-湖北卫视
-湖北影视
-湖北综合
-湖南爱晚
-湖南电影
-湖南都市
-湖南国际
-湖南教育
-湖南经视
-湖南视剧
-湖南卫视
-湖南娱乐
+
 华视
 华视新闻
-华艺综合
-怀旧剧场
-欢乐剧场
-欢笑剧场
-黄河卫视
-吉林卫视
-纪实科教
-夹江
 佳嘉卡通
-家庭剧场
-家庭影院
-剑阁新闻
-江宁
 江苏城市
 江苏教育
 江苏体育休闲
@@ -514,22 +259,6 @@ TVC News
 江苏新闻
 江苏影视
 江苏综艺
-江西卫视
-金川
-金牌综艺
-金鹰纪实
-金庸武侠
-锦湖
-晋中
-晋中公共
-经典电影
-经济科教
-经济生活
-惊悚悬疑
-精品大剧
-精品纪录
-精品萌宠
-精品体育
 靖天国际
 靖天卡通
 靖天日本
@@ -545,178 +274,87 @@ TVC News
 酒店影视1
 酒店影视2
 酒店影视3
-康巴卫视
-科教影视
-客家电视
-狂飙
 李连杰电影
 林正英电影
 龙华电影台
 龙华戏剧台
 龙华洋片台
-龙江都市
-龙江少儿
-龙江文体
-龙江影视
-龙祥电影
 龙祥电影台
 龙华戏剧
-龙祥时代
-泸县
+
 洛阳二套科教频道
 洛阳三套文旅频道
 洛阳一套综合频道
-旅游卫视
-漫威电影
-茂名综合
+
 美亚C+
-美亚电影台
-蒙语卫视
-蒙语文化
 民视
 民视第一
 民视台湾
 民视无线台
-明星大片
-沐川
-南方卫视
-内蒙古卫视
+
 内蒙经济
 内蒙农牧
 内蒙少儿
 内蒙文体
 内蒙新闻
 年代MUCH
-年代much
 宁夏公共
 宁夏经济
 宁夏少儿
-宁夏卫视
 宁夏文旅
 农林卫视
-祁门综合
-青海卫视
-泉州
-泉州4
-日本新闻
 三立LIVE
 三立都会
 三立戏剧
-三沙卫视
-扫黄先锋
-厦门卫视
-山东教育卫视
+
 山东农科
 山东齐鲁
-山东卫视
+
 山西公共
 山西经济
 山西社会
-山西卫视
+
 山西文体
 山西影视
 陕西卫视
 汕头综合
 上海都市
 上海外语
-上海卫视
 上海新闻
 上海新综
-少儿动画
 石家庄都市频道
 石家庄生活频道
 石家庄新闻综合频道
 石家庄娱乐频道
-使徒行者
-世界地理
-四川卫视
-泗阳
-宿豫
-绥江
-隋唐英雄传
 台视
-台视财经
-
-探索动力DMAX
-探索频道
-天津卫视
-天龙八部
-天映电影
-天映经典
-天映频道
-通川
 纬来电影
 纬来日本
 纬来戏剧
 纬来综合
 文山新闻
-无线星河频道[1280*720]
-无线娱乐频道[1280*720]
 武汉教育
 武汉科技生活
 武汉文体
 武汉新闻综合
 武汉影视
-武术世界
-西藏卫视
-西游记1
-西游记2
-西游记后传
-西游记续集
-响水
-笑傲江湖
-新加坡国际[1280*720]
-新加坡中文[1280*720]
 新疆少儿
-新疆卫视
-星光视界[1280*720]
-星河
 星空卫视
-叙州
-寻秦记
-亚洲武侠
-亚洲旅游
-亚洲美食
-延边卫视
-延禧攻略
-央视高网
-央视台球
-壹电视新闻
 壹电影
 壹新闻
-倚天屠龙记
 影迷电影
 影迷数位电影
-元阳
-云南卫视
-郧西
-长子综合
-浙江6频道民生休闲频道
-浙江电视台少儿频道
-浙江电视台影视娱乐频道
-浙江国际频道
 浙江教科
-浙江教育科技频道
 浙江经济
 浙江民生
 浙江钱江
-浙江钱江都市频道
 浙江卫视
 浙江新闻
-浙江新闻频道
-浙江影视娱乐
-镇江公共
-镇江新闻
-正义电台
-中国功夫
 中视
 中视菁采
 中视经典
 中天亚洲台
 中天娱乐
 中天综合
-重温经典
 周星驰电影
 珠江公共
-珠江台测试
 珠江新闻
