@@ -569,8 +569,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
-https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="GONG" tvg-id="GONG" tvg-logo="https://live.fanmingming.com/tv/GONG.png" group-title="", GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-id="GO-TV Channel" tvg-logo="https://live.fanmingming.com/tv/GO-TV Channel.png" group-title="", GO-TV Channel
@@ -809,6 +807,8 @@ https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL 7" tvg-logo="https://live.fanmingming.com/tv/KANAL 7.png" group-title="", KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1 tvg-name="KANAL B" tvg-id="KANAL B" tvg-logo="https://live.fanmingming.com/tv/KANAL B.png" group-title="", KANAL B
+https://kanalb.blutv.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 tvg-name="KANAL D (backup)" tvg-id="KANAL D (backup)" tvg-logo="https://live.fanmingming.com/tv/KANAL D (backup).png" group-title="", KANAL D (backup)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL D" tvg-logo="https://live.fanmingming.com/tv/KANAL D.png" group-title="", KANAL D
@@ -1379,8 +1379,6 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
@@ -1849,8 +1847,6 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
@@ -2306,7 +2302,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
@@ -2351,8 +2347,6 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
 #EXTINF:-1 tvg-name="Vila Praia de Âncora" tvg-id="Vila Praia de Âncora" tvg-logo="https://live.fanmingming.com/tv/Vila Praia de Âncora.png" group-title="", Vila Praia de Âncora
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-#EXTINF:-1 tvg-name="Vilamoura" tvg-id="Vilamoura" tvg-logo="https://live.fanmingming.com/tv/Vilamoura.png" group-title="", Vilamoura
-https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-id="Vintage Radio Tv" tvg-logo="https://live.fanmingming.com/tv/Vintage Radio Tv.png" group-title="", Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-id="Virgin Radio TV Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Virgin Radio TV Ⓖ.png" group-title="", Virgin Radio TV Ⓖ
