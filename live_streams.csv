@@ -6599,10 +6599,10 @@ CCTV4K,CCTV4K,https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png,�
 西藏卫视,71,http://epg.51zmt.top:8000/tb1/ws/xizang.png,卫视频道,http://111.225.114.114:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,贵州卫视,https://live.fanmingming.com/tv/贵州卫视.png,卫视频道,http://106.46.114.104:8011/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州2,贵州2,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/SoNtDtRcuDbR.jpg",http://pili-live-snapshot.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17.m3u8
-贵州3,贵州3,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/kq09201cePrU.jpg",https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=ff6d57eb49a351f2cf87837468a09851&txTime=6678E601
-贵州4,贵州4,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/TlQgNo6srb2p.jpg",https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=fe38b97c9dd2801c3b677c0e95c87ac3&txTime=6678EC62
-贵州5,贵州5,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/fGTUM0FqTtzG.jpg",https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=99b7e28880fc29e1938f01913f88dc0b&txTime=6678EAB5
-贵州6,贵州6,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/sz3062_R-Ma-.jpg",https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=d7e13134d05d90848a2f6ef077c4dad3&txTime=6678EC62
+贵州3,贵州3,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/kq09201cePrU.jpg",https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=557c0d71757b8ce7a31f1467915b6308&txTime=6678F419
+贵州4,贵州4,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/TlQgNo6srb2p.jpg",https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=1e2bed7ab154e1f3ee27628c77e3c1ab&txTime=6678F419
+贵州5,贵州5,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/fGTUM0FqTtzG.jpg",https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=b45ce6449d3143589ce1d6165d9fb017&txTime=6678F45B
+贵州6,贵州6,,"贵州频道"" tvg-logo=""https://mstatic.gzstv.com/media/streams/images/2021/01/04/sz3062_R-Ma-.jpg",https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=e4e6053f284758e8101aa5b1eb3d5ea9&txTime=6678F45B
 "百姓关注大连线 ""group-title=""贵州频道","百姓关注大连线 ""group-title=""贵州频道",,,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
 重庆卫视,重庆卫视,http://epg.51zmt.top:8000/tb1/ws/chongqing.png,卫视频道,http://113.57.109.48:1111/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,陕西卫视,http://epg.51zmt.top:8000/tb1/ws/shanxi.png,卫视频道,http://111.225.114.114:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
