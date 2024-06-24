@@ -569,8 +569,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
-https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="GONG" tvg-id="GONG" tvg-logo="https://live.fanmingming.com/tv/GONG.png" group-title="", GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-id="GO-TV Channel" tvg-logo="https://live.fanmingming.com/tv/GO-TV Channel.png" group-title="", GO-TV Channel
@@ -789,6 +787,8 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-name="KAN 26 אפיק" tvg-id="KAN 26 אפיק" tvg-logo="https://live.fanmingming.com/tv/KAN 26 אפיק.png" group-title="", KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-name="KAN 33 MAKAN مكان (backlink)" tvg-id="KAN 33 MAKAN مكان (backlink)" tvg-logo="https://live.fanmingming.com/tv/KAN 33 MAKAN مكان (backlink).png" group-title="", KAN 33 MAKAN مكان (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Kanal 10 Sverige" tvg-id="Kanal 10 Sverige" tvg-logo="https://live.fanmingming.com/tv/Kanal 10 Sverige.png" group-title="", Kanal 10 Sverige
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL 15 BURDUR" tvg-id="KANAL 15 BURDUR" tvg-logo="https://live.fanmingming.com/tv/KANAL 15 BURDUR.png" group-title="", KANAL 15 BURDUR
@@ -877,6 +877,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-id="KOCAELİ TV" tvg-logo="https://live.fanmingming.com/tv/KOCAELİ TV.png" group-title="", KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-id="Kontra" tvg-logo="https://live.fanmingming.com/tv/Kontra.png" group-title="", Kontra
@@ -1234,7 +1236,7 @@ https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1 tvg-name="NTV (backup)" tvg-id="NTV (backup)" tvg-logo="https://live.fanmingming.com/tv/NTV (backup).png" group-title="", NTV (backup)
 http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV" tvg-logo="https://live.fanmingming.com/tv/NTV.png" group-title="", NTV
-http://canli.haber365.com.tr/tr/ntv/index.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE (backup)" tvg-id="NUMBER ONE (backup)" tvg-logo="https://live.fanmingming.com/tv/NUMBER ONE (backup).png" group-title="", NUMBER ONE (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE TÜRK ASK" tvg-id="NUMBER ONE TÜRK ASK" tvg-logo="https://live.fanmingming.com/tv/NUMBER ONE TÜRK ASK.png" group-title="", NUMBER ONE TÜRK ASK
@@ -1698,7 +1700,7 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-name="SHOW TÜRK (geçici geçerli)" tvg-id="SHOW TÜRK (geçici geçerli)" tvg-logo="https://live.fanmingming.com/tv/SHOW TÜRK (geçici geçerli).png" group-title="", SHOW TÜRK (geçici geçerli)
 https://bozztv.com/inim03/live1/showtvturk/playlist.m3u8
 #EXTINF:-1 tvg-name="SHOW" tvg-id="SHOW" tvg-logo="https://live.fanmingming.com/tv/SHOW.png" group-title="", SHOW
-http://canli.haber365.com.tr/tr/showtv/index.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="SIC HD ALTA DEFINIÇÃO" tvg-id="SIC HD ALTA DEFINIÇÃO" tvg-logo="https://live.fanmingming.com/tv/SIC HD ALTA DEFINIÇÃO.png" group-title="", SIC HD ALTA DEFINIÇÃO
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-name="SIC NOTICIAS (backup)" tvg-id="SIC NOTICIAS (backup)" tvg-logo="https://live.fanmingming.com/tv/SIC NOTICIAS (backup).png" group-title="", SIC NOTICIAS (backup)
@@ -2009,14 +2011,12 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TG4" tvg-id="TG4" tvg-logo="https://live.fanmingming.com/tv/TG4.png" group-title="", TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1 tvg-name="TGRT BELGESEL (backup)" tvg-id="TGRT BELGESEL (backup)" tvg-logo="https://live.fanmingming.com/tv/TGRT BELGESEL (backup).png" group-title="", TGRT BELGESEL (backup)
-https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT BELGESEL" tvg-logo="https://live.fanmingming.com/tv/TGRT BELGESEL.png" group-title="", TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRT EU" tvg-logo="https://live.fanmingming.com/tv/TGRT EU.png" group-title="", TGRT EU
-https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER (backup)" tvg-id="TGRT HABER (backup)" tvg-logo="https://live.fanmingming.com/tv/TGRT HABER (backup).png" group-title="", TGRT HABER (backup)
-http://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT HABER" tvg-logo="https://live.fanmingming.com/tv/TGRT HABER.png" group-title="", TGRT HABER
 https://tgrthaber.blutv.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:-1 tvg-name="THAQAFEYYAH" tvg-id="THAQAFEYYAH" tvg-logo="https://live.fanmingming.com/tv/THAQAFEYYAH.png" group-title="", THAQAFEYYAH
@@ -2153,8 +2153,6 @@ https://trtworld.blutv.com/blutv_trtworld2/live.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
-https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
@@ -2427,8 +2425,6 @@ https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m
 https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-name="YNET NEWS ידיעות אחרונות" tvg-id="YNET NEWS ידיעות אחרונות" tvg-logo="https://live.fanmingming.com/tv/YNET NEWS ידיעות אחרונות.png" group-title="", YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
-#EXTINF:-1 tvg-name="YOL TV" tvg-id="YOL TV" tvg-logo="https://live.fanmingming.com/tv/YOL TV.png" group-title="", YOL TV
-http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 tvg-name="YOUR TIME" tvg-id="YOUR TIME" tvg-logo="https://live.fanmingming.com/tv/YOUR TIME.png" group-title="", YOUR TIME
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="YOZGAT BLD TV" tvg-id="YOZGAT BLD TV" tvg-logo="https://live.fanmingming.com/tv/YOZGAT BLD TV.png" group-title="", YOZGAT BLD TV
