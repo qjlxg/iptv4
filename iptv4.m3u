@@ -537,8 +537,6 @@ https://frikanalen.no/stream/index.m3u8
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="fueling financial instability and extreme inequality" tvg-id="fueling financial instability and extreme inequality" tvg-logo="https://live.fanmingming.com/tv/fueling financial instability and extreme inequality.png" group-title="", fueling financial instability and extreme inequality
 https://sp.rmbl.ws/s8/2/R/z/Y/9/RzY9k.haa.mp4
-#EXTINF:-1 tvg-name="FUJAIRAH TV" tvg-id="FUJAIRAH TV" tvg-logo="https://live.fanmingming.com/tv/FUJAIRAH TV.png" group-title="", FUJAIRAH TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/playlist.m3u8
 #EXTINF:-1 tvg-name="Full Moon" tvg-id="Full Moon" tvg-logo="https://live.fanmingming.com/tv/Full Moon.png" group-title="", Full Moon
 https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FX TV" tvg-id="FX TV" tvg-logo="https://live.fanmingming.com/tv/FX TV.png" group-title="", FX TV
@@ -877,6 +875,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-id="KOCAELİ TV" tvg-logo="https://live.fanmingming.com/tv/KOCAELİ TV.png" group-title="", KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-id="Kontra" tvg-logo="https://live.fanmingming.com/tv/Kontra.png" group-title="", Kontra
@@ -1393,10 +1393,6 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
@@ -2099,6 +2095,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel XP English NZ" tvg-id="Travel XP English NZ" tvg-logo="https://live.fanmingming.com/tv/Travel XP English NZ.png" group-title="", Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRC Santeramo" tvg-id="TRC Santeramo" tvg-logo="https://live.fanmingming.com/tv/TRC Santeramo.png" group-title="", TRC Santeramo
+https://stream7.livinlive.it/trc/trc/playlist.m3u8
 #EXTINF:-1 tvg-name="Tremedia Tv" tvg-id="Tremedia Tv" tvg-logo="https://live.fanmingming.com/tv/Tremedia Tv.png" group-title="", Tremedia Tv
 https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Trend TV" tvg-id="Trend TV" tvg-logo="https://live.fanmingming.com/tv/Trend TV.png" group-title="", Trend TV
