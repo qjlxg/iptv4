@@ -56,7 +56,7 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/130
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="", 重庆卫视
 http://121.24.99.191:8090/hls/78/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="", 广东少儿
-http://113.110.72.52:808/hls/111/index.m3u8
+http://113.110.72.52:8090/hls/111/index.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-id="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="", 云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="", 浙江少儿
@@ -321,8 +321,6 @@ https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK" tvg-id="DREAM TÜRK" tvg-logo="https://live.fanmingming.com/tv/DREAM TÜRK.png" group-title="", DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="DRT DENİZLİ" tvg-id="DRT DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/DRT DENİZLİ.png" group-title="", DRT DENİZLİ
-https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="DTV" tvg-id="DTV" tvg-logo="https://live.fanmingming.com/tv/DTV.png" group-title="", DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="Duma TV" tvg-id="Duma TV" tvg-logo="https://live.fanmingming.com/tv/Duma TV.png" group-title="", Duma TV
@@ -341,8 +339,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-name="EDESSA TV ŞANLIURFA" tvg-id="EDESSA TV ŞANLIURFA" tvg-logo="https://live.fanmingming.com/tv/EDESSA TV ŞANLIURFA.png" group-title="", EDESSA TV ŞANLIURFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
-#EXTINF:-1 tvg-name="EDİRNE TV" tvg-id="EDİRNE TV" tvg-logo="https://live.fanmingming.com/tv/EDİRNE TV.png" group-title="", EDİRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-name="EITB 1" tvg-id="EITB 1" tvg-logo="https://live.fanmingming.com/tv/EITB 1.png" group-title="", EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="EITB 2" tvg-id="EITB 2" tvg-logo="https://live.fanmingming.com/tv/EITB 2.png" group-title="", EITB 2
@@ -1381,14 +1377,14 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
@@ -2351,6 +2347,8 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="WAU" tvg-id="WAU" tvg-logo="https://live.fanmingming.com/tv/WAU.png" group-title="", WAU
 https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#EXTINF:-1 tvg-name="Webcom Tv" tvg-id="Webcom Tv" tvg-logo="https://live.fanmingming.com/tv/Webcom Tv.png" group-title="", Webcom Tv
+https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
 #EXTINF:-1 tvg-name="WÉO NORD" tvg-id="WÉO NORD" tvg-logo="https://live.fanmingming.com/tv/WÉO NORD.png" group-title="", WÉO NORD
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 #EXTINF:-1 tvg-name="WÉO PICARDIE" tvg-id="WÉO PICARDIE" tvg-logo="https://live.fanmingming.com/tv/WÉO PICARDIE.png" group-title="", WÉO PICARDIE
@@ -2390,7 +2388,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-name="YleX Studio Live" tvg-id="YleX Studio Live" tvg-logo="https://live.fanmingming.com/tv/YleX Studio Live.png" group-title="", YleX Studio Live
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 #EXTINF:-1 tvg-name="YNET NEWS (feed)" tvg-id="YNET NEWS (feed)" tvg-logo="https://live.fanmingming.com/tv/YNET NEWS (feed).png" group-title="", YNET NEWS (feed)
-https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8
+https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-name="YNET NEWS ידיעות אחרונות" tvg-id="YNET NEWS ידיעות אחרונות" tvg-logo="https://live.fanmingming.com/tv/YNET NEWS ידיעות אחרונות.png" group-title="", YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 #EXTINF:-1 tvg-name="YOL TV" tvg-id="YOL TV" tvg-logo="https://live.fanmingming.com/tv/YOL TV.png" group-title="", YOL TV
