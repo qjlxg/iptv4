@@ -565,6 +565,8 @@ https://stream.uagit.tv/gittv.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-name="GLOBAL NEWS" tvg-id="GLOBAL NEWS" tvg-logo="https://live.fanmingming.com/tv/GLOBAL NEWS.png" group-title="", GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Globovisión" tvg-id="Globovisión" tvg-logo="https://live.fanmingming.com/tv/Globovisión.png" group-title="", Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
@@ -1227,8 +1229,6 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
 #EXTINF:-1 tvg-name="NRJ 12" tvg-id="NRJ 12" tvg-logo="https://live.fanmingming.com/tv/NRJ 12.png" group-title="", NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-name="NRT 4 Monclova" tvg-id="NRT 4 Monclova" tvg-logo="https://live.fanmingming.com/tv/NRT 4 Monclova.png" group-title="", NRT 4 Monclova
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-name="NTI Canale 271" tvg-id="NTI Canale 271" tvg-logo="https://live.fanmingming.com/tv/NTI Canale 271.png" group-title="", NTI Canale 271
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1 tvg-name="NTV (backup)" tvg-id="NTV (backup)" tvg-logo="https://live.fanmingming.com/tv/NTV (backup).png" group-title="", NTV (backup)
@@ -1397,8 +1397,6 @@ https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-name="Promovideo Tv" tvg-id="Promovideo Tv" tvg-logo="https://live.fanmingming.com/tv/Promovideo Tv.png" group-title="", Promovideo Tv
@@ -1815,8 +1813,6 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="T9" tvg-id="T9" tvg-logo="https://live.fanmingming.com/tv/T9.png" group-title="", T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-name="Tagesschau24" tvg-id="Tagesschau24" tvg-logo="https://live.fanmingming.com/tv/Tagesschau24.png" group-title="", Tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="TAHA TV" tvg-id="TAHA TV" tvg-logo="https://live.fanmingming.com/tv/TAHA TV.png" group-title="", TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="Taiwan Plus" tvg-logo="https://live.fanmingming.com/tv/Taiwan Plus.png" group-title="", Taiwan Plus
@@ -2010,7 +2006,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER (backup)" tvg-id="TGRT HABER (backup)" tvg-logo="https://live.fanmingming.com/tv/TGRT HABER (backup).png" group-title="", TGRT HABER (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT HABER" tvg-logo="https://live.fanmingming.com/tv/TGRT HABER.png" group-title="", TGRT HABER
-https://tgrthaber.blutv.com/blutv_tgrthaber2/live.m3u8
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-name="THAQAFEYYAH" tvg-id="THAQAFEYYAH" tvg-logo="https://live.fanmingming.com/tv/THAQAFEYYAH.png" group-title="", THAQAFEYYAH
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 #EXTINF:-1 tvg-name="The Boat Show" tvg-id="The Boat Show" tvg-logo="https://live.fanmingming.com/tv/The Boat Show.png" group-title="", The Boat Show
