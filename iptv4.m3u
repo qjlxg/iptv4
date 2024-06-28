@@ -1257,6 +1257,8 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 tvg-name="OBS TV" tvg-id="OBS TV" tvg-logo="https://live.fanmingming.com/tv/OBS TV.png" group-title="", OBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
+#EXTINF:-1 tvg-name="Ofir" tvg-id="Ofir" tvg-logo="https://live.fanmingming.com/tv/Ofir.png" group-title="", Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
 #EXTINF:-1 tvg-name="OGUN TV" tvg-id="OGUN TV" tvg-logo="https://live.fanmingming.com/tv/OGUN TV.png" group-title="", OGUN TV
 https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:-1 tvg-name="OLAY TÜRK KAYSERİ TV" tvg-id="OLAY TÜRK KAYSERİ TV" tvg-logo="https://live.fanmingming.com/tv/OLAY TÜRK KAYSERİ TV.png" group-title="", OLAY TÜRK KAYSERİ TV
@@ -1387,6 +1389,8 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
