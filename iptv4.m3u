@@ -183,8 +183,6 @@ https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-id="Chernivtsi Promin" tvg-logo="https://live.fanmingming.com/tv/Chernivtsi Promin.png" group-title="", Chernivtsi Promin
 http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
 https://sp.rmbl.ws/s8/2/q/G/f/H/qGfHd.haa.mp4
 #EXTINF:-1 tvg-name="CIA & FBI Brag About Throwing Elections At Home & Abroad" tvg-id="CIA & FBI Brag About Throwing Elections At Home & Abroad" tvg-logo="https://live.fanmingming.com/tv/CIA & FBI Brag About Throwing Elections At Home & Abroad.png" group-title="", CIA & FBI Brag About Throwing Elections At Home & Abroad
@@ -367,8 +365,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-name="EL PAIS" tvg-id="EL PAIS" tvg-logo="https://live.fanmingming.com/tv/EL PAIS.png" group-title="", EL PAIS
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-id="El Pingüino TV" tvg-logo="https://live.fanmingming.com/tv/El Pingüino TV.png" group-title="", El Pingüino TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EL SHARQ" tvg-id="EL SHARQ" tvg-logo="https://live.fanmingming.com/tv/EL SHARQ.png" group-title="", EL SHARQ
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-name="EL TORO TV" tvg-id="EL TORO TV" tvg-logo="https://live.fanmingming.com/tv/EL TORO TV.png" group-title="", EL TORO TV
@@ -569,6 +565,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
+https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="GONG" tvg-id="GONG" tvg-logo="https://live.fanmingming.com/tv/GONG.png" group-title="", GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-id="GO-TV Channel" tvg-logo="https://live.fanmingming.com/tv/GO-TV Channel.png" group-title="", GO-TV Channel
@@ -823,6 +821,8 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-name="KANAL S SAMSUN" tvg-id="KANAL S SAMSUN" tvg-logo="https://live.fanmingming.com/tv/KANAL S SAMSUN.png" group-title="", KANAL S SAMSUN
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal T Ⓢ" tvg-id="Kanal T Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kanal T Ⓢ.png" group-title="", Kanal T Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL V ANTALYA" tvg-id="KANAL V ANTALYA" tvg-logo="https://live.fanmingming.com/tv/KANAL V ANTALYA.png" group-title="", KANAL V ANTALYA
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL Z ZONGULDAK" tvg-id="KANAL Z ZONGULDAK" tvg-logo="https://live.fanmingming.com/tv/KANAL Z ZONGULDAK.png" group-title="", KANAL Z ZONGULDAK
@@ -861,12 +861,10 @@ http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_4000_I-
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-name="KIBRIS BRT 3" tvg-id="KIBRIS BRT 3" tvg-logo="https://live.fanmingming.com/tv/KIBRIS BRT 3.png" group-title="", KIBRIS BRT 3
 http://gineu8.bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8
-#EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" tvg-id="Kıbrıs Genç TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kıbrıs Genç TV Ⓢ.png" group-title="", Kıbrıs Genç TV Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="KIBRIS KK TV" tvg-id="KIBRIS KK TV" tvg-logo="https://live.fanmingming.com/tv/KIBRIS KK TV.png" group-title="", KIBRIS KK TV
 http://kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1 tvg-name="Kıbrıs TV Ⓢ" tvg-id="Kıbrıs TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kıbrıs TV Ⓢ.png" group-title="", Kıbrıs TV Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="KIBRIS SİM TV" tvg-id="KIBRIS SİM TV" tvg-logo="https://live.fanmingming.com/tv/KIBRIS SİM TV.png" group-title="", KIBRIS SİM TV
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
@@ -1621,8 +1619,6 @@ http://cdn.adultiptv.net/russian.m3u8
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-name="S4C Ⓖ" tvg-id="S4C Ⓖ" tvg-logo="https://live.fanmingming.com/tv/S4C Ⓖ.png" group-title="", S4C Ⓖ
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-name="SA Tv" tvg-id="SA Tv" tvg-logo="https://live.fanmingming.com/tv/SA Tv.png" group-title="", SA Tv
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
 #EXTINF:-1 tvg-name="Saab TV Ⓢ" tvg-id="Saab TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Saab TV Ⓢ.png" group-title="", Saab TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-name="SALAM" tvg-id="SALAM" tvg-logo="https://live.fanmingming.com/tv/SALAM.png" group-title="", SALAM
@@ -2123,6 +2119,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
@@ -2257,8 +2255,6 @@ https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 #EXTINF:-1 tvg-name="UBC TV" tvg-id="UBC TV" tvg-logo="https://live.fanmingming.com/tv/UBC TV.png" group-title="", UBC TV
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-id="UCL" tvg-logo="https://live.fanmingming.com/tv/UCL.png" group-title="", UCL
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UCV Televisión" tvg-id="UCV Televisión" tvg-logo="https://live.fanmingming.com/tv/UCV Televisión.png" group-title="", UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Uganda Discovers $12 Trillion In Gold Deposits" tvg-id="Uganda Discovers $12 Trillion In Gold Deposits" tvg-logo="https://live.fanmingming.com/tv/Uganda Discovers $12 Trillion In Gold Deposits.png" group-title="", Uganda Discovers $12 Trillion In Gold Deposits
