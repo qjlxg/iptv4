@@ -557,6 +557,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
+https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="GONG" tvg-id="GONG" tvg-logo="https://live.fanmingming.com/tv/GONG.png" group-title="", GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-id="GO-TV Channel" tvg-logo="https://live.fanmingming.com/tv/GO-TV Channel.png" group-title="", GO-TV Channel
@@ -809,8 +811,6 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-name="KANAL S SAMSUN" tvg-id="KANAL S SAMSUN" tvg-logo="https://live.fanmingming.com/tv/KANAL S SAMSUN.png" group-title="", KANAL S SAMSUN
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal T Ⓢ" tvg-id="Kanal T Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kanal T Ⓢ.png" group-title="", Kanal T Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL V ANTALYA" tvg-id="KANAL V ANTALYA" tvg-logo="https://live.fanmingming.com/tv/KANAL V ANTALYA.png" group-title="", KANAL V ANTALYA
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL Z ZONGULDAK" tvg-id="KANAL Z ZONGULDAK" tvg-logo="https://live.fanmingming.com/tv/KANAL Z ZONGULDAK.png" group-title="", KANAL Z ZONGULDAK
@@ -1369,16 +1369,12 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Promovideo Tv" tvg-id="Promovideo Tv" tvg-logo="https://live.fanmingming.com/tv/Promovideo Tv.png" group-title="", Promovideo Tv
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1 tvg-name="PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies" tvg-id="PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies" tvg-logo="https://live.fanmingming.com/tv/PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies.png" group-title="", PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies
@@ -1761,8 +1757,6 @@ http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 #EXTINF:-1 tvg-name="SUN RTV MERSİN" tvg-id="SUN RTV MERSİN" tvg-logo="https://live.fanmingming.com/tv/SUN RTV MERSİN.png" group-title="", SUN RTV MERSİN
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
-#EXTINF:-1 tvg-name="Super Six" tvg-id="Super Six" tvg-logo="https://live.fanmingming.com/tv/Super Six.png" group-title="", Super Six
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Super! Ⓢ" tvg-id="Super! Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Super! Ⓢ.png" group-title="", Super! Ⓢ
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-id="SuperTennis" tvg-logo="https://live.fanmingming.com/tv/SuperTennis.png" group-title="", SuperTennis
@@ -1855,8 +1849,6 @@ https://videas.agglo-lenslievin.fr/index.m3u8
 https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
 #EXTINF:-1 tvg-name="Tele Jonio" tvg-id="Tele Jonio" tvg-logo="https://live.fanmingming.com/tv/Tele Jonio.png" group-title="", Tele Jonio
 http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Liguria Sud" tvg-id="Tele Liguria Sud" tvg-logo="https://live.fanmingming.com/tv/Tele Liguria Sud.png" group-title="", Tele Liguria Sud
-https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE MADRID OTRA" tvg-id="TELE MADRID OTRA" tvg-logo="https://live.fanmingming.com/tv/TELE MADRID OTRA.png" group-title="", TELE MADRID OTRA
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="TELE MADRID" tvg-id="TELE MADRID" tvg-logo="https://live.fanmingming.com/tv/TELE MADRID.png" group-title="", TELE MADRID
@@ -2095,6 +2087,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
@@ -2252,7 +2246,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
