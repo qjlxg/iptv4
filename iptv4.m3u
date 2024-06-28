@@ -927,8 +927,6 @@ https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-name="LaC Tv Calabria" tvg-id="LaC Tv Calabria" tvg-logo="https://live.fanmingming.com/tv/LaC Tv Calabria.png" group-title="", LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 tvg-name="LALEGÜL TV" tvg-id="LALEGÜL TV" tvg-logo="https://live.fanmingming.com/tv/LALEGÜL TV.png" group-title="", LALEGÜL TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-name="LANA TV" tvg-id="LANA TV" tvg-logo="https://live.fanmingming.com/tv/LANA TV.png" group-title="", LANA TV
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-name="Latina" tvg-id="Latina" tvg-logo="https://live.fanmingming.com/tv/Latina.png" group-title="", Latina
@@ -1173,6 +1171,8 @@ https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
 #EXTINF:-1 tvg-name="NDTV India" tvg-id="NDTV India" tvg-logo="https://live.fanmingming.com/tv/NDTV India.png" group-title="", NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-name="NEGAH TV" tvg-id="NEGAH TV" tvg-logo="https://live.fanmingming.com/tv/NEGAH TV.png" group-title="", NEGAH TV
+https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-name="NEOCONS PANIC AS ISRAEL FUELS REGIONAL WAR | THE DURAN ON PUTIN'S TERMS FOR UKRAINE | XI-BIDEN MEET" tvg-id="NEOCONS PANIC AS ISRAEL FUELS REGIONAL WAR | THE DURAN ON PUTIN'S TERMS FOR UKRAINE | XI-BIDEN MEET" tvg-logo="https://live.fanmingming.com/tv/NEOCONS PANIC AS ISRAEL FUELS REGIONAL WAR | THE DURAN ON PUTIN'S TERMS FOR UKRAINE | XI-BIDEN MEET.png" group-title="", NEOCONS PANIC AS ISRAEL FUELS REGIONAL WAR | THE DURAN ON PUTIN'S TERMS FOR UKRAINE | XI-BIDEN MEET
 https://sp.rmbl.ws/s8/2/L/a/U/9/LaU9n.aaa.rec.mp4
 #EXTINF:-1 tvg-name="Net TV" tvg-id="Net TV" tvg-logo="https://live.fanmingming.com/tv/Net TV.png" group-title="", Net TV
@@ -1391,8 +1391,6 @@ https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-name="Promovideo Tv" tvg-id="Promovideo Tv" tvg-logo="https://live.fanmingming.com/tv/Promovideo Tv.png" group-title="", Promovideo Tv
@@ -1471,8 +1469,6 @@ https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete Veneta" tvg-id="Rete Veneta" tvg-logo="https://live.fanmingming.com/tv/Rete Veneta.png" group-title="", Rete Veneta
 http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 tvg-name="Retrô Cartoon" tvg-id="Retrô Cartoon" tvg-logo="https://live.fanmingming.com/tv/Retrô Cartoon.png" group-title="", Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Reuters 🛜" tvg-id="Reuters 🛜" tvg-logo="https://live.fanmingming.com/tv/Reuters 🛜.png" group-title="", Reuters 🛜
 https://i.mjh.nz/SamsungTVPlus/DEBD4900001QV.m3u8
 #EXTINF:-1 tvg-name="RIK INT" tvg-id="RIK INT" tvg-logo="https://live.fanmingming.com/tv/RIK INT.png" group-title="", RIK INT
@@ -1867,6 +1863,8 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Genova" tvg-id="Tele Genova" tvg-logo="https://live.fanmingming.com/tv/Tele Genova.png" group-title="", Tele Genova
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+#EXTINF:-1 tvg-name="TELE GOHELLE" tvg-id="TELE GOHELLE" tvg-logo="https://live.fanmingming.com/tv/TELE GOHELLE.png" group-title="", TELE GOHELLE
+https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 tvg-name="Tele Ischia" tvg-id="Tele Ischia" tvg-logo="https://live.fanmingming.com/tv/Tele Ischia.png" group-title="", Tele Ischia
 https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
 #EXTINF:-1 tvg-name="Tele Jonio" tvg-id="Tele Jonio" tvg-logo="https://live.fanmingming.com/tv/Tele Jonio.png" group-title="", Tele Jonio
@@ -2274,7 +2272,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
