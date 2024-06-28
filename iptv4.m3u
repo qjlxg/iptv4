@@ -56,7 +56,7 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/130
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="", 重庆卫视
 http://121.24.99.191:8090/hls/78/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="", 广东少儿
-http://113.110.72.52:808/hls/111/index.m3u8
+http://113.110.72.52:8090/hls/111/index.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-id="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="", 云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="", 浙江少儿
@@ -321,6 +321,8 @@ https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK" tvg-id="DREAM TÜRK" tvg-logo="https://live.fanmingming.com/tv/DREAM TÜRK.png" group-title="", DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="DRT DENİZLİ" tvg-id="DRT DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/DRT DENİZLİ.png" group-title="", DRT DENİZLİ
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="DTV" tvg-id="DTV" tvg-logo="https://live.fanmingming.com/tv/DTV.png" group-title="", DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="Duma TV" tvg-id="Duma TV" tvg-logo="https://live.fanmingming.com/tv/Duma TV.png" group-title="", Duma TV
@@ -565,6 +567,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
+https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="GONG" tvg-id="GONG" tvg-logo="https://live.fanmingming.com/tv/GONG.png" group-title="", GONG
 https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-id="GO-TV Channel" tvg-logo="https://live.fanmingming.com/tv/GO-TV Channel.png" group-title="", GO-TV Channel
@@ -1393,6 +1397,8 @@ https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Promovideo Tv" tvg-id="Promovideo Tv" tvg-logo="https://live.fanmingming.com/tv/Promovideo Tv.png" group-title="", Promovideo Tv
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1 tvg-name="PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies" tvg-id="PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies" tvg-logo="https://live.fanmingming.com/tv/PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies.png" group-title="", PROOF Antisemitism Accusations Against Corbyn Were Labour Party Lies
@@ -1841,8 +1847,6 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
@@ -2121,6 +2125,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
