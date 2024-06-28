@@ -343,6 +343,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-name="EDESSA TV ŞANLIURFA" tvg-id="EDESSA TV ŞANLIURFA" tvg-logo="https://live.fanmingming.com/tv/EDESSA TV ŞANLIURFA.png" group-title="", EDESSA TV ŞANLIURFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
+#EXTINF:-1 tvg-name="EDİRNE TV" tvg-id="EDİRNE TV" tvg-logo="https://live.fanmingming.com/tv/EDİRNE TV.png" group-title="", EDİRNE TV
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-name="EITB 1" tvg-id="EITB 1" tvg-logo="https://live.fanmingming.com/tv/EITB 1.png" group-title="", EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="EITB 2" tvg-id="EITB 2" tvg-logo="https://live.fanmingming.com/tv/EITB 2.png" group-title="", EITB 2
@@ -859,8 +861,6 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://gineu8.bozztv.com/gin-36bay3/gt-kibrisbrt3/index.m3u8
 #EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" tvg-id="Kıbrıs Genç TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kıbrıs Genç TV Ⓢ.png" group-title="", Kıbrıs Genç TV Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="KIBRIS KK TV" tvg-id="KIBRIS KK TV" tvg-logo="https://live.fanmingming.com/tv/KIBRIS KK TV.png" group-title="", KIBRIS KK TV
-http://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-name="Kıbrıs TV Ⓢ" tvg-id="Kıbrıs TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kıbrıs TV Ⓢ.png" group-title="", Kıbrıs TV Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
@@ -1032,7 +1032,7 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:-1 tvg-name="MBC FM LIVE TV" tvg-id="MBC FM LIVE TV" tvg-logo="https://live.fanmingming.com/tv/MBC FM LIVE TV.png" group-title="", MBC FM LIVE TV
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-name="MBC IRAQ" tvg-id="MBC IRAQ" tvg-logo="https://live.fanmingming.com/tv/MBC IRAQ.png" group-title="", MBC IRAQ
-https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-name="MBC MASR 1 [offlink]" tvg-id="MBC MASR 1 [offlink]" tvg-logo="https://live.fanmingming.com/tv/MBC MASR 1 [offlink].png" group-title="", MBC MASR 1 [offlink]
 https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-name="MBC MASR 1 USA" tvg-id="MBC MASR 1 USA" tvg-logo="https://live.fanmingming.com/tv/MBC MASR 1 USA.png" group-title="", MBC MASR 1 USA
@@ -1375,6 +1375,8 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
@@ -1707,6 +1709,8 @@ https://skyfolk.mk/live.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 #EXTINF:-1 tvg-name="SKYHABER TV" tvg-id="SKYHABER TV" tvg-logo="https://live.fanmingming.com/tv/SKYHABER TV.png" group-title="", SKYHABER TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/playlist.m3u8
+#EXTINF:-1 tvg-name="SL 48 Tv" tvg-id="SL 48 Tv" tvg-logo="https://live.fanmingming.com/tv/SL 48 Tv.png" group-title="", SL 48 Tv
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="SL ONE" tvg-id="SL ONE" tvg-logo="https://live.fanmingming.com/tv/SL ONE.png" group-title="", SL ONE
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="SL TWO" tvg-id="SL TWO" tvg-logo="https://live.fanmingming.com/tv/SL TWO.png" group-title="", SL TWO
@@ -2109,8 +2113,6 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
-https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
