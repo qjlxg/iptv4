@@ -547,6 +547,8 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="Geekdot" tvg-id="Geekdot" tvg-logo="https://live.fanmingming.com/tv/Geekdot.png" group-title="", Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="GEO KAHANI" tvg-id="GEO KAHANI" tvg-logo="https://live.fanmingming.com/tv/GEO KAHANI.png" group-title="", GEO KAHANI
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-id="Giornale Radio Tv" tvg-logo="https://live.fanmingming.com/tv/Giornale Radio Tv.png" group-title="", Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Giovanni Paolo Tv" tvg-id="Giovanni Paolo Tv" tvg-logo="https://live.fanmingming.com/tv/Giovanni Paolo Tv.png" group-title="", Giovanni Paolo Tv
@@ -557,6 +559,8 @@ https://stream.uagit.tv/gittv.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-name="GLOBAL NEWS" tvg-id="GLOBAL NEWS" tvg-logo="https://live.fanmingming.com/tv/GLOBAL NEWS.png" group-title="", GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Globovisión" tvg-id="Globovisión" tvg-logo="https://live.fanmingming.com/tv/Globovisión.png" group-title="", Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
@@ -625,22 +629,12 @@ https://sp.rmbl.ws/s8/2/M/Y/9/n/MY9ng.haa.mp4
 https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
 #EXTINF:-1 tvg-name="HQM Baladas" tvg-id="HQM Baladas" tvg-logo="https://live.fanmingming.com/tv/HQM Baladas.png" group-title="", HQM Baladas
 https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1 tvg-name="HQM Blues" tvg-id="HQM Blues" tvg-logo="https://live.fanmingming.com/tv/HQM Blues.png" group-title="", HQM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
 #EXTINF:-1 tvg-name="HQM Chill Out" tvg-id="HQM Chill Out" tvg-logo="https://live.fanmingming.com/tv/HQM Chill Out.png" group-title="", HQM Chill Out
 https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
 #EXTINF:-1 tvg-name="HQM Folk" tvg-id="HQM Folk" tvg-logo="https://live.fanmingming.com/tv/HQM Folk.png" group-title="", HQM Folk
 https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:-1 tvg-name="HQM Hip Hop" tvg-id="HQM Hip Hop" tvg-logo="https://live.fanmingming.com/tv/HQM Hip Hop.png" group-title="", HQM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
 #EXTINF:-1 tvg-name="HQM Kids" tvg-id="HQM Kids" tvg-logo="https://live.fanmingming.com/tv/HQM Kids.png" group-title="", HQM Kids
 https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:-1 tvg-name="HQM Remember" tvg-id="HQM Remember" tvg-logo="https://live.fanmingming.com/tv/HQM Remember.png" group-title="", HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:-1 tvg-name="HQM Rock" tvg-id="HQM Rock" tvg-logo="https://live.fanmingming.com/tv/HQM Rock.png" group-title="", HQM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1 tvg-name="HQM Spanish" tvg-id="HQM Spanish" tvg-logo="https://live.fanmingming.com/tv/HQM Spanish.png" group-title="", HQM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 #EXTINF:-1 tvg-name="HR Ⓖ" tvg-id="HR Ⓖ" tvg-logo="https://live.fanmingming.com/tv/HR Ⓖ.png" group-title="", HR Ⓖ
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="HRT 1" tvg-id="HRT 1" tvg-logo="https://live.fanmingming.com/tv/HRT 1.png" group-title="", HRT 1
@@ -1367,8 +1361,6 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1951,8 +1943,6 @@ https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
 #EXTINF:-1 tvg-name="Telestar1" tvg-id="Telestar1" tvg-logo="https://live.fanmingming.com/tv/Telestar1.png" group-title="", Telestar1
 http://89.47.97.15/telestar/telestar.m3u8
-#EXTINF:-1 tvg-name="Telesud Trapani" tvg-id="Telesud Trapani" tvg-logo="https://live.fanmingming.com/tv/Telesud Trapani.png" group-title="", Telesud Trapani
-https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
 #EXTINF:-1 tvg-name="TELESUR EN" tvg-id="TELESUR EN" tvg-logo="https://live.fanmingming.com/tv/TELESUR EN.png" group-title="", TELESUR EN
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="TELESUR" tvg-id="TELESUR" tvg-logo="https://live.fanmingming.com/tv/TELESUR.png" group-title="", TELESUR
@@ -2262,7 +2252,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
@@ -2385,6 +2375,8 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-name="YRF Music HD" tvg-id="YRF Music HD" tvg-logo="https://live.fanmingming.com/tv/YRF Music HD.png" group-title="", YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Z Zaporozhye" tvg-id="Z Zaporozhye" tvg-logo="https://live.fanmingming.com/tv/Z Zaporozhye.png" group-title="", Z Zaporozhye
+https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-name="Zalaegerszeg TV" tvg-id="Zalaegerszeg TV" tvg-logo="https://live.fanmingming.com/tv/Zalaegerszeg TV.png" group-title="", Zalaegerszeg TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Zelensky Bodyguard Has Nazi Patch On Uniform!" tvg-id="Zelensky Bodyguard Has Nazi Patch On Uniform!" tvg-logo="https://live.fanmingming.com/tv/Zelensky Bodyguard Has Nazi Patch On Uniform!.png" group-title="", Zelensky Bodyguard Has Nazi Patch On Uniform!
