@@ -64,7 +64,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-id="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="", TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-id="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="", 台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-id="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="", 中视新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
 #EXTINF:-1 tvg-name="三立新闻" tvg-id="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="", 三立新闻
@@ -847,6 +847,8 @@ http://kuzeykibris.tv/m3u8/kktv.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kıbrıs TV Ⓢ" tvg-id="Kıbrıs TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kıbrıs TV Ⓢ.png" group-title="", Kıbrıs TV Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-id="KOCAELİ TV" tvg-logo="https://live.fanmingming.com/tv/KOCAELİ TV.png" group-title="", KOCAELİ TV
@@ -967,8 +969,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 http://ares.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-name="M»Net Kids" tvg-id="M»Net Kids" tvg-logo="https://live.fanmingming.com/tv/M»Net Kids.png" group-title="", M»Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-name="M»Net Sport" tvg-id="M»Net Sport" tvg-logo="https://live.fanmingming.com/tv/M»Net Sport.png" group-title="", M»Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-name="M»Net" tvg-id="M»Net" tvg-logo="https://live.fanmingming.com/tv/M»Net.png" group-title="", M»Net
 http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-name="M2 Ⓢ" tvg-id="M2 Ⓢ" tvg-logo="https://live.fanmingming.com/tv/M2 Ⓢ.png" group-title="", M2 Ⓢ
@@ -1795,6 +1795,8 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1 tvg-name="TBMM TV" tvg-id="TBMM TV" tvg-logo="https://live.fanmingming.com/tv/TBMM TV.png" group-title="", TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="TBN Baltia" tvg-id="TBN Baltia" tvg-logo="https://live.fanmingming.com/tv/TBN Baltia.png" group-title="", TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-id="TBS" tvg-logo="https://live.fanmingming.com/tv/TBS.png" group-title="", TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-name="Tcf Tv" tvg-id="Tcf Tv" tvg-logo="https://live.fanmingming.com/tv/Tcf Tv.png" group-title="", Tcf Tv
@@ -1811,8 +1813,6 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
@@ -2248,7 +2248,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
