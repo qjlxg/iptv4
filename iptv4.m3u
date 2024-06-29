@@ -319,6 +319,8 @@ https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK" tvg-id="DREAM TÜRK" tvg-logo="https://live.fanmingming.com/tv/DREAM TÜRK.png" group-title="", DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="DRT DENİZLİ" tvg-id="DRT DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/DRT DENİZLİ.png" group-title="", DRT DENİZLİ
+https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="DTV" tvg-id="DTV" tvg-logo="https://live.fanmingming.com/tv/DTV.png" group-title="", DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="Duma TV" tvg-id="Duma TV" tvg-logo="https://live.fanmingming.com/tv/Duma TV.png" group-title="", Duma TV
@@ -555,6 +557,8 @@ https://stream.uagit.tv/gittv.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-name="GLOBAL NEWS" tvg-id="GLOBAL NEWS" tvg-logo="https://live.fanmingming.com/tv/GLOBAL NEWS.png" group-title="", GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Globovisión" tvg-id="Globovisión" tvg-logo="https://live.fanmingming.com/tv/Globovisión.png" group-title="", Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-id="Gold Tv" tvg-logo="https://live.fanmingming.com/tv/Gold Tv.png" group-title="", Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL" tvg-logo="https://live.fanmingming.com/tv/GOLF CHANNEL.png" group-title="", GOLF CHANNEL
@@ -677,6 +681,8 @@ https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-name="India Today" tvg-id="India Today" tvg-logo="https://live.fanmingming.com/tv/India Today.png" group-title="", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="iNEWS" tvg-id="iNEWS" tvg-logo="https://live.fanmingming.com/tv/iNEWS.png" group-title="", iNEWS
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Interracial" tvg-id="Interracial" tvg-logo="https://live.fanmingming.com/tv/Interracial.png" group-title="", Interracial
 http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-name="ION Plus" tvg-id="ION Plus" tvg-logo="https://live.fanmingming.com/tv/ION Plus.png" group-title="", ION Plus
@@ -687,28 +693,26 @@ https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-name="IRIB 1 (backup)" tvg-id="IRIB 1 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 1 (backup).png" group-title="", IRIB 1 (backup)
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB 1" tvg-id="IRIB 1" tvg-logo="https://live.fanmingming.com/tv/IRIB 1.png" group-title="", IRIB 1
-https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-name="IRIB 2 (backup)" tvg-id="IRIB 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 2 (backup).png" group-title="", IRIB 2 (backup)
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
+#EXTINF:-1 tvg-name="IRIB 2" tvg-id="IRIB 2" tvg-logo="https://live.fanmingming.com/tv/IRIB 2.png" group-title="", IRIB 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 tvg-name="IRIB 3 (backup)" tvg-id="IRIB 3 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 3 (backup).png" group-title="", IRIB 3 (backup)
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 4 (backup)" tvg-id="IRIB 4 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 4 (backup).png" group-title="", IRIB 4 (backup)
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB 4" tvg-id="IRIB 4" tvg-logo="https://live.fanmingming.com/tv/IRIB 4.png" group-title="", IRIB 4
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="IRIB AMOOZESH" tvg-id="IRIB AMOOZESH" tvg-logo="https://live.fanmingming.com/tv/IRIB AMOOZESH.png" group-title="", IRIB AMOOZESH
-https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+#EXTINF:-1 tvg-name="IRIB 5" tvg-id="IRIB 5" tvg-logo="https://live.fanmingming.com/tv/IRIB 5.png" group-title="", IRIB 5
+https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-name="IRIB IRINN (backup)" tvg-id="IRIB IRINN (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN (backup).png" group-title="", IRIB IRINN (backup)
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB IRINN" tvg-id="IRIB IRINN" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN.png" group-title="", IRIB IRINN
-https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 tvg-name="IRIB MOSTANAD" tvg-id="IRIB MOSTANAD" tvg-logo="https://live.fanmingming.com/tv/IRIB MOSTANAD.png" group-title="", IRIB MOSTANAD
-https://live.aionet.ir/hls/mostanad/mostanad.m3u8
-#EXTINF:-1 tvg-name="IRIB NASIM" tvg-id="IRIB NASIM" tvg-logo="https://live.fanmingming.com/tv/IRIB NASIM.png" group-title="", IRIB NASIM
-https://live.aionet.ir/hls/nasim/nasim.m3u8
-#EXTINF:-1 tvg-name="IRIB SALAMAT" tvg-id="IRIB SALAMAT" tvg-logo="https://live.fanmingming.com/tv/IRIB SALAMAT.png" group-title="", IRIB SALAMAT
-https://live.aionet.ir/hls/salamat/salamat.m3u8
+#EXTINF:-1 tvg-name="IRIB MESRAFSANJAN" tvg-id="IRIB MESRAFSANJAN" tvg-logo="https://live.fanmingming.com/tv/IRIB MESRAFSANJAN.png" group-title="", IRIB MESRAFSANJAN
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
+#EXTINF:-1 tvg-name="IRIB NAMAYESH" tvg-id="IRIB NAMAYESH" tvg-logo="https://live.fanmingming.com/tv/IRIB NAMAYESH.png" group-title="", IRIB NAMAYESH
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+#EXTINF:-1 tvg-name="IRIB POOYA" tvg-id="IRIB POOYA" tvg-logo="https://live.fanmingming.com/tv/IRIB POOYA.png" group-title="", IRIB POOYA
+https://live.aionet.ir/hls/pooya/pooya.m3u8
+#EXTINF:-1 tvg-name="IRIB TAMASHA" tvg-id="IRIB TAMASHA" tvg-logo="https://live.fanmingming.com/tv/IRIB TAMASHA.png" group-title="", IRIB TAMASHA
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-name="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-id="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-logo="https://live.fanmingming.com/tv/Irish Politician Calls Out Western Imperialism To EU MPs Faces.png" group-title="", Irish Politician Calls Out Western Imperialism To EU MPs Faces
 https://sp.rmbl.ws/s8/2/l/4/N/p/l4Nph.haa.mp4
 #EXTINF:-1 tvg-name="Is Russia Poised To Win The Ukraine War?" tvg-id="Is Russia Poised To Win The Ukraine War?" tvg-logo="https://live.fanmingming.com/tv/Is Russia Poised To Win The Ukraine War?.png" group-title="", Is Russia Poised To Win The Ukraine War?
@@ -969,6 +973,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 http://ares.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-name="M»Net Kids" tvg-id="M»Net Kids" tvg-logo="https://live.fanmingming.com/tv/M»Net Kids.png" group-title="", M»Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-name="M»Net Sport" tvg-id="M»Net Sport" tvg-logo="https://live.fanmingming.com/tv/M»Net Sport.png" group-title="", M»Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-name="M»Net" tvg-id="M»Net" tvg-logo="https://live.fanmingming.com/tv/M»Net.png" group-title="", M»Net
 http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-name="M2 Ⓢ" tvg-id="M2 Ⓢ" tvg-logo="https://live.fanmingming.com/tv/M2 Ⓢ.png" group-title="", M2 Ⓢ
@@ -1813,6 +1819,8 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
