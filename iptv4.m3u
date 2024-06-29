@@ -463,8 +463,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-name="FashionTV" tvg-id="FashionTV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="", FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="FehérvárTV" tvg-id="FehérvárTV" tvg-logo="https://live.fanmingming.com/tv/FehérvárTV.png" group-title="", FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-id="FENERBAHÇE TV" tvg-logo="https://live.fanmingming.com/tv/FENERBAHÇE TV.png" group-title="", FENERBAHÇE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Fetish" tvg-id="Fetish" tvg-logo="https://live.fanmingming.com/tv/Fetish.png" group-title="", Fetish
@@ -1071,8 +1069,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1 tvg-name="MTV Ava" tvg-id="MTV Ava" tvg-logo="https://live.fanmingming.com/tv/MTV Ava.png" group-title="", MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="MTV Sub" tvg-id="MTV Sub" tvg-logo="https://live.fanmingming.com/tv/MTV Sub.png" group-title="", MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-id="MTV Uutiset Live" tvg-logo="https://live.fanmingming.com/tv/MTV Uutiset Live.png" group-title="", MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="MTV3" tvg-id="MTV3" tvg-logo="https://live.fanmingming.com/tv/MTV3.png" group-title="", MTV3
@@ -1133,6 +1129,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-name="NASA TV Public" tvg-id="NASA TV Public" tvg-logo="https://live.fanmingming.com/tv/NASA TV Public.png" group-title="", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="National Geographic Finland" tvg-id="National Geographic Finland" tvg-logo="https://live.fanmingming.com/tv/National Geographic Finland.png" group-title="", National Geographic Finland
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Nazaré - Forte S. Miguel Arcanjo - Baía" tvg-id="Nazaré - Forte S. Miguel Arcanjo - Baía" tvg-logo="https://live.fanmingming.com/tv/Nazaré - Forte S. Miguel Arcanjo - Baía.png" group-title="", Nazaré - Forte S. Miguel Arcanjo - Baía
 https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nazaré - Forte S. Miguel Arcanjo" tvg-id="Nazaré - Forte S. Miguel Arcanjo" tvg-logo="https://live.fanmingming.com/tv/Nazaré - Forte S. Miguel Arcanjo.png" group-title="", Nazaré - Forte S. Miguel Arcanjo
@@ -1239,8 +1237,6 @@ http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 https://edg01-prd-de-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8
 #EXTINF:-1 tvg-name="Ora Tv" tvg-id="Ora Tv" tvg-logo="https://live.fanmingming.com/tv/Ora Tv.png" group-title="", Ora Tv
 https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
-#EXTINF:-1 tvg-name="ORDU BEL TV" tvg-id="ORDU BEL TV" tvg-logo="https://live.fanmingming.com/tv/ORDU BEL TV.png" group-title="", ORDU BEL TV
-https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Orler Tv" tvg-id="Orler Tv" tvg-logo="https://live.fanmingming.com/tv/Orler Tv.png" group-title="", Orler Tv
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-id="Oroszlányi Városi Televízió" tvg-logo="https://live.fanmingming.com/tv/Oroszlányi Városi Televízió.png" group-title="", Oroszlányi Városi Televízió
@@ -1351,8 +1347,6 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1391,8 +1385,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="RBC" tvg-id="RBC" tvg-logo="https://live.fanmingming.com/tv/RBC.png" group-title="", RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-name="RDS Social TV" tvg-id="RDS Social TV" tvg-logo="https://live.fanmingming.com/tv/RDS Social TV.png" group-title="", RDS Social TV
-https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-name="REAL AMERICAS VOICE" tvg-id="REAL AMERICAS VOICE" tvg-logo="https://live.fanmingming.com/tv/REAL AMERICAS VOICE.png" group-title="", REAL AMERICAS VOICE
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-name="REAL MADRID CINEVERSE" tvg-id="REAL MADRID CINEVERSE" tvg-logo="https://live.fanmingming.com/tv/REAL MADRID CINEVERSE.png" group-title="", REAL MADRID CINEVERSE
@@ -1667,8 +1659,6 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
 #EXTINF:-1 tvg-name="SIC REPLAY" tvg-id="SIC REPLAY" tvg-logo="https://live.fanmingming.com/tv/SIC REPLAY.png" group-title="", SIC REPLAY
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-name="SIC" tvg-id="SIC" tvg-logo="https://live.fanmingming.com/tv/SIC.png" group-title="", SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-name="Sicilia 24 Tv" tvg-id="Sicilia 24 Tv" tvg-logo="https://live.fanmingming.com/tv/Sicilia 24 Tv.png" group-title="", Sicilia 24 Tv
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-name="Sienatv" tvg-id="Sienatv" tvg-logo="https://live.fanmingming.com/tv/Sienatv.png" group-title="", Sienatv
@@ -1765,6 +1755,8 @@ https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Surongo" tvg-id="Surongo" tvg-logo="https://live.fanmingming.com/tv/Surongo.png" group-title="", Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
+#EXTINF:-1 tvg-name="Syri" tvg-id="Syri" tvg-logo="https://live.fanmingming.com/tv/Syri.png" group-title="", Syri
+https://stream.syritv.al/SyriTV/index.m3u8
 #EXTINF:-1 tvg-name="SYRIA TV" tvg-id="SYRIA TV" tvg-logo="https://live.fanmingming.com/tv/SYRIA TV.png" group-title="", SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-id="T13 en vivo" tvg-logo="https://live.fanmingming.com/tv/T13 en vivo.png" group-title="", T13 en vivo
@@ -1863,6 +1855,12 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
 #EXTINF:-1 tvg-name="Tele One" tvg-id="Tele One" tvg-logo="https://live.fanmingming.com/tv/Tele One.png" group-title="", Tele One
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Pace 1" tvg-id="Tele Pace 1" tvg-logo="https://live.fanmingming.com/tv/Tele Pace 1.png" group-title="", Tele Pace 1
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
+#EXTINF:-1 tvg-name="Tele Pace 2" tvg-id="Tele Pace 2" tvg-logo="https://live.fanmingming.com/tv/Tele Pace 2.png" group-title="", Tele Pace 2
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
+#EXTINF:-1 tvg-name="Tele Pace 3" tvg-id="Tele Pace 3" tvg-logo="https://live.fanmingming.com/tv/Tele Pace 3.png" group-title="", Tele Pace 3
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Tele Pace 4" tvg-id="Tele Pace 4" tvg-logo="https://live.fanmingming.com/tv/Tele Pace 4.png" group-title="", Tele Pace 4
 https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Tele Pace News" tvg-id="Tele Pace News" tvg-logo="https://live.fanmingming.com/tv/Tele Pace News.png" group-title="", Tele Pace News
@@ -1927,6 +1925,8 @@ https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
 #EXTINF:-1 tvg-name="Telestar1" tvg-id="Telestar1" tvg-logo="https://live.fanmingming.com/tv/Telestar1.png" group-title="", Telestar1
 http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1 tvg-name="Telesud Trapani" tvg-id="Telesud Trapani" tvg-logo="https://live.fanmingming.com/tv/Telesud Trapani.png" group-title="", Telesud Trapani
+https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
 #EXTINF:-1 tvg-name="TELESUR EN" tvg-id="TELESUR EN" tvg-logo="https://live.fanmingming.com/tv/TELESUR EN.png" group-title="", TELESUR EN
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="TELESUR" tvg-id="TELESUR" tvg-logo="https://live.fanmingming.com/tv/TELESUR.png" group-title="", TELESUR
@@ -1995,6 +1995,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="TJB TV" tvg-id="TJB TV" tvg-logo="https://live.fanmingming.com/tv/TJB TV.png" group-title="", TJB TV
 http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="TLC Finland" tvg-id="TLC Finland" tvg-logo="https://live.fanmingming.com/tv/TLC Finland.png" group-title="", TLC Finland
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="TLC HD" tvg-id="TLC HD" tvg-logo="https://live.fanmingming.com/tv/TLC HD.png" group-title="", TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-name="TLC TR (backup)" tvg-id="TLC TR (backup)" tvg-logo="https://live.fanmingming.com/tv/TLC TR (backup).png" group-title="", TLC TR (backup)
