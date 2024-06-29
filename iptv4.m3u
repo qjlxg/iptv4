@@ -345,6 +345,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-name="EDESSA TV ŞANLIURFA" tvg-id="EDESSA TV ŞANLIURFA" tvg-logo="https://live.fanmingming.com/tv/EDESSA TV ŞANLIURFA.png" group-title="", EDESSA TV ŞANLIURFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
+#EXTINF:-1 tvg-name="EDİRNE TV" tvg-id="EDİRNE TV" tvg-logo="https://live.fanmingming.com/tv/EDİRNE TV.png" group-title="", EDİRNE TV
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-name="EITB 1" tvg-id="EITB 1" tvg-logo="https://live.fanmingming.com/tv/EITB 1.png" group-title="", EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="EITB 2" tvg-id="EITB 2" tvg-logo="https://live.fanmingming.com/tv/EITB 2.png" group-title="", EITB 2
@@ -557,6 +559,8 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="Geekdot" tvg-id="Geekdot" tvg-logo="https://live.fanmingming.com/tv/Geekdot.png" group-title="", Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="GEO KAHANI" tvg-id="GEO KAHANI" tvg-logo="https://live.fanmingming.com/tv/GEO KAHANI.png" group-title="", GEO KAHANI
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-id="Giornale Radio Tv" tvg-logo="https://live.fanmingming.com/tv/Giornale Radio Tv.png" group-title="", Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Giovanni Paolo Tv" tvg-id="Giovanni Paolo Tv" tvg-logo="https://live.fanmingming.com/tv/Giovanni Paolo Tv.png" group-title="", Giovanni Paolo Tv
@@ -663,6 +667,8 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-name="HTK" tvg-id="HTK" tvg-logo="https://live.fanmingming.com/tv/HTK.png" group-title="", HTK
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-name="HUNAT TV KAYSERİ" tvg-id="HUNAT TV KAYSERİ" tvg-logo="https://live.fanmingming.com/tv/HUNAT TV KAYSERİ.png" group-title="", HUNAT TV KAYSERİ
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-name="I24 NEWS AR" tvg-id="I24 NEWS AR" tvg-logo="https://live.fanmingming.com/tv/I24 NEWS AR.png" group-title="", I24 NEWS AR
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8
 #EXTINF:-1 tvg-name="I24 NEWS EN" tvg-id="I24 NEWS EN" tvg-logo="https://live.fanmingming.com/tv/I24 NEWS EN.png" group-title="", I24 NEWS EN
@@ -1077,8 +1083,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 tvg-name="META FILM" tvg-id="META FILM" tvg-logo="https://live.fanmingming.com/tv/META FILM.png" group-title="", META FILM
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="METROPOL DENİZLİ" tvg-id="METROPOL DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/METROPOL DENİZLİ.png" group-title="", METROPOL DENİZLİ
-https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="MGG E-SPORT" tvg-id="MGG E-SPORT" tvg-logo="https://live.fanmingming.com/tv/MGG E-SPORT.png" group-title="", MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-name="MIHAN TV" tvg-id="MIHAN TV" tvg-logo="https://live.fanmingming.com/tv/MIHAN TV.png" group-title="", MIHAN TV
@@ -1389,8 +1393,6 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1591,6 +1593,8 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP3" tvg-id="RTP3" tvg-logo="https://live.fanmingming.com/tv/RTP3.png" group-title="", RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-name="RTRS PLUS Ⓢ" tvg-id="RTRS PLUS Ⓢ" tvg-logo="https://live.fanmingming.com/tv/RTRS PLUS Ⓢ.png" group-title="", RTRS PLUS Ⓢ
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS 1" tvg-logo="https://live.fanmingming.com/tv/RTS 1.png" group-title="", RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS 2" tvg-logo="https://live.fanmingming.com/tv/RTS 2.png" group-title="", RTS 2
@@ -1651,8 +1655,6 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SAT7 KIDS" tvg-id="SAT7 KIDS" tvg-logo="https://live.fanmingming.com/tv/SAT7 KIDS.png" group-title="", SAT7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SAUDI ACTION WALEED" tvg-id="SAUDI ACTION WALEED" tvg-logo="https://live.fanmingming.com/tv/SAUDI ACTION WALEED.png" group-title="", SAUDI ACTION WALEED
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-name="Savoir Média" tvg-id="Savoir Média" tvg-logo="https://live.fanmingming.com/tv/Savoir Média.png" group-title="", Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-id="SBC Saudi Arabia" tvg-logo="https://live.fanmingming.com/tv/SBC Saudi Arabia.png" group-title="", SBC Saudi Arabia
@@ -2183,8 +2185,6 @@ https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-name="TV VENDÉE" tvg-id="TV VENDÉE" tvg-logo="https://live.fanmingming.com/tv/TV VENDÉE.png" group-title="", TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
-#EXTINF:-1 tvg-name="Tv Yes" tvg-id="Tv Yes" tvg-logo="https://live.fanmingming.com/tv/Tv Yes.png" group-title="", Tv Yes
-https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 tvg-name="TV2 ALGERIE" tvg-id="TV2 ALGERIE" tvg-logo="https://live.fanmingming.com/tv/TV2 ALGERIE.png" group-title="", TV2 ALGERIE
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-name="TV3 CATALUNYA 24H" tvg-id="TV3 CATALUNYA 24H" tvg-logo="https://live.fanmingming.com/tv/TV3 CATALUNYA 24H.png" group-title="", TV3 CATALUNYA 24H
@@ -2207,6 +2207,8 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8" tvg-logo="https://live.fanmingming.com/tv/TV8.png" group-title="", TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-name="TVA Czernowitz Ⓢ" tvg-id="TVA Czernowitz Ⓢ" tvg-logo="https://live.fanmingming.com/tv/TVA Czernowitz Ⓢ.png" group-title="", TVA Czernowitz Ⓢ
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tva Vicenza" tvg-id="Tva Vicenza" tvg-logo="https://live.fanmingming.com/tv/Tva Vicenza.png" group-title="", Tva Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TVE 24 H (backup)" tvg-id="TVE 24 H (backup)" tvg-logo="https://live.fanmingming.com/tv/TVE 24 H (backup).png" group-title="", TVE 24 H (backup)
@@ -2295,8 +2297,6 @@ https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 https://sp.rmbl.ws/s8/2/g/k/g/Q/gkgQe.haa.mp4
 #EXTINF:-1 tvg-name="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-id="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-logo="https://live.fanmingming.com/tv/US/NATO Provoked Ukraine War Say Most Experts On Russia.png" group-title="", US/NATO Provoked Ukraine War Say Most Experts On Russia
 https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
-#EXTINF:-1 tvg-name="ÜSKÜDAR UNİVERSİTE TV" tvg-id="ÜSKÜDAR UNİVERSİTE TV" tvg-logo="https://live.fanmingming.com/tv/ÜSKÜDAR UNİVERSİTE TV.png" group-title="", ÜSKÜDAR UNİVERSİTE TV
-http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV IRAQI" tvg-id="UTV IRAQI" tvg-logo="https://live.fanmingming.com/tv/UTV IRAQI.png" group-title="", UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vale TV Ⓢ" tvg-id="Vale TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Vale TV Ⓢ.png" group-title="", Vale TV Ⓢ
