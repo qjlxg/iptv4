@@ -7,14 +7,15 @@ from tqdm import tqdm
 # 定义要抓取的m3u直播源链接列表
 m3u_urls = [
 'https://github.com/qjlxg/TV/raw/main/list.m3u',
- 'https://github.com/qjlxg/iptv4/raw/master/19813.m3u',
+'https://github.com/qjlxg/iptv4/raw/master/19813.m3u',
 'https://github.com/qjlxg/collect-tv-txt/raw/main/merged_output.m3u',
- 
- 'https://github.com/qjlxg/iptv4/raw/master/avto-full.m3u'
+'https://github.com/qjlxg/IPTV2/raw/main/iptv.m3u8',
+'https://github.com/qjlxg/IPTV2/raw/main/home.m3u8',
+'https://github.com/qjlxg/myIPTV/raw/main/ipv6.m3u',
+'https://github.com/qjlxg/IPTVzb1/raw/main/%E7%BB%93%E6%9E%9C.m3u',
+'https://github.com/qjlxg/IPTVzb1/raw/main/%E9%85%92%E5%BA%97%E6%BA%90.m3u',
+'https://github.com/qjlxg/iptv4/raw/master/avto-full.m3u'
 
-
-
- 
 ]
 
 # 准备写入CSV文件的字段名
