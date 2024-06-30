@@ -179,6 +179,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-name="CHÉRIE 25" tvg-id="CHÉRIE 25" tvg-logo="https://live.fanmingming.com/tv/CHÉRIE 25.png" group-title="", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-id="Chernivtsi Promin" tvg-logo="https://live.fanmingming.com/tv/Chernivtsi Promin.png" group-title="", Chernivtsi Promin
+http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
@@ -509,6 +511,8 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Folketinget TV" tvg-id="Folketinget TV" tvg-logo="https://live.fanmingming.com/tv/Folketinget TV.png" group-title="", Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-name="Fonte da Telha" tvg-id="Fonte da Telha" tvg-logo="https://live.fanmingming.com/tv/Fonte da Telha.png" group-title="", Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
 #EXTINF:-1 tvg-name="Food Food" tvg-id="Food Food" tvg-logo="https://live.fanmingming.com/tv/Food Food.png" group-title="", Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 #EXTINF:-1 tvg-name="Forgotten And Defeated: Zelensky Feels Abandoned By Western Allies As Corruption Continues To Plague Ukraine" tvg-id="Forgotten And Defeated: Zelensky Feels Abandoned By Western Allies As Corruption Continues To Plague Ukraine" tvg-logo="https://live.fanmingming.com/tv/Forgotten And Defeated: Zelensky Feels Abandoned By Western Allies As Corruption Continues To Plague Ukraine.png" group-title="", Forgotten And Defeated: Zelensky Feels Abandoned By Western Allies As Corruption Continues To Plague Ukraine
@@ -621,6 +625,8 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -1107,8 +1113,6 @@ https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-name="MUĞLA MERKEZ TV" tvg-id="MUĞLA MERKEZ TV" tvg-logo="https://live.fanmingming.com/tv/MUĞLA MERKEZ TV.png" group-title="", MUĞLA MERKEZ TV
 http://nrttn172.kesintisizyayin.com:29010/merkeztv/merkeztv/playlist.m3u8
-#EXTINF:-1 tvg-name="MUĞLA TÜRK TV" tvg-id="MUĞLA TÜRK TV" tvg-logo="https://live.fanmingming.com/tv/MUĞLA TÜRK TV.png" group-title="", MUĞLA TÜRK TV
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Murtinheira" tvg-id="Murtinheira" tvg-logo="https://live.fanmingming.com/tv/Murtinheira.png" group-title="", Murtinheira
 https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
 #EXTINF:-1 tvg-name="MUSAWA" tvg-id="MUSAWA" tvg-logo="https://live.fanmingming.com/tv/MUSAWA.png" group-title="", MUSAWA
@@ -1369,8 +1373,6 @@ https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia das Avencas" tvg-id="Praia das Avencas" tvg-logo="https://live.fanmingming.com/tv/Praia das Avencas.png" group-title="", Praia das Avencas
 https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
-#EXTINF:-1 tvg-name="Praia das Maçãs" tvg-id="Praia das Maçãs" tvg-logo="https://live.fanmingming.com/tv/Praia das Maçãs.png" group-title="", Praia das Maçãs
-https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia das Moitas" tvg-id="Praia das Moitas" tvg-logo="https://live.fanmingming.com/tv/Praia das Moitas.png" group-title="", Praia das Moitas
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia de Mira" tvg-id="Praia de Mira" tvg-logo="https://live.fanmingming.com/tv/Praia de Mira.png" group-title="", Praia de Mira
@@ -1383,12 +1385,6 @@ https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia dos Pescadores" tvg-id="Praia dos Pescadores" tvg-logo="https://live.fanmingming.com/tv/Praia dos Pescadores.png" group-title="", Praia dos Pescadores
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
-#EXTINF:-1 tvg-name="Praia Grande - Norte" tvg-id="Praia Grande - Norte" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Norte.png" group-title="", Praia Grande - Norte
-https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
-#EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
-https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
@@ -2131,6 +2127,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+#EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TURISMO ANDALUCÍA" tvg-id="TURISMO ANDALUCÍA" tvg-logo="https://live.fanmingming.com/tv/TURISMO ANDALUCÍA.png" group-title="", TURISMO ANDALUCÍA
