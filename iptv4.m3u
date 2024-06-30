@@ -51,14 +51,12 @@ https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-id="NBC NEWS" tvg-logo="https://live.fanmingming.com/tv/NBC NEWS.png" group-title="", NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="", 广东珠江
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="", 深圳卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="", 重庆卫视
 http://121.24.99.191:8090/hls/78/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="", 广东少儿
-http://113.110.72.52:808/hls/111/index.m3u8
+http://113.110.72.52:8090/hls/111/index.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-id="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="", 云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="", 浙江少儿
@@ -291,8 +289,6 @@ https://sp.rmbl.ws/s8/2/L/j/N/R/LjNRe.haa.mp4
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 80" tvg-id="Di.Tv 80" tvg-logo="https://live.fanmingming.com/tv/Di.Tv 80.png" group-title="", Di.Tv 80
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1 tvg-name="Di.Tv 92" tvg-id="Di.Tv 92" tvg-logo="https://live.fanmingming.com/tv/Di.Tv 92.png" group-title="", Di.Tv 92
-https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 #EXTINF:-1 tvg-name="DIEU TV" tvg-id="DIEU TV" tvg-logo="https://live.fanmingming.com/tv/DIEU TV.png" group-title="", DIEU TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-name="Dijlah Tarab" tvg-id="Dijlah Tarab" tvg-logo="https://live.fanmingming.com/tv/Dijlah Tarab.png" group-title="", Dijlah Tarab
@@ -491,14 +487,16 @@ https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
 #EXTINF:-1 tvg-name="Figueira da Foz" tvg-id="Figueira da Foz" tvg-logo="https://live.fanmingming.com/tv/Figueira da Foz.png" group-title="", Figueira da Foz
 https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 tvg-name="FİL TV" tvg-id="FİL TV" tvg-logo="https://live.fanmingming.com/tv/FİL TV.png" group-title="", FİL TV
-https://live.filbox.com.tr/filtv/index.m3u8
 #EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-id="Film d'azione – Rakuten TV" tvg-logo="https://live.fanmingming.com/tv/Film d'azione – Rakuten TV.png" group-title="", Film d'azione – Rakuten TV
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-id="Film Top – Rakuten TV" tvg-logo="https://live.fanmingming.com/tv/Film Top – Rakuten TV.png" group-title="", Film Top – Rakuten TV
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmstream" tvg-id="Filmstream" tvg-logo="https://live.fanmingming.com/tv/Filmstream.png" group-title="", Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-id="First Channel (1TV)" tvg-logo="https://live.fanmingming.com/tv/First Channel (1TV).png" group-title="", First Channel (1TV)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-name="First Channel /Education/ (2TV)" tvg-id="First Channel /Education/ (2TV)" tvg-logo="https://live.fanmingming.com/tv/First Channel /Education/ (2TV).png" group-title="", First Channel /Education/ (2TV)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-name="FLASH HABER" tvg-id="FLASH HABER" tvg-logo="https://live.fanmingming.com/tv/FLASH HABER.png" group-title="", FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-name="Florida Bangla TV" tvg-id="Florida Bangla TV" tvg-logo="https://live.fanmingming.com/tv/Florida Bangla TV.png" group-title="", Florida Bangla TV
@@ -627,6 +625,8 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -793,12 +793,6 @@ https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/ch
 https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Kanal 10 Sverige" tvg-id="Kanal 10 Sverige" tvg-logo="https://live.fanmingming.com/tv/Kanal 10 Sverige.png" group-title="", Kanal 10 Sverige
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 15 BURDUR" tvg-id="KANAL 15 BURDUR" tvg-logo="https://live.fanmingming.com/tv/KANAL 15 BURDUR.png" group-title="", KANAL 15 BURDUR
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 23 ELAZIĞ" tvg-id="KANAL 23 ELAZIĞ" tvg-logo="https://live.fanmingming.com/tv/KANAL 23 ELAZIĞ.png" group-title="", KANAL 23 ELAZIĞ
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 26 ESKİŞEHİR" tvg-id="KANAL 26 ESKİŞEHİR" tvg-logo="https://live.fanmingming.com/tv/KANAL 26 ESKİŞEHİR.png" group-title="", KANAL 26 ESKİŞEHİR
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1 tvg-name="KANAL 3 AFYONKARAHİSAR" tvg-id="KANAL 3 AFYONKARAHİSAR" tvg-logo="https://live.fanmingming.com/tv/KANAL 3 AFYONKARAHİSAR.png" group-title="", KANAL 3 AFYONKARAHİSAR
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:-1 tvg-name="KANAL 32 ISPARTA" tvg-id="KANAL 32 ISPARTA" tvg-logo="https://live.fanmingming.com/tv/KANAL 32 ISPARTA.png" group-title="", KANAL 32 ISPARTA
@@ -807,10 +801,6 @@ https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="KANAL 56 SİİRT" tvg-id="KANAL 56 SİİRT" tvg-logo="https://live.fanmingming.com/tv/KANAL 56 SİİRT.png" group-title="", KANAL 56 SİİRT
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 58 SİVAS" tvg-id="KANAL 58 SİVAS" tvg-logo="https://live.fanmingming.com/tv/KANAL 58 SİVAS.png" group-title="", KANAL 58 SİVAS
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL 68 AKSARAY" tvg-id="KANAL 68 AKSARAY" tvg-logo="https://live.fanmingming.com/tv/KANAL 68 AKSARAY.png" group-title="", KANAL 68 AKSARAY
-https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 (backup)" tvg-id="KANAL 7 (backup)" tvg-logo="https://live.fanmingming.com/tv/KANAL 7 (backup).png" group-title="", KANAL 7 (backup)
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL 7" tvg-logo="https://live.fanmingming.com/tv/KANAL 7.png" group-title="", KANAL 7
@@ -823,16 +813,12 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="KANAL D2 RO" tvg-id="KANAL D2 RO" tvg-logo="https://live.fanmingming.com/tv/KANAL D2 RO.png" group-title="", KANAL D2 RO
 https://stream2.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1 tvg-name="KANAL FIRAT" tvg-id="KANAL FIRAT" tvg-logo="https://live.fanmingming.com/tv/KANAL FIRAT.png" group-title="", KANAL FIRAT
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal Hovedstaden" tvg-id="Kanal Hovedstaden" tvg-logo="https://live.fanmingming.com/tv/Kanal Hovedstaden.png" group-title="", Kanal Hovedstaden
 http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-name="KANAL S SAMSUN" tvg-id="KANAL S SAMSUN" tvg-logo="https://live.fanmingming.com/tv/KANAL S SAMSUN.png" group-title="", KANAL S SAMSUN
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal T Ⓢ" tvg-id="Kanal T Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Kanal T Ⓢ.png" group-title="", Kanal T Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-name="KANAL V ANTALYA" tvg-id="KANAL V ANTALYA" tvg-logo="https://live.fanmingming.com/tv/KANAL V ANTALYA.png" group-title="", KANAL V ANTALYA
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL Z ZONGULDAK" tvg-id="KANAL Z ZONGULDAK" tvg-logo="https://live.fanmingming.com/tv/KANAL Z ZONGULDAK.png" group-title="", KANAL Z ZONGULDAK
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 tvg-name="KARABÜK DERİN TV" tvg-id="KARABÜK DERİN TV" tvg-logo="https://live.fanmingming.com/tv/KARABÜK DERİN TV.png" group-title="", KARABÜK DERİN TV
@@ -857,8 +843,6 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS WORLD" tvg-id="KBS WORLD" tvg-logo="https://live.fanmingming.com/tv/KBS WORLD.png" group-title="", KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-name="KENT 38 TV KAYSERİ" tvg-id="KENT 38 TV KAYSERİ" tvg-logo="https://live.fanmingming.com/tv/KENT 38 TV KAYSERİ.png" group-title="", KENT 38 TV KAYSERİ
-https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
 #EXTINF:-1 tvg-name="KENT TV BODRUM" tvg-id="KENT TV BODRUM" tvg-logo="https://live.fanmingming.com/tv/KENT TV BODRUM.png" group-title="", KENT TV BODRUM
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="KESHET 12 קשת (backup)" tvg-id="KESHET 12 קשת (backup)" tvg-logo="https://live.fanmingming.com/tv/KESHET 12 קשת (backup).png" group-title="", KESHET 12 קשת (backup)
@@ -925,8 +909,6 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-name="LAB LEAK "CONSPIRACY THEORY" MASHUP" tvg-id="LAB LEAK "CONSPIRACY THEORY" MASHUP" tvg-logo="https://live.fanmingming.com/tv/LAB LEAK "CONSPIRACY THEORY" MASHUP.png" group-title="", LAB LEAK "CONSPIRACY THEORY" MASHUP
 https://sp.rmbl.ws/s8/2/P/8/C/_/P8C_c.gaa.mp4
-#EXTINF:-1 tvg-name="Lab Tv" tvg-id="Lab Tv" tvg-logo="https://live.fanmingming.com/tv/Lab Tv.png" group-title="", Lab Tv
-https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
 #EXTINF:-1 tvg-name="LaC News 24" tvg-id="LaC News 24" tvg-logo="https://live.fanmingming.com/tv/LaC News 24.png" group-title="", LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-name="LaC Tv Calabria" tvg-id="LaC Tv Calabria" tvg-logo="https://live.fanmingming.com/tv/LaC Tv Calabria.png" group-title="", LaC Tv Calabria
@@ -1013,8 +995,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MAKO 24 ערוץ" tvg-id="MAKO 24 ערוץ" tvg-logo="https://live.fanmingming.com/tv/MAKO 24 ערוץ.png" group-title="", MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:-1 tvg-name="MALATYA VUSLAT TV" tvg-id="MALATYA VUSLAT TV" tvg-logo="https://live.fanmingming.com/tv/MALATYA VUSLAT TV.png" group-title="", MALATYA VUSLAT TV
-https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-name="MANISA ETV" tvg-id="MANISA ETV" tvg-logo="https://live.fanmingming.com/tv/MANISA ETV.png" group-title="", MANISA ETV
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Matadouro + SkatePark" tvg-id="Matadouro + SkatePark" tvg-logo="https://live.fanmingming.com/tv/Matadouro + SkatePark.png" group-title="", Matadouro + SkatePark
@@ -1079,8 +1059,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 tvg-name="META FILM" tvg-id="META FILM" tvg-logo="https://live.fanmingming.com/tv/META FILM.png" group-title="", META FILM
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="METROPOL DENİZLİ" tvg-id="METROPOL DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/METROPOL DENİZLİ.png" group-title="", METROPOL DENİZLİ
-https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="MGG E-SPORT" tvg-id="MGG E-SPORT" tvg-logo="https://live.fanmingming.com/tv/MGG E-SPORT.png" group-title="", MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-name="MIHAN TV" tvg-id="MIHAN TV" tvg-logo="https://live.fanmingming.com/tv/MIHAN TV.png" group-title="", MIHAN TV
@@ -1251,10 +1229,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE" tvg-id="NUMBER ONE" tvg-logo="https://live.fanmingming.com/tv/NUMBER ONE.png" group-title="", NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 1" tvg-id="Nuova Tv 1" tvg-logo="https://live.fanmingming.com/tv/Nuova Tv 1.png" group-title="", Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 2" tvg-id="Nuova Tv 2" tvg-logo="https://live.fanmingming.com/tv/Nuova Tv 2.png" group-title="", Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-name="Nuvola Tv" tvg-id="Nuvola Tv" tvg-logo="https://live.fanmingming.com/tv/Nuvola Tv.png" group-title="", Nuvola Tv
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 tvg-name="OBS TV" tvg-id="OBS TV" tvg-logo="https://live.fanmingming.com/tv/OBS TV.png" group-title="", OBS TV
@@ -1395,6 +1369,8 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1859,8 +1835,6 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
