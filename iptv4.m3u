@@ -321,8 +321,6 @@ https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK" tvg-id="DREAM TÜRK" tvg-logo="https://live.fanmingming.com/tv/DREAM TÜRK.png" group-title="", DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="DRT DENİZLİ" tvg-id="DRT DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/DRT DENİZLİ.png" group-title="", DRT DENİZLİ
-https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="DTV" tvg-id="DTV" tvg-logo="https://live.fanmingming.com/tv/DTV.png" group-title="", DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="Duma TV" tvg-id="Duma TV" tvg-logo="https://live.fanmingming.com/tv/Duma TV.png" group-title="", Duma TV
@@ -855,8 +853,6 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6laq/master.m3u8
 #EXTINF:-1 tvg-name="KAY TV KAYSERİ" tvg-id="KAY TV KAYSERİ" tvg-logo="https://live.fanmingming.com/tv/KAY TV KAYSERİ.png" group-title="", KAY TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-#EXTINF:-1 tvg-name="KBC TV" tvg-id="KBC TV" tvg-logo="https://live.fanmingming.com/tv/KBC TV.png" group-title="", KBC TV
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS WORLD" tvg-id="KBS WORLD" tvg-logo="https://live.fanmingming.com/tv/KBS WORLD.png" group-title="", KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="KENT 38 TV KAYSERİ" tvg-id="KENT 38 TV KAYSERİ" tvg-logo="https://live.fanmingming.com/tv/KENT 38 TV KAYSERİ.png" group-title="", KENT 38 TV KAYSERİ
@@ -1079,8 +1075,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 tvg-name="META FILM" tvg-id="META FILM" tvg-logo="https://live.fanmingming.com/tv/META FILM.png" group-title="", META FILM
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="METROPOL DENİZLİ" tvg-id="METROPOL DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/METROPOL DENİZLİ.png" group-title="", METROPOL DENİZLİ
-https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="MGG E-SPORT" tvg-id="MGG E-SPORT" tvg-logo="https://live.fanmingming.com/tv/MGG E-SPORT.png" group-title="", MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-name="MIHAN TV" tvg-id="MIHAN TV" tvg-logo="https://live.fanmingming.com/tv/MIHAN TV.png" group-title="", MIHAN TV
@@ -1373,6 +1367,8 @@ https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia das Avencas" tvg-id="Praia das Avencas" tvg-logo="https://live.fanmingming.com/tv/Praia das Avencas.png" group-title="", Praia das Avencas
 https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1 tvg-name="Praia das Maçãs" tvg-id="Praia das Maçãs" tvg-logo="https://live.fanmingming.com/tv/Praia das Maçãs.png" group-title="", Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia das Moitas" tvg-id="Praia das Moitas" tvg-logo="https://live.fanmingming.com/tv/Praia das Moitas.png" group-title="", Praia das Moitas
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia de Mira" tvg-id="Praia de Mira" tvg-logo="https://live.fanmingming.com/tv/Praia de Mira.png" group-title="", Praia de Mira
@@ -1385,6 +1381,12 @@ https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia dos Pescadores" tvg-id="Praia dos Pescadores" tvg-logo="https://live.fanmingming.com/tv/Praia dos Pescadores.png" group-title="", Praia dos Pescadores
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1 tvg-name="Praia Grande - Norte" tvg-id="Praia Grande - Norte" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Norte.png" group-title="", Praia Grande - Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
@@ -1851,6 +1853,8 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
