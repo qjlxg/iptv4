@@ -52,7 +52,7 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/130
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="", 重庆卫视
 http://121.24.99.191:8090/hls/78/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="", 广东少儿
-http://113.110.72.52:808/hls/111/index.m3u8
+http://113.110.72.52:8090/hls/111/index.m3u8
 #EXTINF:-1 tvg-name="云南少儿" tvg-id="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="", 云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="", 浙江少儿
@@ -623,6 +623,8 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -1095,6 +1097,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1 tvg-name="MTV Ava" tvg-id="MTV Ava" tvg-logo="https://live.fanmingming.com/tv/MTV Ava.png" group-title="", MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+#EXTINF:-1 tvg-name="MTV Sub" tvg-id="MTV Sub" tvg-logo="https://live.fanmingming.com/tv/MTV Sub.png" group-title="", MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-id="MTV Uutiset Live" tvg-logo="https://live.fanmingming.com/tv/MTV Uutiset Live.png" group-title="", MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="MTV3" tvg-id="MTV3" tvg-logo="https://live.fanmingming.com/tv/MTV3.png" group-title="", MTV3
@@ -1377,6 +1381,8 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1395,6 +1401,8 @@ https://sp.rmbl.ws/s8/2/W/v/a/q/Wvaqg.haa.mp4
 https://sp.rmbl.ws/s8/2/L/N/b/-/LNb-e.haa.mp4
 #EXTINF:-1 tvg-name="Proof: Zelensky REJECTED Peace With Russia" tvg-id="Proof: Zelensky REJECTED Peace With Russia" tvg-logo="https://live.fanmingming.com/tv/Proof: Zelensky REJECTED Peace With Russia.png" group-title="", Proof: Zelensky REJECTED Peace With Russia
 https://sp.rmbl.ws/s8/2/5/0/e/L/50eLd.haa.mp4
+#EXTINF:-1 tvg-name="PTV Sports" tvg-id="PTV Sports" tvg-logo="https://live.fanmingming.com/tv/PTV Sports.png" group-title="", PTV Sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-name="Puntland TV Ⓢ" tvg-id="Puntland TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Puntland TV Ⓢ.png" group-title="", Puntland TV Ⓢ
 http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Putin Drops 2 Minutes Of Truth About America & Ukraine" tvg-id="Putin Drops 2 Minutes Of Truth About America & Ukraine" tvg-logo="https://live.fanmingming.com/tv/Putin Drops 2 Minutes Of Truth About America & Ukraine.png" group-title="", Putin Drops 2 Minutes Of Truth About America & Ukraine
@@ -1835,6 +1843,8 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
@@ -1979,6 +1989,8 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-name="TEMPO TV" tvg-id="TEMPO TV" tvg-logo="https://live.fanmingming.com/tv/TEMPO TV.png" group-title="", TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ten Sports PK" tvg-id="Ten Sports PK" tvg-logo="https://live.fanmingming.com/tv/Ten Sports PK.png" group-title="", Ten Sports PK
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-name="TEVE 2 (backup)" tvg-id="TEVE 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/TEVE 2 (backup).png" group-title="", TEVE 2 (backup)
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-name="TEVE 2" tvg-id="TEVE 2" tvg-logo="https://live.fanmingming.com/tv/TEVE 2.png" group-title="", TEVE 2
@@ -2165,6 +2177,8 @@ https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-name="Tv Yes" tvg-id="Tv Yes" tvg-logo="https://live.fanmingming.com/tv/Tv Yes.png" group-title="", Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-name="TV2 ALGERIE" tvg-id="TV2 ALGERIE" tvg-logo="https://live.fanmingming.com/tv/TV2 ALGERIE.png" group-title="", TV2 ALGERIE
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1 tvg-name="TV3 CATALUNYA 24H" tvg-id="TV3 CATALUNYA 24H" tvg-logo="https://live.fanmingming.com/tv/TV3 CATALUNYA 24H.png" group-title="", TV3 CATALUNYA 24H
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-name="TV3 CATALUNYA INT" tvg-id="TV3 CATALUNYA INT" tvg-logo="https://live.fanmingming.com/tv/TV3 CATALUNYA INT.png" group-title="", TV3 CATALUNYA INT
@@ -2268,7 +2282,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
