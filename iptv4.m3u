@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="", CCTV1
-http://112.123.206.32:808/hls/1/index.m3u8
+http://nnth.7766.org:85//tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="", CCTV6
 https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="", CCTV9
@@ -501,6 +501,8 @@ https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="FM Italia TV" tvg-id="FM Italia TV" tvg-logo="https://live.fanmingming.com/tv/FM Italia TV.png" group-title="", FM Italia TV
 https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="FM Tv Marche" tvg-id="FM Tv Marche" tvg-logo="https://live.fanmingming.com/tv/FM Tv Marche.png" group-title="", FM Tv Marche
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Folk Club TV" tvg-id="Folk Club TV" tvg-logo="https://live.fanmingming.com/tv/Folk Club TV.png" group-title="", Folk Club TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-name="Folk TV" tvg-id="Folk TV" tvg-logo="https://live.fanmingming.com/tv/Folk TV.png" group-title="", Folk TV
@@ -619,8 +621,6 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -1387,6 +1387,8 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -2276,7 +2278,7 @@ https://stream1.aswifi.it/unotv/live/index.m3u8
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-id="Uno4 Tv" tvg-logo="https://live.fanmingming.com/tv/Uno4 Tv.png" group-title="", Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-name="UR FANATİK TV" tvg-id="UR FANATİK TV" tvg-logo="https://live.fanmingming.com/tv/UR FANATİK TV.png" group-title="", UR FANATİK TV
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-id="US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine" tvg-logo="https://live.fanmingming.com/tv/US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine.png" group-title="", US Proxy Wars: Israel Gears Up for Gaza Incursion as Initiative Passes to Russia in Ukraine
 https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 #EXTINF:-1 tvg-name="US Spy Operation That Manipulates Social Media Revealed" tvg-id="US Spy Operation That Manipulates Social Media Revealed" tvg-logo="https://live.fanmingming.com/tv/US Spy Operation That Manipulates Social Media Revealed.png" group-title="", US Spy Operation That Manipulates Social Media Revealed
