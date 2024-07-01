@@ -181,8 +181,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-name="CHÉRIE 25" tvg-id="CHÉRIE 25" tvg-logo="https://live.fanmingming.com/tv/CHÉRIE 25.png" group-title="", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-id="Chernivtsi Promin" tvg-logo="https://live.fanmingming.com/tv/Chernivtsi Promin.png" group-title="", Chernivtsi Promin
-http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
@@ -483,8 +481,6 @@ https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
 #EXTINF:-1 tvg-name="Figueira da Foz" tvg-id="Figueira da Foz" tvg-logo="https://live.fanmingming.com/tv/Figueira da Foz.png" group-title="", Figueira da Foz
 https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 tvg-name="FİL TV" tvg-id="FİL TV" tvg-logo="https://live.fanmingming.com/tv/FİL TV.png" group-title="", FİL TV
-https://live.filbox.com.tr/filtv/index.m3u8
 #EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-id="Film d'azione – Rakuten TV" tvg-logo="https://live.fanmingming.com/tv/Film d'azione – Rakuten TV.png" group-title="", Film d'azione – Rakuten TV
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-id="Film Top – Rakuten TV" tvg-logo="https://live.fanmingming.com/tv/Film Top – Rakuten TV.png" group-title="", Film Top – Rakuten TV
@@ -703,38 +699,28 @@ https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-name="IRIB 1 (backup)" tvg-id="IRIB 1 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 1 (backup).png" group-title="", IRIB 1 (backup)
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
+#EXTINF:-1 tvg-name="IRIB 1" tvg-id="IRIB 1" tvg-logo="https://live.fanmingming.com/tv/IRIB 1.png" group-title="", IRIB 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-name="IRIB 2 (backup)" tvg-id="IRIB 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 2 (backup).png" group-title="", IRIB 2 (backup)
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 2" tvg-id="IRIB 2" tvg-logo="https://live.fanmingming.com/tv/IRIB 2.png" group-title="", IRIB 2
 https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:-1 tvg-name="IRIB 3 (backup)" tvg-id="IRIB 3 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 3 (backup).png" group-title="", IRIB 3 (backup)
+https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 4 (backup)" tvg-id="IRIB 4 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 4 (backup).png" group-title="", IRIB 4 (backup)
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB 4" tvg-id="IRIB 4" tvg-logo="https://live.fanmingming.com/tv/IRIB 4.png" group-title="", IRIB 4
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="IRIB 5" tvg-id="IRIB 5" tvg-logo="https://live.fanmingming.com/tv/IRIB 5.png" group-title="", IRIB 5
-https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-name="IRIB AMOOZESH" tvg-id="IRIB AMOOZESH" tvg-logo="https://live.fanmingming.com/tv/IRIB AMOOZESH.png" group-title="", IRIB AMOOZESH
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 tvg-name="IRIB ESHAREH" tvg-id="IRIB ESHAREH" tvg-logo="https://live.fanmingming.com/tv/IRIB ESHAREH.png" group-title="", IRIB ESHAREH
 https://live.aionet.ir/hls/eshareh/eshareh.m3u8
 #EXTINF:-1 tvg-name="IRIB IRINN (backup)" tvg-id="IRIB IRINN (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN (backup).png" group-title="", IRIB IRINN (backup)
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB IRINN" tvg-id="IRIB IRINN" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN.png" group-title="", IRIB IRINN
-https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-name="IRIB MESRAFSANJAN" tvg-id="IRIB MESRAFSANJAN" tvg-logo="https://live.fanmingming.com/tv/IRIB MESRAFSANJAN.png" group-title="", IRIB MESRAFSANJAN
 https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
-#EXTINF:-1 tvg-name="IRIB MOSTANAD" tvg-id="IRIB MOSTANAD" tvg-logo="https://live.fanmingming.com/tv/IRIB MOSTANAD.png" group-title="", IRIB MOSTANAD
-https://live.aionet.ir/hls/mostanad/mostanad.m3u8
-#EXTINF:-1 tvg-name="IRIB NAMAYESH" tvg-id="IRIB NAMAYESH" tvg-logo="https://live.fanmingming.com/tv/IRIB NAMAYESH.png" group-title="", IRIB NAMAYESH
-https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 #EXTINF:-1 tvg-name="IRIB NASIM" tvg-id="IRIB NASIM" tvg-logo="https://live.fanmingming.com/tv/IRIB NASIM.png" group-title="", IRIB NASIM
 https://live.aionet.ir/hls/nasim/nasim.m3u8
-#EXTINF:-1 tvg-name="IRIB POOYA" tvg-id="IRIB POOYA" tvg-logo="https://live.fanmingming.com/tv/IRIB POOYA.png" group-title="", IRIB POOYA
-https://live.aionet.ir/hls/pooya/pooya.m3u8
 #EXTINF:-1 tvg-name="IRIB SALAMAT" tvg-id="IRIB SALAMAT" tvg-logo="https://live.fanmingming.com/tv/IRIB SALAMAT.png" group-title="", IRIB SALAMAT
 https://live.aionet.ir/hls/salamat/salamat.m3u8
-#EXTINF:-1 tvg-name="IRIB TAMASHA" tvg-id="IRIB TAMASHA" tvg-logo="https://live.fanmingming.com/tv/IRIB TAMASHA.png" group-title="", IRIB TAMASHA
-https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-name="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-id="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-logo="https://live.fanmingming.com/tv/Irish Politician Calls Out Western Imperialism To EU MPs Faces.png" group-title="", Irish Politician Calls Out Western Imperialism To EU MPs Faces
 https://sp.rmbl.ws/s8/2/l/4/N/p/l4Nph.haa.mp4
 #EXTINF:-1 tvg-name="Is Russia Poised To Win The Ukraine War?" tvg-id="Is Russia Poised To Win The Ukraine War?" tvg-logo="https://live.fanmingming.com/tv/Is Russia Poised To Win The Ukraine War?.png" group-title="", Is Russia Poised To Win The Ukraine War?
@@ -1020,7 +1006,7 @@ https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 (1080p)" tvg-id="MBC 1 (1080p)" tvg-logo="https://live.fanmingming.com/tv/MBC 1 (1080p).png" group-title="", MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1" tvg-id="MBC 1" tvg-logo="https://live.fanmingming.com/tv/MBC 1.png" group-title="", MBC 1
-https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3" tvg-id="MBC 3" tvg-logo="https://live.fanmingming.com/tv/MBC 3.png" group-title="", MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4" tvg-id="MBC 4" tvg-logo="https://live.fanmingming.com/tv/MBC 4.png" group-title="", MBC 4
@@ -1391,8 +1377,8 @@ https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
@@ -1445,6 +1431,8 @@ https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 tvg-name="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-id="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-logo="https://live.fanmingming.com/tv/Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider.png" group-title="", Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider
 https://sp.rmbl.ws/s8/2/U/u/4/A/Uu4Ak.haa.mp4
+#EXTINF:-1 tvg-name="Report TV" tvg-id="Report TV" tvg-logo="https://live.fanmingming.com/tv/Report TV.png" group-title="", Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 sub-cc רשת" tvg-id="RESHET 13 sub-cc רשת" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 sub-cc רשת.png" group-title="", RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 רשת (backlink)" tvg-id="RESHET 13 רשת (backlink)" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 רשת (backlink).png" group-title="", RESHET 13 רשת (backlink)
