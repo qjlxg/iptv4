@@ -625,8 +625,6 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -691,6 +689,8 @@ https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-name="India Today" tvg-id="India Today" tvg-logo="https://live.fanmingming.com/tv/India Today.png" group-title="", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="iNEWS" tvg-id="iNEWS" tvg-logo="https://live.fanmingming.com/tv/iNEWS.png" group-title="", iNEWS
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Interracial" tvg-id="Interracial" tvg-logo="https://live.fanmingming.com/tv/Interracial.png" group-title="", Interracial
 http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-name="INTV" tvg-id="INTV" tvg-logo="https://live.fanmingming.com/tv/INTV.png" group-title="", INTV
@@ -1065,6 +1065,8 @@ https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-name="MBC PERSIA" tvg-id="MBC PERSIA" tvg-logo="https://live.fanmingming.com/tv/MBC PERSIA.png" group-title="", MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-name="MEDENİYYET" tvg-id="MEDENİYYET" tvg-logo="https://live.fanmingming.com/tv/MEDENİYYET.png" group-title="", MEDENİYYET
+http://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths" tvg-id="Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths" tvg-logo="https://live.fanmingming.com/tv/Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths.png" group-title="", Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths
 https://sp.rmbl.ws/s8/2/F/e/z/t/Feztn.haa.mp4
 #EXTINF:-1 tvg-name="Medjugorje Italia Tv" tvg-id="Medjugorje Italia Tv" tvg-logo="https://live.fanmingming.com/tv/Medjugorje Italia Tv.png" group-title="", Medjugorje Italia Tv
@@ -1077,6 +1079,8 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:-1 tvg-name="META FILM" tvg-id="META FILM" tvg-logo="https://live.fanmingming.com/tv/META FILM.png" group-title="", META FILM
 https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="METROPOL DENİZLİ" tvg-id="METROPOL DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/METROPOL DENİZLİ.png" group-title="", METROPOL DENİZLİ
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="MGG E-SPORT" tvg-id="MGG E-SPORT" tvg-logo="https://live.fanmingming.com/tv/MGG E-SPORT.png" group-title="", MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-name="MIHAN TV" tvg-id="MIHAN TV" tvg-logo="https://live.fanmingming.com/tv/MIHAN TV.png" group-title="", MIHAN TV
@@ -1385,6 +1389,8 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
