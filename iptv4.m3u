@@ -183,6 +183,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-name="CHÉRIE 25" tvg-id="CHÉRIE 25" tvg-logo="https://live.fanmingming.com/tv/CHÉRIE 25.png" group-title="", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-id="Chernivtsi Promin" tvg-logo="https://live.fanmingming.com/tv/Chernivtsi Promin.png" group-title="", Chernivtsi Promin
+http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
@@ -271,8 +273,6 @@ https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://sp.rmbl.ws/s8/2/P/9/Z/Q/P9ZQn.haa.mp4
 #EXTINF:-1 tvg-name="DEHA TV DENİZLİ" tvg-id="DEHA TV DENİZLİ" tvg-logo="https://live.fanmingming.com/tv/DEHA TV DENİZLİ.png" group-title="", DEHA TV DENİZLİ
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Delta Tv" tvg-id="Delta Tv" tvg-logo="https://live.fanmingming.com/tv/Delta Tv.png" group-title="", Delta Tv
-http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-name="Deluxe 139" tvg-id="Deluxe 139" tvg-logo="https://live.fanmingming.com/tv/Deluxe 139.png" group-title="", Deluxe 139
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-id="Deluxe Lounge HD" tvg-logo="https://live.fanmingming.com/tv/Deluxe Lounge HD.png" group-title="", Deluxe Lounge HD
@@ -623,8 +623,6 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
-https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -993,14 +991,6 @@ https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
 #EXTINF:-1 tvg-name="LUYS TV" tvg-id="LUYS TV" tvg-logo="https://live.fanmingming.com/tv/LUYS TV.png" group-title="", LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="M»Net Info" tvg-id="M»Net Info" tvg-logo="https://live.fanmingming.com/tv/M»Net Info.png" group-title="", M»Net Info
-http://ares.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 tvg-name="M»Net Kids" tvg-id="M»Net Kids" tvg-logo="https://live.fanmingming.com/tv/M»Net Kids.png" group-title="", M»Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-name="M»Net Sport" tvg-id="M»Net Sport" tvg-logo="https://live.fanmingming.com/tv/M»Net Sport.png" group-title="", M»Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-name="M»Net" tvg-id="M»Net" tvg-logo="https://live.fanmingming.com/tv/M»Net.png" group-title="", M»Net
-http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-name="M2 Ⓢ" tvg-id="M2 Ⓢ" tvg-logo="https://live.fanmingming.com/tv/M2 Ⓢ.png" group-title="", M2 Ⓢ
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-name="Made in BO" tvg-id="Made in BO" tvg-logo="https://live.fanmingming.com/tv/Made in BO.png" group-title="", Made in BO
@@ -1453,8 +1443,6 @@ https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 tvg-name="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-id="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-logo="https://live.fanmingming.com/tv/Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider.png" group-title="", Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider
 https://sp.rmbl.ws/s8/2/U/u/4/A/Uu4Ak.haa.mp4
-#EXTINF:-1 tvg-name="Report TV" tvg-id="Report TV" tvg-logo="https://live.fanmingming.com/tv/Report TV.png" group-title="", Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 sub-cc רשת" tvg-id="RESHET 13 sub-cc רשת" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 sub-cc רשת.png" group-title="", RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 רשת (backlink)" tvg-id="RESHET 13 רשת (backlink)" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 רשת (backlink).png" group-title="", RESHET 13 רשת (backlink)
@@ -1805,8 +1793,6 @@ https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Surongo" tvg-id="Surongo" tvg-logo="https://live.fanmingming.com/tv/Surongo.png" group-title="", Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
-#EXTINF:-1 tvg-name="Syri" tvg-id="Syri" tvg-logo="https://live.fanmingming.com/tv/Syri.png" group-title="", Syri
-https://stream.syritv.al/SyriTV/index.m3u8
 #EXTINF:-1 tvg-name="SYRIA TV" tvg-id="SYRIA TV" tvg-logo="https://live.fanmingming.com/tv/SYRIA TV.png" group-title="", SYRIA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-id="T13 en vivo" tvg-logo="https://live.fanmingming.com/tv/T13 en vivo.png" group-title="", T13 en vivo
@@ -1849,8 +1835,6 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u
 https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
 #EXTINF:-1 tvg-name="Teen" tvg-id="Teen" tvg-logo="https://live.fanmingming.com/tv/Teen.png" group-title="", Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="TEK RUMELİ TV" tvg-id="TEK RUMELİ TV" tvg-logo="https://live.fanmingming.com/tv/TEK RUMELİ TV.png" group-title="", TEK RUMELİ TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1" tvg-logo="https://live.fanmingming.com/tv/TELE 1.png" group-title="", TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-id="Tele A" tvg-logo="https://live.fanmingming.com/tv/Tele A.png" group-title="", Tele A
@@ -1991,6 +1975,8 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-name="TEMPO TV" tvg-id="TEMPO TV" tvg-logo="https://live.fanmingming.com/tv/TEMPO TV.png" group-title="", TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ten Sports PK" tvg-id="Ten Sports PK" tvg-logo="https://live.fanmingming.com/tv/Ten Sports PK.png" group-title="", Ten Sports PK
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-name="TEVE 2 (backup)" tvg-id="TEVE 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/TEVE 2 (backup).png" group-title="", TEVE 2 (backup)
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-name="TEVE 2" tvg-id="TEVE 2" tvg-logo="https://live.fanmingming.com/tv/TEVE 2.png" group-title="", TEVE 2
