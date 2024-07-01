@@ -135,8 +135,6 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
 #EXTINF:-1 tvg-name="星空卫视" tvg-id="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港·澳·台", 星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-name="華語電視2" tvg-id="華語電視2" tvg-logo="https://live.fanmingming.com/tv/華語電視2.png" group-title="", 華語電視2
-http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 #EXTINF:-1 tvg-name="華語電視3" tvg-id="華語電視3" tvg-logo="https://live.fanmingming.com/tv/華語電視3.png" group-title="", 華語電視3
 http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 #EXTINF:-1 tvg-name="中国环球电视" tvg-id="中国环球电视" tvg-logo="https://live.fanmingming.com/tv/中国环球电视.png" group-title="", 中国环球电视
@@ -283,6 +281,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Democrats Are FUNDING Radical Republicans!" tvg-id="Democrats Are FUNDING Radical Republicans!" tvg-logo="https://live.fanmingming.com/tv/Democrats Are FUNDING Radical Republicans!.png" group-title="", Democrats Are FUNDING Radical Republicans!
 https://sp.rmbl.ws/s8/2/L/j/N/R/LjNRe.haa.mp4
+#EXTINF:-1 tvg-name="DENİZ POSTASI TV" tvg-id="DENİZ POSTASI TV" tvg-logo="https://live.fanmingming.com/tv/DENİZ POSTASI TV.png" group-title="", DENİZ POSTASI TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 80" tvg-id="Di.Tv 80" tvg-logo="https://live.fanmingming.com/tv/Di.Tv 80.png" group-title="", Di.Tv 80
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 92" tvg-id="Di.Tv 92" tvg-logo="https://live.fanmingming.com/tv/Di.Tv 92.png" group-title="", Di.Tv 92
@@ -491,6 +491,10 @@ https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmstream" tvg-id="Filmstream" tvg-logo="https://live.fanmingming.com/tv/Filmstream.png" group-title="", Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-id="First Channel (1TV)" tvg-logo="https://live.fanmingming.com/tv/First Channel (1TV).png" group-title="", First Channel (1TV)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-name="First Channel /Education/ (2TV)" tvg-id="First Channel /Education/ (2TV)" tvg-logo="https://live.fanmingming.com/tv/First Channel /Education/ (2TV).png" group-title="", First Channel /Education/ (2TV)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-name="FLASH HABER" tvg-id="FLASH HABER" tvg-logo="https://live.fanmingming.com/tv/FLASH HABER.png" group-title="", FLASH HABER
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-name="Florida Bangla TV" tvg-id="Florida Bangla TV" tvg-logo="https://live.fanmingming.com/tv/Florida Bangla TV.png" group-title="", Florida Bangla TV
@@ -619,6 +623,8 @@ https://sp.rmbl.ws/s8/2/-/A/s/3/-As3f.haa.mp4
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-id="Hindi Hits HD" tvg-logo="https://live.fanmingming.com/tv/Hindi Hits HD.png" group-title="", Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-name="HINUCHIT 23 חינוכית (backlink)" tvg-id="HINUCHIT 23 חינוכית (backlink)" tvg-logo="https://live.fanmingming.com/tv/HINUCHIT 23 חינוכית (backlink).png" group-title="", HINUCHIT 23 חינוכית (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-id="Hír TV" tvg-logo="https://live.fanmingming.com/tv/Hír TV.png" group-title="", Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-id="Houses of the Oireachtas Channel" tvg-logo="https://live.fanmingming.com/tv/Houses of the Oireachtas Channel.png" group-title="", Houses of the Oireachtas Channel
@@ -697,8 +703,6 @@ https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-name="IRIB 1 (backup)" tvg-id="IRIB 1 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 1 (backup).png" group-title="", IRIB 1 (backup)
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
-#EXTINF:-1 tvg-name="IRIB 1" tvg-id="IRIB 1" tvg-logo="https://live.fanmingming.com/tv/IRIB 1.png" group-title="", IRIB 1
-https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-name="IRIB 2 (backup)" tvg-id="IRIB 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 2 (backup).png" group-title="", IRIB 2 (backup)
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 2" tvg-id="IRIB 2" tvg-logo="https://live.fanmingming.com/tv/IRIB 2.png" group-title="", IRIB 2
@@ -1241,10 +1245,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NUMBER ONE" tvg-id="NUMBER ONE" tvg-logo="https://live.fanmingming.com/tv/NUMBER ONE.png" group-title="", NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 1" tvg-id="Nuova Tv 1" tvg-logo="https://live.fanmingming.com/tv/Nuova Tv 1.png" group-title="", Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 tvg-name="Nuova Tv 2" tvg-id="Nuova Tv 2" tvg-logo="https://live.fanmingming.com/tv/Nuova Tv 2.png" group-title="", Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-name="Nuvola Tv" tvg-id="Nuvola Tv" tvg-logo="https://live.fanmingming.com/tv/Nuvola Tv.png" group-title="", Nuvola Tv
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 tvg-name="OBS TV" tvg-id="OBS TV" tvg-logo="https://live.fanmingming.com/tv/OBS TV.png" group-title="", OBS TV
@@ -1383,14 +1383,14 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
@@ -1445,8 +1445,6 @@ https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 tvg-name="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-id="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-logo="https://live.fanmingming.com/tv/Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider.png" group-title="", Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider
 https://sp.rmbl.ws/s8/2/U/u/4/A/Uu4Ak.haa.mp4
-#EXTINF:-1 tvg-name="Report TV" tvg-id="Report TV" tvg-logo="https://live.fanmingming.com/tv/Report TV.png" group-title="", Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 sub-cc רשת" tvg-id="RESHET 13 sub-cc רשת" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 sub-cc רשת.png" group-title="", RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 רשת (backlink)" tvg-id="RESHET 13 רשת (backlink)" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 רשת (backlink).png" group-title="", RESHET 13 רשת (backlink)
@@ -2275,6 +2273,8 @@ https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 https://sp.rmbl.ws/s8/2/g/k/g/Q/gkgQe.haa.mp4
 #EXTINF:-1 tvg-name="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-id="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-logo="https://live.fanmingming.com/tv/US/NATO Provoked Ukraine War Say Most Experts On Russia.png" group-title="", US/NATO Provoked Ukraine War Say Most Experts On Russia
 https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
+#EXTINF:-1 tvg-name="ÜSKÜDAR UNİVERSİTE TV" tvg-id="ÜSKÜDAR UNİVERSİTE TV" tvg-logo="https://live.fanmingming.com/tv/ÜSKÜDAR UNİVERSİTE TV.png" group-title="", ÜSKÜDAR UNİVERSİTE TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV IRAQI" tvg-id="UTV IRAQI" tvg-logo="https://live.fanmingming.com/tv/UTV IRAQI.png" group-title="", UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vale TV Ⓢ" tvg-id="Vale TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Vale TV Ⓢ.png" group-title="", Vale TV Ⓢ
