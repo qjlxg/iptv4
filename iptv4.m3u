@@ -183,6 +183,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-name="CHÉRIE 25" tvg-id="CHÉRIE 25" tvg-logo="https://live.fanmingming.com/tv/CHÉRIE 25.png" group-title="", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-id="Chernivtsi Promin" tvg-logo="https://live.fanmingming.com/tv/Chernivtsi Promin.png" group-title="", Chernivtsi Promin
+http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
@@ -285,8 +287,6 @@ https://sp.rmbl.ws/s8/2/L/j/N/R/LjNRe.haa.mp4
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 92" tvg-id="Di.Tv 92" tvg-logo="https://live.fanmingming.com/tv/Di.Tv 92.png" group-title="", Di.Tv 92
 https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
-#EXTINF:-1 tvg-name="DIEU TV" tvg-id="DIEU TV" tvg-logo="https://live.fanmingming.com/tv/DIEU TV.png" group-title="", DIEU TV
-https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-name="Dijlah Tarab" tvg-id="Dijlah Tarab" tvg-logo="https://live.fanmingming.com/tv/Dijlah Tarab.png" group-title="", Dijlah Tarab
 https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dijlah TV" tvg-id="Dijlah TV" tvg-logo="https://live.fanmingming.com/tv/Dijlah TV.png" group-title="", Dijlah TV
@@ -465,8 +465,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-name="FashionTV" tvg-id="FashionTV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="", FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="FehérvárTV" tvg-id="FehérvárTV" tvg-logo="https://live.fanmingming.com/tv/FehérvárTV.png" group-title="", FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-id="FENERBAHÇE TV" tvg-logo="https://live.fanmingming.com/tv/FENERBAHÇE TV.png" group-title="", FENERBAHÇE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Fetish" tvg-id="Fetish" tvg-logo="https://live.fanmingming.com/tv/Fetish.png" group-title="", Fetish
@@ -703,8 +701,6 @@ https://live.aionet.ir/hls/tv1/tv1.m3u8
 https://s1.ettehadlive.com/live/40/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 2" tvg-id="IRIB 2" tvg-logo="https://live.fanmingming.com/tv/IRIB 2.png" group-title="", IRIB 2
 https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 tvg-name="IRIB 3 (backup)" tvg-id="IRIB 3 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 3 (backup).png" group-title="", IRIB 3 (backup)
-https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 4 (backup)" tvg-id="IRIB 4 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 4 (backup).png" group-title="", IRIB 4 (backup)
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 4" tvg-id="IRIB 4" tvg-logo="https://live.fanmingming.com/tv/IRIB 4.png" group-title="", IRIB 4
@@ -783,6 +779,8 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-name="KAN 26 אפיק" tvg-id="KAN 26 אפיק" tvg-logo="https://live.fanmingming.com/tv/KAN 26 אפיק.png" group-title="", KAN 26 אפיק
 https://reshetbetvideo.media.kan.org.il/hls/live/2044082/2044082/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-name="KAN 33 MAKAN مكان (backlink)" tvg-id="KAN 33 MAKAN مكان (backlink)" tvg-logo="https://live.fanmingming.com/tv/KAN 33 MAKAN مكان (backlink).png" group-title="", KAN 33 MAKAN مكان (backlink)
+https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Kanal 10 Sverige" tvg-id="Kanal 10 Sverige" tvg-logo="https://live.fanmingming.com/tv/Kanal 10 Sverige.png" group-title="", Kanal 10 Sverige
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-name="KANAL 15 BURDUR" tvg-id="KANAL 15 BURDUR" tvg-logo="https://live.fanmingming.com/tv/KANAL 15 BURDUR.png" group-title="", KANAL 15 BURDUR
@@ -871,6 +869,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Creation" tvg-id="Kids Creation" tvg-logo="https://live.fanmingming.com/tv/Kids Creation.png" group-title="", Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Knesset" tvg-id="Knesset" tvg-logo="https://live.fanmingming.com/tv/Knesset.png" group-title="", Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="KOCAELİ TV" tvg-id="KOCAELİ TV" tvg-logo="https://live.fanmingming.com/tv/KOCAELİ TV.png" group-title="", KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-id="Kontra" tvg-logo="https://live.fanmingming.com/tv/Kontra.png" group-title="", Kontra
@@ -999,8 +999,6 @@ http://live.m2.tv/hls3/stream.m3u8
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-name="MAJID" tvg-id="MAJID" tvg-logo="https://live.fanmingming.com/tv/MAJID.png" group-title="", MAJID
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Makkah Tv" tvg-id="Makkah Tv" tvg-logo="https://live.fanmingming.com/tv/Makkah Tv.png" group-title="", Makkah Tv
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MAKO 24 ערוץ" tvg-id="MAKO 24 ערוץ" tvg-logo="https://live.fanmingming.com/tv/MAKO 24 ערוץ.png" group-title="", MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 #EXTINF:-1 tvg-name="MALATYA VUSLAT TV" tvg-id="MALATYA VUSLAT TV" tvg-logo="https://live.fanmingming.com/tv/MALATYA VUSLAT TV.png" group-title="", MALATYA VUSLAT TV
@@ -1391,6 +1389,8 @@ https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
@@ -1445,8 +1445,6 @@ https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 tvg-name="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-id="Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider" tvg-logo="https://live.fanmingming.com/tv/Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider.png" group-title="", Remember When DEMOCRATS Were The Anti-Vaxxers??? w/ Rob Schneider
 https://sp.rmbl.ws/s8/2/U/u/4/A/Uu4Ak.haa.mp4
-#EXTINF:-1 tvg-name="Report TV" tvg-id="Report TV" tvg-logo="https://live.fanmingming.com/tv/Report TV.png" group-title="", Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 sub-cc רשת" tvg-id="RESHET 13 sub-cc רשת" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 sub-cc רשת.png" group-title="", RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 tvg-name="RESHET 13 רשת (backlink)" tvg-id="RESHET 13 רשת (backlink)" tvg-logo="https://live.fanmingming.com/tv/RESHET 13 רשת (backlink).png" group-title="", RESHET 13 רשת (backlink)
@@ -1585,6 +1583,8 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP3" tvg-id="RTP3" tvg-logo="https://live.fanmingming.com/tv/RTP3.png" group-title="", RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-name="RTRS PLUS Ⓢ" tvg-id="RTRS PLUS Ⓢ" tvg-logo="https://live.fanmingming.com/tv/RTRS PLUS Ⓢ.png" group-title="", RTRS PLUS Ⓢ
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS 1" tvg-id="RTS 1" tvg-logo="https://live.fanmingming.com/tv/RTS 1.png" group-title="", RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-name="RTS 2" tvg-id="RTS 2" tvg-logo="https://live.fanmingming.com/tv/RTS 2.png" group-title="", RTS 2
@@ -2279,6 +2279,8 @@ https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 https://sp.rmbl.ws/s8/2/g/k/g/Q/gkgQe.haa.mp4
 #EXTINF:-1 tvg-name="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-id="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-logo="https://live.fanmingming.com/tv/US/NATO Provoked Ukraine War Say Most Experts On Russia.png" group-title="", US/NATO Provoked Ukraine War Say Most Experts On Russia
 https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
+#EXTINF:-1 tvg-name="ÜSKÜDAR UNİVERSİTE TV" tvg-id="ÜSKÜDAR UNİVERSİTE TV" tvg-logo="https://live.fanmingming.com/tv/ÜSKÜDAR UNİVERSİTE TV.png" group-title="", ÜSKÜDAR UNİVERSİTE TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV IRAQI" tvg-id="UTV IRAQI" tvg-logo="https://live.fanmingming.com/tv/UTV IRAQI.png" group-title="", UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vale TV Ⓢ" tvg-id="Vale TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Vale TV Ⓢ.png" group-title="", Vale TV Ⓢ
