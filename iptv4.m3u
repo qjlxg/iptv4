@@ -1091,6 +1091,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV Ava" tvg-id="MTV Ava" tvg-logo="https://live.fanmingming.com/tv/MTV Ava.png" group-title="", MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+#EXTINF:-1 tvg-name="MTV Sub" tvg-id="MTV Sub" tvg-logo="https://live.fanmingming.com/tv/MTV Sub.png" group-title="", MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-id="MTV Uutiset Live" tvg-logo="https://live.fanmingming.com/tv/MTV Uutiset Live.png" group-title="", MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="MTV3" tvg-id="MTV3" tvg-logo="https://live.fanmingming.com/tv/MTV3.png" group-title="", MTV3
@@ -1371,6 +1373,10 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
@@ -1579,8 +1585,6 @@ https://webtvstream.bhtelecom.ba/rts2.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Drenthe" tvg-id="RTV Drenthe" tvg-logo="https://live.fanmingming.com/tv/RTV Drenthe.png" group-title="", RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
-#EXTINF:-1 tvg-name="RTV Glas Drine" tvg-id="RTV Glas Drine" tvg-logo="https://live.fanmingming.com/tv/RTV Glas Drine.png" group-title="", RTV Glas Drine
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV HB Ⓢ" tvg-id="RTV HB Ⓢ" tvg-logo="https://live.fanmingming.com/tv/RTV HB Ⓢ.png" group-title="", RTV HB Ⓢ
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Utrecht" tvg-id="RTV Utrecht" tvg-logo="https://live.fanmingming.com/tv/RTV Utrecht.png" group-title="", RTV Utrecht
@@ -2100,7 +2104,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-id="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT World.png" group-title="", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
-https://tv-trt3.live.trt.com.tr/master.m3u8
+https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
@@ -2265,6 +2269,8 @@ https://sp.rmbl.ws/s8/2/G/e/s/B/GesBn.haa.mp4
 https://sp.rmbl.ws/s8/2/g/k/g/Q/gkgQe.haa.mp4
 #EXTINF:-1 tvg-name="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-id="US/NATO Provoked Ukraine War Say Most Experts On Russia" tvg-logo="https://live.fanmingming.com/tv/US/NATO Provoked Ukraine War Say Most Experts On Russia.png" group-title="", US/NATO Provoked Ukraine War Say Most Experts On Russia
 https://sp.rmbl.ws/s8/2/6/n/b/p/6nbpd.haa.mp4
+#EXTINF:-1 tvg-name="ÜSKÜDAR UNİVERSİTE TV" tvg-id="ÜSKÜDAR UNİVERSİTE TV" tvg-logo="https://live.fanmingming.com/tv/ÜSKÜDAR UNİVERSİTE TV.png" group-title="", ÜSKÜDAR UNİVERSİTE TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV IRAQI" tvg-id="UTV IRAQI" tvg-logo="https://live.fanmingming.com/tv/UTV IRAQI.png" group-title="", UTV IRAQI
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vale TV Ⓢ" tvg-id="Vale TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Vale TV Ⓢ.png" group-title="", Vale TV Ⓢ
