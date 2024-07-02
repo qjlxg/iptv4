@@ -181,8 +181,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 tvg-name="CHÉRIE 25" tvg-id="CHÉRIE 25" tvg-logo="https://live.fanmingming.com/tv/CHÉRIE 25.png" group-title="", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-id="Chilevisión Noticias" tvg-logo="https://live.fanmingming.com/tv/Chilevisión Noticias.png" group-title="", Chilevisión Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chris Hedges DELETED From YouTube!" tvg-id="Chris Hedges DELETED From YouTube!" tvg-logo="https://live.fanmingming.com/tv/Chris Hedges DELETED From YouTube!.png" group-title="", Chris Hedges DELETED From YouTube!
 https://sp.rmbl.ws/s8/2/q/G/f/H/qGfHd.haa.mp4
 #EXTINF:-1 tvg-name="CIA & FBI Brag About Throwing Elections At Home & Abroad" tvg-id="CIA & FBI Brag About Throwing Elections At Home & Abroad" tvg-logo="https://live.fanmingming.com/tv/CIA & FBI Brag About Throwing Elections At Home & Abroad.png" group-title="", CIA & FBI Brag About Throwing Elections At Home & Abroad
@@ -339,8 +337,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-name="EDESSA TV ŞANLIURFA" tvg-id="EDESSA TV ŞANLIURFA" tvg-logo="https://live.fanmingming.com/tv/EDESSA TV ŞANLIURFA.png" group-title="", EDESSA TV ŞANLIURFA
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
-#EXTINF:-1 tvg-name="EDİRNE TV" tvg-id="EDİRNE TV" tvg-logo="https://live.fanmingming.com/tv/EDİRNE TV.png" group-title="", EDİRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 tvg-name="EITB 1" tvg-id="EITB 1" tvg-logo="https://live.fanmingming.com/tv/EITB 1.png" group-title="", EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="EITB 2" tvg-id="EITB 2" tvg-logo="https://live.fanmingming.com/tv/EITB 2.png" group-title="", EITB 2
@@ -547,8 +543,6 @@ http://cdn.adultiptv.net/gay.m3u8
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-id="GB News" tvg-logo="https://live.fanmingming.com/tv/GB News.png" group-title="", GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-name="Geekdot" tvg-id="Geekdot" tvg-logo="https://live.fanmingming.com/tv/Geekdot.png" group-title="", Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="GEO KAHANI" tvg-id="GEO KAHANI" tvg-logo="https://live.fanmingming.com/tv/GEO KAHANI.png" group-title="", GEO KAHANI
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-id="Giornale Radio Tv" tvg-logo="https://live.fanmingming.com/tv/Giornale Radio Tv.png" group-title="", Giornale Radio Tv
@@ -709,18 +703,32 @@ https://live.aionet.ir/hls/tv2/tv2.m3u8
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-name="IRIB 4 (backup)" tvg-id="IRIB 4 (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB 4 (backup).png" group-title="", IRIB 4 (backup)
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-name="IRIB 4" tvg-id="IRIB 4" tvg-logo="https://live.fanmingming.com/tv/IRIB 4.png" group-title="", IRIB 4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-name="IRIB 5" tvg-id="IRIB 5" tvg-logo="https://live.fanmingming.com/tv/IRIB 5.png" group-title="", IRIB 5
+https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-name="IRIB AMOOZESH" tvg-id="IRIB AMOOZESH" tvg-logo="https://live.fanmingming.com/tv/IRIB AMOOZESH.png" group-title="", IRIB AMOOZESH
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 tvg-name="IRIB ESHAREH" tvg-id="IRIB ESHAREH" tvg-logo="https://live.fanmingming.com/tv/IRIB ESHAREH.png" group-title="", IRIB ESHAREH
 https://live.aionet.ir/hls/eshareh/eshareh.m3u8
 #EXTINF:-1 tvg-name="IRIB IRINN (backup)" tvg-id="IRIB IRINN (backup)" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN (backup).png" group-title="", IRIB IRINN (backup)
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
+#EXTINF:-1 tvg-name="IRIB IRINN" tvg-id="IRIB IRINN" tvg-logo="https://live.fanmingming.com/tv/IRIB IRINN.png" group-title="", IRIB IRINN
+https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-name="IRIB MESRAFSANJAN" tvg-id="IRIB MESRAFSANJAN" tvg-logo="https://live.fanmingming.com/tv/IRIB MESRAFSANJAN.png" group-title="", IRIB MESRAFSANJAN
 https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
+#EXTINF:-1 tvg-name="IRIB MOSTANAD" tvg-id="IRIB MOSTANAD" tvg-logo="https://live.fanmingming.com/tv/IRIB MOSTANAD.png" group-title="", IRIB MOSTANAD
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-name="IRIB NAMAYESH" tvg-id="IRIB NAMAYESH" tvg-logo="https://live.fanmingming.com/tv/IRIB NAMAYESH.png" group-title="", IRIB NAMAYESH
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 #EXTINF:-1 tvg-name="IRIB NASIM" tvg-id="IRIB NASIM" tvg-logo="https://live.fanmingming.com/tv/IRIB NASIM.png" group-title="", IRIB NASIM
 https://live.aionet.ir/hls/nasim/nasim.m3u8
+#EXTINF:-1 tvg-name="IRIB POOYA" tvg-id="IRIB POOYA" tvg-logo="https://live.fanmingming.com/tv/IRIB POOYA.png" group-title="", IRIB POOYA
+https://live.aionet.ir/hls/pooya/pooya.m3u8
 #EXTINF:-1 tvg-name="IRIB SALAMAT" tvg-id="IRIB SALAMAT" tvg-logo="https://live.fanmingming.com/tv/IRIB SALAMAT.png" group-title="", IRIB SALAMAT
 https://live.aionet.ir/hls/salamat/salamat.m3u8
+#EXTINF:-1 tvg-name="IRIB TAMASHA" tvg-id="IRIB TAMASHA" tvg-logo="https://live.fanmingming.com/tv/IRIB TAMASHA.png" group-title="", IRIB TAMASHA
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-name="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-id="Irish Politician Calls Out Western Imperialism To EU MPs Faces" tvg-logo="https://live.fanmingming.com/tv/Irish Politician Calls Out Western Imperialism To EU MPs Faces.png" group-title="", Irish Politician Calls Out Western Imperialism To EU MPs Faces
 https://sp.rmbl.ws/s8/2/l/4/N/p/l4Nph.haa.mp4
 #EXTINF:-1 tvg-name="Is Russia Poised To Win The Ukraine War?" tvg-id="Is Russia Poised To Win The Ukraine War?" tvg-logo="https://live.fanmingming.com/tv/Is Russia Poised To Win The Ukraine War?.png" group-title="", Is Russia Poised To Win The Ukraine War?
@@ -1006,7 +1014,7 @@ https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 (1080p)" tvg-id="MBC 1 (1080p)" tvg-logo="https://live.fanmingming.com/tv/MBC 1 (1080p).png" group-title="", MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1" tvg-id="MBC 1" tvg-logo="https://live.fanmingming.com/tv/MBC 1.png" group-title="", MBC 1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3" tvg-id="MBC 3" tvg-logo="https://live.fanmingming.com/tv/MBC 3.png" group-title="", MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4" tvg-id="MBC 4" tvg-logo="https://live.fanmingming.com/tv/MBC 4.png" group-title="", MBC 4
@@ -1051,8 +1059,6 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 http://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths" tvg-id="Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths" tvg-logo="https://live.fanmingming.com/tv/Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths.png" group-title="", Medical Journal DISAPPEARS New Study Tying Covid Vaxx To Deaths
 https://sp.rmbl.ws/s8/2/F/e/z/t/Feztn.haa.mp4
-#EXTINF:-1 tvg-name="Medjugorje Italia Tv" tvg-id="Medjugorje Italia Tv" tvg-logo="https://live.fanmingming.com/tv/Medjugorje Italia Tv.png" group-title="", Medjugorje Italia Tv
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Medjugorje Tv Puglia" tvg-id="Medjugorje Tv Puglia" tvg-logo="https://live.fanmingming.com/tv/Medjugorje Tv Puglia.png" group-title="", Medjugorje Tv Puglia
 https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
 #EXTINF:-1 tvg-name="MELTEM" tvg-id="MELTEM" tvg-logo="https://live.fanmingming.com/tv/MELTEM.png" group-title="", MELTEM
@@ -1303,8 +1309,6 @@ https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
 #EXTINF:-1 tvg-name="People Are Awesome" tvg-id="People Are Awesome" tvg-logo="https://live.fanmingming.com/tv/People Are Awesome.png" group-title="", People Are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="PEQUE TV" tvg-id="PEQUE TV" tvg-logo="https://live.fanmingming.com/tv/PEQUE TV.png" group-title="", PEQUE TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-name="Perviy Gorodskoy Odessa" tvg-id="Perviy Gorodskoy Odessa" tvg-logo="https://live.fanmingming.com/tv/Perviy Gorodskoy Odessa.png" group-title="", Perviy Gorodskoy Odessa
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pfizer CEO CONFRONTED On The Streets Of Davos!" tvg-id="Pfizer CEO CONFRONTED On The Streets Of Davos!" tvg-logo="https://live.fanmingming.com/tv/Pfizer CEO CONFRONTED On The Streets Of Davos!.png" group-title="", Pfizer CEO CONFRONTED On The Streets Of Davos!
@@ -1369,16 +1373,14 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 tvg-name="Praia Grande - Sul" tvg-id="Praia Grande - Sul" tvg-logo="https://live.fanmingming.com/tv/Praia Grande - Sul.png" group-title="", Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-id="Prima Cool Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Cool Ⓖ.png" group-title="", Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-id="Prima MAX Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima MAX Ⓖ.png" group-title="", Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-id="Prima Tv Napoli" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Napoli.png" group-title="", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-id="Prima Tv Sicilia" tvg-logo="https://live.fanmingming.com/tv/Prima Tv Sicilia.png" group-title="", Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima TV" tvg-id="Prima TV" tvg-logo="https://live.fanmingming.com/tv/Prima TV.png" group-title="", Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-id="Prima Zoom Ⓖ" tvg-logo="https://live.fanmingming.com/tv/Prima Zoom Ⓖ.png" group-title="", Prima Zoom Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="PrimaFREE" tvg-id="PrimaFREE" tvg-logo="https://live.fanmingming.com/tv/PrimaFREE.png" group-title="", PrimaFREE
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Primantenna Torino" tvg-id="Primantenna Torino" tvg-logo="https://live.fanmingming.com/tv/Primantenna Torino.png" group-title="", Primantenna Torino
@@ -1391,6 +1393,8 @@ https://sp.rmbl.ws/s8/2/W/v/a/q/Wvaqg.haa.mp4
 https://sp.rmbl.ws/s8/2/L/N/b/-/LNb-e.haa.mp4
 #EXTINF:-1 tvg-name="Proof: Zelensky REJECTED Peace With Russia" tvg-id="Proof: Zelensky REJECTED Peace With Russia" tvg-logo="https://live.fanmingming.com/tv/Proof: Zelensky REJECTED Peace With Russia.png" group-title="", Proof: Zelensky REJECTED Peace With Russia
 https://sp.rmbl.ws/s8/2/5/0/e/L/50eLd.haa.mp4
+#EXTINF:-1 tvg-name="PTV Sports" tvg-id="PTV Sports" tvg-logo="https://live.fanmingming.com/tv/PTV Sports.png" group-title="", PTV Sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-name="Puntland TV Ⓢ" tvg-id="Puntland TV Ⓢ" tvg-logo="https://live.fanmingming.com/tv/Puntland TV Ⓢ.png" group-title="", Puntland TV Ⓢ
 http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Putin Drops 2 Minutes Of Truth About America & Ukraine" tvg-id="Putin Drops 2 Minutes Of Truth About America & Ukraine" tvg-logo="https://live.fanmingming.com/tv/Putin Drops 2 Minutes Of Truth About America & Ukraine.png" group-title="", Putin Drops 2 Minutes Of Truth About America & Ukraine
@@ -1965,6 +1969,8 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-name="TEMPO TV" tvg-id="TEMPO TV" tvg-logo="https://live.fanmingming.com/tv/TEMPO TV.png" group-title="", TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ten Sports PK" tvg-id="Ten Sports PK" tvg-logo="https://live.fanmingming.com/tv/Ten Sports PK.png" group-title="", Ten Sports PK
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-name="TEVE 2 (backup)" tvg-id="TEVE 2 (backup)" tvg-logo="https://live.fanmingming.com/tv/TEVE 2 (backup).png" group-title="", TEVE 2 (backup)
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-name="TEVE 2" tvg-id="TEVE 2" tvg-logo="https://live.fanmingming.com/tv/TEVE 2.png" group-title="", TEVE 2
@@ -2096,7 +2102,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-id="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT World.png" group-title="", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT3 SPOR [offline]" tvg-id="TRT3 SPOR [offline]" tvg-logo="https://live.fanmingming.com/tv/TRT3 SPOR [offline].png" group-title="", TRT3 SPOR [offline]
-https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRUE TENNIS" tvg-id="TRUE TENNIS" tvg-logo="https://live.fanmingming.com/tv/TRUE TENNIS.png" group-title="", TRUE TENNIS
 https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-id="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://live.fanmingming.com/tv/TSD Tv Arezzo(Tele San Domenico).png" group-title="", TSD Tv Arezzo(Tele San Domenico)
@@ -2307,8 +2313,6 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvju
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-name="VOA TV" tvg-id="VOA TV" tvg-logo="https://live.fanmingming.com/tv/VOA TV.png" group-title="", VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-name="VOICE OF LBN" tvg-id="VOICE OF LBN" tvg-logo="https://live.fanmingming.com/tv/VOICE OF LBN.png" group-title="", VOICE OF LBN
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VOSGES TV" tvg-id="VOSGES TV" tvg-logo="https://live.fanmingming.com/tv/VOSGES TV.png" group-title="", VOSGES TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-name="WALLA ! + (backup rescue)" tvg-id="WALLA ! + (backup rescue)" tvg-logo="https://live.fanmingming.com/tv/WALLA ! + (backup rescue).png" group-title="", WALLA ! + (backup rescue)
